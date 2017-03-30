@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Tumble Magnet"/>
+        <card number="1" price="0" name="Perilous Myr"/>
+        <card number="1" price="0" name="Origin Spellbomb"/>
+        <card number="1" price="0" name="Panic Spellbomb"/>
+        <card number="1" price="0" name="Moriok Replica"/>
+        <card number="1" price="0" name="Neurok Replica"/>
+        <card number="1" price="0" name="Sylvok Replica"/>
+        <card number="1" price="0" name="Vulshok Replica"/>
+    </zone>
+</cockatrice_deck>

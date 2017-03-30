@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Brango, King of Locks 2016</deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" price="0" name="Mox Pearl"/>
+        <card number="1" price="0" name="Weathered Wayfarer"/>
+        <card number="1" price="0" name="Oath of Jace"/>
+        <card number="1" price="0" name="Mystical Tutor"/>
+        <card number="1" price="0" name="Expedition Map"/>
+        <card number="1" price="0" name="Sun Titan"/>
+        <card number="1" price="0" name="Time Spiral"/>
+        <card number="1" price="0" name="Talisman of Progress"/>
+        <card number="1" price="0" name="Sphere of Resistance"/>
+        <card number="1" price="0" name="Muddle the Mixture"/>
+        <card number="1" price="0" name="Rest in Peace"/>
+        <card number="1" price="0" name="Ponder"/>
+        <card number="1" price="0" name="Wall of Omens"/>
+        <card number="1" price="0" name="Windfall"/>
+        <card number="1" price="0" name="Island"/>
+    </zone>
+    <zone name="main">
+        <card number="1" price="0" name="Azorius Signet"/>
+        <card number="1" price="0" name="Chrome Mox"/>
+        <card number="1" price="0" name="Cursed Totem"/>
+        <card number="1" price="0" name="Fellwar Stone"/>
+        <card number="1" price="0" name="Grafdigger's Cage"/>
+        <card number="1" price="0" name="Grim Monolith"/>
+        <card number="1" price="0" name="Helm of Obedience"/>
+        <card number="1" price="0" name="Lightning Greaves"/>
+        <card number="1" price="0" name="Mana Crypt"/>
+        <card number="1" price="0" name="Mana Vault"/>
+        <card number="1" price="0" name="Mana Web"/>
+        <card number="1" price="0" name="Mind Stone"/>
+        <card number="1" price="0" name="Mox Diamond"/>
+        <card number="1" price="0" name="Mox Opal"/>
+        <card number="1" price="0" name="Pithing Needle"/>
+        <card number="1" price="0" name="Sensei's Divining Top"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Sphere of Resistance"/>
+        <card number="1" price="0" name="Static Orb"/>
+        <card number="1" price="0" name="Strionic Resonator"/>
+        <card number="1" price="0" name="Swiftfoot Boots"/>
+        <card number="1" price="0" name="Talisman of Progress"/>
+        <card number="1" price="0" name="Tangle Wire"/>
+        <card number="1" price="0" name="Trinisphere"/>
+        <card number="1" price="0" name="Tsabo's Web"/>
+        <card number="1" price="0" name="Voltaic Key"/>
+        <card number="1" price="0" name="Winter Orb"/>
+        <card number="1" price="0" name="Day's Undoing"/>
+        <card number="1" price="0" name="Fabricate"/>
+        <card number="1" price="0" name="Open the Armory"/>
+        <card number="1" price="0" name="Reshape"/>
+        <card number="1" price="0" name="Steelshaper's Gift"/>
+        <card number="1" price="0" name="Timetwister"/>
+        <card number="1" price="0" name="Transmute Artifact"/>
+        <card number="1" price="0" name="Aura of Silence"/>
+        <card number="1" price="0" name="Back to Basics"/>
+        <card number="1" price="0" name="Frozen AEther"/>
+        <card number="1" price="0" name="Grasp of Fate"/>
+        <card number="1" price="0" name="Kismet"/>
+        <card number="1" price="0" name="Mystic Remora"/>
+        <card number="1" price="0" name="Parallax Tide"/>
+        <card number="1" price="0" name="Rhystic Study"/>
+        <card number="1" price="0" name="Stasis"/>
+        <card number="1" price="0" name="Brainstorm"/>
+        <card number="1" price="0" name="Cyclonic Rift"/>
+        <card number="1" price="0" name="Enlightened Tutor"/>
+        <card number="1" price="0" name="Swords to Plowshares"/>
+        <card number="1" price="0" name="Aven Mindcensor"/>
+        <card number="1" price="0" name="Grand Arbiter Augustin IV"/>
+        <card number="1" price="0" name="Brago, King Eternal"/>
+        <card number="1" price="0" name="Jace's Archivist"/>
+        <card number="1" price="0" name="Reflector Mage"/>
+        <card number="1" price="0" name="Rishadan Cutpurse"/>
+        <card number="1" price="0" name="Rishadan Footpad"/>
+        <card number="1" price="0" name="Sea Gate Oracle"/>
+        <card number="1" price="0" name="Thalia, Heretic Cathar"/>
+        <card number="1" price="0" name="Trinket Mage"/>
+        <card number="1" price="0" name="Venser, Shaper Savant"/>
+        <card number="1" price="0" name="Teferi, Temporal Archmage"/>
+        <card number="1" price="0" name="Tezzeret the Seeker"/>
+        <card number="1" price="0" name="Grand Abolisher"/>
+        <card number="1" price="0" name="Armageddon"/>
+        <card number="1" price="0" name="Hokori, Dust Drinker"/>
+        <card number="1" price="0" name="Loxodon Gatekeeper"/>
+        <card number="1" price="0" name="Mox Sapphire"/>
+        <card number="1" price="0" name="Blind Obedience"/>
+        <card number="1" price="0" name="Academy Ruins"/>
+        <card number="1" price="0" name="Adarkar Wastes"/>
+        <card number="1" price="0" name="Ancient Tomb"/>
+        <card number="1" price="0" name="Arid Mesa"/>
+        <card number="1" price="0" name="Cavern of Souls"/>
+        <card number="1" price="0" name="City of Brass"/>
+        <card number="1" price="0" name="Command Beacon"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Crystal Vein"/>
+        <card number="1" price="0" name="Flooded Strand"/>
+        <card number="1" price="0" name="Forbidden Orchard"/>
+        <card number="1" price="0" name="Hallowed Fountain"/>
+        <card number="3" price="0" name="Island"/>
+        <card number="1" price="0" name="Mana Confluence"/>
+        <card number="1" price="0" name="Marsh Flats"/>
+        <card number="1" price="0" name="Mishra's Workshop"/>
+        <card number="1" price="0" name="Misty Rainforest"/>
+        <card number="2" price="0" name="Plains"/>
+        <card number="1" price="0" name="Polluted Delta"/>
+        <card number="1" price="0" name="Reflecting Pool"/>
+        <card number="1" price="0" name="Scalding Tarn"/>
+        <card number="1" price="0" name="Strip Mine"/>
+        <card number="1" price="0" name="The Tabernacle at Pendrell Vale"/>
+        <card number="1" price="0" name="Tolaria West"/>
+        <card number="1" price="0" name="Tundra"/>
+        <card number="1" price="0" name="Windswept Heath"/>
+        <card number="1" price="0" name="Force of Will"/>
+        <card number="1" price="0" name="Pact of Negation"/>
+        <card number="1" price="0" name="Clever Impersonator"/>
+        <card number="1" price="0" name="Smokestack"/>
+        <card number="1" price="0" name="Tectonic Edge"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Jarad, Golgari Lich Lord"/>
+        <card number="1" price="0" name="Lotleth Troll"/>
+        <card number="1" price="0" name="Skullbriar, the Walking Grave"/>
+        <card number="1" price="0" name="Zombie Apocalypse"/>
+        <card number="1" price="0" name="Vulturous Zombie"/>
+        <card number="1" price="0" name="Ghoulcaller Gisa"/>
+        <card number="1" price="0" name="Ghoulcaller's Chant"/>
+        <card number="1" price="0" name="Ghoulraiser"/>
+        <card number="1" price="0" name="Cemetery Reaper"/>
+        <card number="1" price="0" name="Death Baron"/>
+        <card number="1" price="0" name="Fleshbag Marauder"/>
+        <card number="1" price="0" name="Geth, Lord of the Vault"/>
+        <card number="1" price="0" name="Grave Titan"/>
+        <card number="1" price="0" name="Gray Merchant of Asphodel"/>
+        <card number="1" price="0" name="Lord of the Undead"/>
+        <card number="1" price="0" name="Shepherd of Rot"/>
+        <card number="1" price="0" name="Undead Gladiator"/>
+        <card number="1" price="0" name="Undead Warchief"/>
+        <card number="1" price="0" name="Zombie Master"/>
+        <card number="1" price="0" name="Endless Ranks of the Dead"/>
+        <card number="1" price="0" name="Grave Betrayal"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Army of the Damned"/>
+        <card number="1" price="0" name="Urza's Incubator"/>
+        <card number="1" price="0" name="Gravecrawler"/>
+        <card number="1" price="0" name="Black Market"/>
+        <card number="1" price="0" name="Carrion Feeder"/>
+        <card number="1" price="0" name="Geralf's Messenger"/>
+        <card number="1" price="0" name="Gravespawn Sovereign"/>
+        <card number="1" price="0" name="Dark Prophecy"/>
+        <card number="1" price="0" name="Oversold Cemetery"/>
+        <card number="1" price="0" name="Phyrexian Altar"/>
+        <card number="1" price="0" name="Phyrexian Reclamation"/>
+        <card number="1" price="0" name="Life from the Loam"/>
+        <card number="1" price="0" name="Grisly Salvage"/>
+        <card number="1" price="0" name="Corpse Augur"/>
+        <card number="1" price="0" name="Mazirek, Kraul Death Priest"/>
+        <card number="1" price="0" name="Mulch"/>
+        <card number="1" price="0" name="Living Death"/>
+        <card number="1" price="0" name="Putrefy"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Miren, the Moaning Well"/>
+        <card number="1" price="0" name="High Market"/>
+        <card number="1" price="0" name="Bayou"/>
+        <card number="1" price="0" name="Verdant Catacombs"/>
+        <card number="1" price="0" name="Overgrown Tomb"/>
+        <card number="1" price="0" name="Golgari Guildgate"/>
+        <card number="1" price="0" name="Golgari Rot Farm"/>
+        <card number="1" price="0" name="Twilight Mire"/>
+        <card number="1" price="0" name="Woodland Cemetery"/>
+        <card number="1" price="0" name="Scourge of Nel Toth"/>
+        <card number="1" price="0" name="Golgari Charm"/>
+        <card number="1" price="0" name="Zulaport Cutthroat"/>
+        <card number="1" price="0" name="Collected Company"/>
+        <card number="1" price="0" name="Reliquary Tower"/>
+        <card number="1" price="0" name="Varolz, the Scar-Striped"/>
+        <card number="13" price="0" name="Swamp"/>
+        <card number="5" price="0" name="Forest"/>
+        <card number="1" price="0" name="Bloodghast"/>
+        <card number="1" price="0" name="Blood Artist"/>
+        <card number="1" price="0" name="Disciple of Bolas"/>
+        <card number="1" price="0" name="Reanimate"/>
+        <card number="1" price="0" name="Maelstrom Pulse"/>
+        <card number="1" price="0" name="Entomb"/>
+        <card number="1" price="0" name="Phyrexian Tower"/>
+        <card number="1" price="0" name="Bojuka Bog"/>
+        <card number="1" price="0" name="Vesuva"/>
+        <card number="1" price="0" name="Shizo, Death's Storehouse"/>
+        <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" price="0" name="Cabal Coffers"/>
+        <card number="1" price="0" name="Buried Alive"/>
+        <card number="1" price="0" name="Nihil Spellbomb"/>
+        <card number="1" price="0" name="Golgari Grave-Troll"/>
+        <card number="1" price="0" name="Glissa, the Traitor"/>
+        <card number="1" price="0" name="Shambling Shell"/>
+        <card number="1" price="0" name="Mikaeus, the Unhallowed"/>
+        <card number="1" price="0" name="Graveborn Muse"/>
+        <card number="1" price="0" name="Deathreap Ritual"/>
+        <card number="1" price="0" name="Cavern of Souls"/>
+        <card number="1" price="0" name="Cryptbreaker"/>
+        <card number="1" price="0" name="Diregraf Colossus"/>
+        <card number="1" price="0" name="Relentless Dead"/>
+        <card number="1" price="0" name="Risen Executioner"/>
+        <card number="1" price="0" name="Raving Dead"/>
+    </zone>
+</cockatrice_deck>

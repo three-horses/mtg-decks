@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Wee Dragonauts"/>
+        <card number="1" price="0" name="Izzet Chronarch"/>
+        <card number="1" price="0" name="Burning-Tree Bloodscale"/>
+        <card number="1" price="0" name="Scab-Clan Mauler"/>
+        <card number="1" price="0" name="Pillory of the Sleepless"/>
+        <card number="1" price="0" name="Blind Hunter"/>
+        <card number="1" price="0" name="Plumes of Peace"/>
+        <card number="1" price="0" name="Azorius First-Wing"/>
+        <card number="1" price="0" name="Minister of Impediments"/>
+        <card number="1" price="0" name="Overrule"/>
+        <card number="1" price="0" name="Vigean Hydropon"/>
+        <card number="1" price="0" name="Coiling Oracle"/>
+        <card number="1" price="0" name="Assault Zeppelid"/>
+        <card number="1" price="0" name="Rakdos Ickspitter"/>
+        <card number="1" price="0" name="Wrecking Ball"/>
+        <card number="1" price="0" name="Consult the Necrosages"/>
+        <card number="1" price="0" name="Perplex"/>
+        <card number="1" price="0" name="Golgari Rotwurm"/>
+        <card number="1" price="0" name="Shambling Shell"/>
+        <card number="1" price="0" name="Selesnya Evangel"/>
+        <card number="1" price="0" name="Scatter the Seeds"/>
+        <card number="1" price="0" name="Guardian of Vitu-Ghazi"/>
+        <card number="1" price="0" name="Skyknight Legionnaire"/>
+        <card number="1" price="0" name="Thundersong Trumpeter"/>
+        <card number="1" price="0" name="Faith's Fetters"/>
+    </zone>
+</cockatrice_deck>

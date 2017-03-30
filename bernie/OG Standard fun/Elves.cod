@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Glimpse of Nature"/>
+        <card number="4" price="0" name="Gaea's Cradle"/>
+        <card number="4" price="0" name="Elves of Deep Shadow"/>
+        <card number="4" price="0" name="Elvish Warrior"/>
+        <card number="4" price="0" name="Heritage Druid"/>
+        <card number="4" price="0" name="Priest of Titania"/>
+        <card number="3" price="0" name="Selesnya Guildmage"/>
+        <card number="3" price="0" name="Wood Elves"/>
+        <card number="4" price="0" name="Birds of Paradise"/>
+        <card number="3" price="0" name="Spiritmonger"/>
+        <card number="2" price="0" name="Penumbra Wurm"/>
+        <card number="4" price="0" name="Putrefy"/>
+        <card number="4" price="0" name="Overgrown Tomb"/>
+        <card number="4" price="0" name="Llanowar Wastes"/>
+        <card number="4" price="0" name="Forest"/>
+        <card number="1" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Mutavault"/>
+    </zone>
+</cockatrice_deck>

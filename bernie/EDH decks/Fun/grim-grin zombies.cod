@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Zombie Apocalypse"/>
+        <card number="1" price="0" name="Ghoulcaller Gisa"/>
+        <card number="1" price="0" name="Ghoulcaller's Chant"/>
+        <card number="1" price="0" name="Ghoulraiser"/>
+        <card number="1" price="0" name="Cemetery Reaper"/>
+        <card number="1" price="0" name="Death Baron"/>
+        <card number="1" price="0" name="Fleshbag Marauder"/>
+        <card number="1" price="0" name="Geth, Lord of the Vault"/>
+        <card number="1" price="0" name="Grave Titan"/>
+        <card number="1" price="0" name="Gray Merchant of Asphodel"/>
+        <card number="1" price="0" name="Lord of the Undead"/>
+        <card number="1" price="0" name="Shepherd of Rot"/>
+        <card number="1" price="0" name="Undead Gladiator"/>
+        <card number="1" price="0" name="Undead Warchief"/>
+        <card number="1" price="0" name="Zombie Master"/>
+        <card number="1" price="0" name="Endless Ranks of the Dead"/>
+        <card number="1" price="0" name="Grave Betrayal"/>
+        <card number="1" price="0" name="Quest for the Gravelord"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Army of the Damned"/>
+        <card number="1" price="0" name="Urza's Incubator"/>
+        <card number="1" price="0" name="Gravecrawler"/>
+        <card number="1" price="0" name="Black Market"/>
+        <card number="1" price="0" name="Carrion Feeder"/>
+        <card number="1" price="0" name="Geralf's Messenger"/>
+        <card number="1" price="0" name="Gravespawn Sovereign"/>
+        <card number="1" price="0" name="Attrition"/>
+        <card number="1" price="0" name="Oversold Cemetery"/>
+        <card number="1" price="0" name="Phyrexian Altar"/>
+        <card number="1" price="0" name="Phyrexian Reclamation"/>
+        <card number="1" price="0" name="Corpse Augur"/>
+        <card number="1" price="0" name="Living Death"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Miren, the Moaning Well"/>
+        <card number="1" price="0" name="High Market"/>
+        <card number="1" price="0" name="Scourge of Nel Toth"/>
+        <card number="1" price="0" name="Reliquary Tower"/>
+        <card number="11" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Bloodghast"/>
+        <card number="1" price="0" name="Blood Artist"/>
+        <card number="1" price="0" name="Disciple of Bolas"/>
+        <card number="1" price="0" name="Reanimate"/>
+        <card number="1" price="0" name="Phyrexian Tower"/>
+        <card number="1" price="0" name="Bojuka Bog"/>
+        <card number="1" price="0" name="Vesuva"/>
+        <card number="1" price="0" name="Shizo, Death's Storehouse"/>
+        <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" price="0" name="Cabal Coffers"/>
+        <card number="1" price="0" name="Buried Alive"/>
+        <card number="1" price="0" name="Nihil Spellbomb"/>
+        <card number="1" price="0" name="Mikaeus, the Unhallowed"/>
+        <card number="1" price="0" name="Graveborn Muse"/>
+        <card number="1" price="0" name="Deathrender"/>
+        <card number="1" price="0" name="Cavern of Souls"/>
+        <card number="1" price="0" name="Grimgrin, Corpse-Born"/>
+        <card number="1" price="0" name="Rooftop Storm"/>
+        <card number="1" price="0" name="Diregraf Captain"/>
+        <card number="1" price="0" name="Coffin Queen"/>
+        <card number="1" price="0" name="Corpse Connoisseur"/>
+        <card number="1" price="0" name="Corpse Harvester"/>
+        <card number="1" price="0" name="Havengul Lich"/>
+        <card number="1" price="0" name="Noxious Ghoul"/>
+        <card number="1" price="0" name="Twisted Abomination"/>
+        <card number="1" price="0" name="Vengeful Dead"/>
+        <card number="1" price="0" name="Vengeful Pharaoh"/>
+        <card number="1" price="0" name="Tombstone Stairwell"/>
+        <card number="1" price="0" name="Ashnod's Altar"/>
+        <card number="1" price="0" name="Soul Manipulation"/>
+        <card number="1" price="0" name="Call to the Grave"/>
+        <card number="1" price="0" name="Unholy Grotto"/>
+        <card number="1" price="0" name="Rogue's Passage"/>
+        <card number="1" price="0" name="Watery Grave"/>
+        <card number="1" price="0" name="Underground Sea"/>
+        <card number="1" price="0" name="Dimir Aqueduct"/>
+        <card number="1" price="0" name="Drowned Catacomb"/>
+        <card number="1" price="0" name="Darkslick Shores"/>
+        <card number="1" price="0" name="Jwar Isle Refuge"/>
+        <card number="6" price="0" name="Island"/>
+        <card number="1" price="0" name="Balthor the Defiled"/>
+        <card number="1" price="0" name="Lich Lord of Unx"/>
+        <card number="1" price="0" name="Phyrexian Delver"/>
+        <card number="1" price="0" name="Withered Wretch"/>
+        <card number="1" price="0" name="Gate to Phyrexia"/>
+        <card number="1" price="0" name="Fact or Fiction"/>
+        <card number="1" price="0" name="Compulsive Research"/>
+    </zone>
+</cockatrice_deck>

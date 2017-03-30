@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Nicol Bolas"/>
+        <card number="1" price="0" name="Nicol Bolas, Planeswalker"/>
+        <card number="1" price="0" name="Slave of Bolas"/>
+        <card number="1" price="0" name="Augur of Bolas"/>
+        <card number="1" price="0" name="Disciple of Bolas"/>
+        <card number="1" price="0" name="Tezzeret, Agent of Bolas"/>
+        <card number="1" price="0" name="Tezzeret the Schemer"/>
+        <card number="1" price="0" name="Tezzeret, Master of Metal"/>
+        <card number="1" price="0" name="Tezzeret's Simulacrum"/>
+        <card number="1" price="0" name="Tezzeret's Betrayal"/>
+        <card number="1" price="0" name="Tezzeret's Touch"/>
+        <card number="1" price="0" name="Tezzeret's Gambit"/>
+        <card number="1" price="0" name="Tezzeret the Seeker"/>
+        <card number="1" price="0" name="Tezzeret's Ambition"/>
+        <card number="1" price="0" name="Dark Intimations"/>
+        <card number="1" price="0" name="Blood Reckoning"/>
+        <card number="1" price="0" name="Cower in Fear"/>
+        <card number="1" price="0" name="Countersquall"/>
+        <card number="1" price="0" name="Imp's Mischief"/>
+        <card number="1" price="0" name="Magmaquake"/>
+        <card number="1" price="0" name="Mindclaw Shaman"/>
+        <card number="1" price="0" name="Rakka Mar"/>
+        <card number="1" price="0" name="Soul Manipulation"/>
+        <card number="1" price="0" name="Tormenting Voice"/>
+        <card number="1" price="0" name="Wit's End"/>
+        <card number="1" price="0" name="Cruel Ultimatum"/>
+        <card number="1" price="0" name="Deep Analysis"/>
+        <card number="1" price="0" name="Gem of Becoming"/>
+        <card number="1" price="0" name="Psychic Barrier"/>
+        <card number="1" price="0" name="Crux of Fate"/>
+        <card number="1" price="0" name="Syphon Mind"/>
+        <card number="1" price="0" name="Mind Control"/>
+        <card number="1" price="0" name="Mind Spring"/>
+        <card number="1" price="0" name="Mind's Dilation"/>
+        <card number="1" price="0" name="Grixis Charm"/>
+    </zone>
+</cockatrice_deck>

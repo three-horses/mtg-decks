@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Ancient Beasts - Zegana</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Prime Speaker Zegana"/>
+        <card number="1" price="0" name="Dictate of Karametra"/>
+        <card number="12" price="0" name="Island"/>
+        <card number="1" price="0" name="Simic Guildgate"/>
+        <card number="17" price="0" name="Forest"/>
+        <card number="1" price="0" name="Arbor Elf"/>
+        <card number="1" price="0" name="Deadeye Navigator"/>
+        <card number="1" price="0" name="Vigor"/>
+        <card number="1" price="0" name="Momentous Fall"/>
+        <card number="1" price="0" name="Elvish Visionary"/>
+        <card number="1" price="0" name="Brutalizer Exarch"/>
+        <card number="1" price="0" name="Darksteel Ingot"/>
+        <card number="1" price="0" name="Thassa, God of the Sea"/>
+        <card number="1" price="0" name="Fierce Empath"/>
+        <card number="1" price="0" name="Mana Reflection"/>
+        <card number="1" price="0" name="Harrow"/>
+        <card number="1" price="0" name="Rite of Replication"/>
+        <card number="1" price="0" name="Unstable Obelisk"/>
+        <card number="1" price="0" name="Kruphix, God of Horizons"/>
+        <card number="1" price="0" name="Simic Sky Swallower"/>
+        <card number="1" price="0" name="Thragtusk"/>
+        <card number="1" price="0" name="Beast Within"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Lorthos, the Tidemaker"/>
+        <card number="1" price="0" name="Llanowar Elves"/>
+        <card number="1" price="0" name="Unexpected Results"/>
+        <card number="1" price="0" name="Glen Elendra Archmage"/>
+        <card number="1" price="0" name="Rogue's Passage"/>
+        <card number="1" price="0" name="Clever Impersonator"/>
+        <card number="1" price="0" name="Kalonian Behemoth"/>
+        <card number="1" price="0" name="Breeding Pool"/>
+        <card number="1" price="0" name="Fauna Shaman"/>
+        <card number="1" price="0" name="Oracle of Mul Daya"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Elderscale Wurm"/>
+        <card number="1" price="0" name="Ranger's Path"/>
+        <card number="1" price="0" name="See the Unwritten"/>
+        <card number="1" price="0" name="Hydra Broodmaster"/>
+        <card number="1" price="0" name="Sylvan Caryatid"/>
+        <card number="1" price="0" name="Wolfbriar Elemental"/>
+        <card number="1" price="0" name="Temple of Mystery"/>
+        <card number="1" price="0" name="Green Sun's Zenith"/>
+        <card number="1" price="0" name="Thornwood Falls"/>
+        <card number="1" price="0" name="Praetor's Counsel"/>
+        <card number="1" price="0" name="Myriad Landscape"/>
+        <card number="1" price="0" name="Progenitor Mimic"/>
+        <card number="1" price="0" name="Sakura-Tribe Elder"/>
+        <card number="1" price="0" name="Garruk, Caller of Beasts"/>
+        <card number="1" price="0" name="Nature's Spiral"/>
+        <card number="1" price="0" name="Eternal Witness"/>
+        <card number="1" price="0" name="Fathom Mage"/>
+        <card number="1" price="0" name="Tromokratis"/>
+        <card number="1" price="0" name="Fertile Ground"/>
+        <card number="1" price="0" name="Icy Blast"/>
+        <card number="1" price="0" name="Rampant Growth"/>
+        <card number="1" price="0" name="Venser, Shaper Savant"/>
+        <card number="1" price="0" name="Summoning Trap"/>
+        <card number="1" price="0" name="Terastodon"/>
+        <card number="1" price="0" name="Inkwell Leviathan"/>
+        <card number="1" price="0" name="Somberwald Sage"/>
+        <card number="1" price="0" name="Alchemist's Refuge"/>
+        <card number="1" price="0" name="Pelakka Wurm"/>
+        <card number="1" price="0" name="Familiar's Ruse"/>
+        <card number="1" price="0" name="Artisan of Kozilek"/>
+        <card number="1" price="0" name="Halimar Depths"/>
+        <card number="1" price="0" name="Arcane Denial"/>
+        <card number="1" price="0" name="Nevinyrral's Disk"/>
+        <card number="1" price="0" name="Cyclonic Rift"/>
+        <card number="1" price="0" name="Everflowing Chalice"/>
+        <card number="1" price="0" name="Worldspine Wurm"/>
+        <card number="1" price="0" name="Caged Sun"/>
+        <card number="1" price="0" name="Misty Rainforest"/>
+        <card number="1" price="0" name="Doubling Season"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Prophet of Kruphix"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="5" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Open the Vaults"/>
+        <card number="1" price="0" name="Augury Owl"/>
+        <card number="7" price="0" name="Plains"/>
+        <card number="1" price="0" name="Darksteel Citadel"/>
+        <card number="8" price="0" name="Island"/>
+        <card number="1" price="0" name="Sharuum the Hegemon"/>
+        <card number="1" price="0" name="Platinum Angel"/>
+        <card number="1" price="0" name="Leonin Abunas"/>
+        <card number="1" price="0" name="Exotic Orchard"/>
+        <card number="1" price="0" name="Deflection"/>
+        <card number="1" price="0" name="Ancestral Vision"/>
+        <card number="1" price="0" name="Darksteel Ingot"/>
+        <card number="1" price="0" name="AEther Snap"/>
+        <card number="1" price="0" name="Stifle"/>
+        <card number="1" price="0" name="Dimir Aqueduct"/>
+        <card number="1" price="0" name="Argivian Restoration"/>
+        <card number="1" price="0" name="Phyrexian Rebirth"/>
+        <card number="1" price="0" name="Oblivion Ring"/>
+        <card number="1" price="0" name="Mirrorworks"/>
+        <card number="1" price="0" name="Phyrexian Metamorph"/>
+        <card number="1" price="0" name="Dictate of Erebos"/>
+        <card number="1" price="0" name="Deep Analysis"/>
+        <card number="1" price="0" name="Vedalken Orrery"/>
+        <card number="1" price="0" name="Burnished Hart"/>
+        <card number="1" price="0" name="Sharding Sphinx"/>
+        <card number="1" price="0" name="Imp's Mischief"/>
+        <card number="1" price="0" name="Magister Sphinx"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Tezzeret the Seeker"/>
+        <card number="1" price="0" name="Duplicant"/>
+        <card number="1" price="0" name="Opportunity"/>
+        <card number="1" price="0" name="Fatespinner"/>
+        <card number="1" price="0" name="Obelisk of Esper"/>
+        <card number="1" price="0" name="Master Transmuter"/>
+        <card number="1" price="0" name="Memnarch"/>
+        <card number="1" price="0" name="Azorius Cluestone"/>
+        <card number="1" price="0" name="Day of Judgment"/>
+        <card number="1" price="0" name="Jwar Isle Refuge"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Glaring Spotlight"/>
+        <card number="1" price="0" name="Darksteel Forge"/>
+        <card number="1" price="0" name="Contagion Engine"/>
+        <card number="1" price="0" name="Swords to Plowshares"/>
+        <card number="1" price="0" name="Shape Anew"/>
+        <card number="1" price="0" name="Fact or Fiction"/>
+        <card number="1" price="0" name="Return to Dust"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Counterspell"/>
+        <card number="1" price="0" name="Lux Cannon"/>
+        <card number="1" price="0" name="Mimic Vat"/>
+        <card number="1" price="0" name="Clone"/>
+        <card number="1" price="0" name="AEther Spellbomb"/>
+        <card number="1" price="0" name="Solemn Simulacrum"/>
+        <card number="1" price="0" name="Concentrate"/>
+        <card number="1" price="0" name="Seat of the Synod"/>
+        <card number="1" price="0" name="Jace Beleren"/>
+        <card number="1" price="0" name="Underground Sea"/>
+        <card number="1" price="0" name="Scrubland"/>
+        <card number="1" price="0" name="Tundra"/>
+        <card number="1" price="0" name="Hallowed Fountain"/>
+        <card number="1" price="0" name="Watery Grave"/>
+        <card number="1" price="0" name="Godless Shrine"/>
+        <card number="1" price="0" name="Flooded Strand"/>
+        <card number="1" price="0" name="Marsh Flats"/>
+        <card number="1" price="0" name="Polluted Delta"/>
+        <card number="1" price="0" name="Dispeller's Capsule"/>
+        <card number="1" price="0" name="Gilded Lotus"/>
+        <card number="1" price="0" name="Lightning Greaves"/>
+        <card number="1" price="0" name="Scourglass"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Unwinding Clock"/>
+        <card number="1" price="0" name="Baleful Strix"/>
+        <card number="1" price="0" name="Ethersworn Canonist"/>
+        <card number="1" price="0" name="Muzzio, Visionary Architect"/>
+        <card number="1" price="0" name="Sanctum Gargoyle"/>
+        <card number="1" price="0" name="Sphinx of the Steel Wind"/>
+        <card number="1" price="0" name="Wurmcoil Engine"/>
+        <card number="1" price="0" name="Academy Ruins"/>
+        <card number="1" price="0" name="Ancient Den"/>
+        <card number="1" price="0" name="Supreme Verdict"/>
+        <card number="1" price="0" name="Thoughtcast"/>
+        <card number="1" price="0" name="Masterwork of Ingenuity"/>
+    </zone>
+</cockatrice_deck>

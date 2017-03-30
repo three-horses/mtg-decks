@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Satyr Wayfinder"/>
+        <card number="1" price="0" name="Wall of Blossoms"/>
+        <card number="1" price="0" name="Coiling Oracle"/>
+        <card number="1" price="0" name="Thrasios, Triton Hero"/>
+        <card number="1" price="0" name="Goblin Spymaster"/>
+        <card number="1" price="0" name="Spellheart Chimera"/>
+        <card number="1" price="0" name="Vial Smasher the Fierce"/>
+        <card number="1" price="0" name="Academy Elite"/>
+        <card number="1" price="0" name="Gamekeeper"/>
+        <card number="1" price="0" name="Sangromancer"/>
+        <card number="1" price="0" name="Bloodbraid Elf"/>
+        <card number="1" price="0" name="Horizon Chimera"/>
+        <card number="1" price="0" name="Kydele, Chosen of Kruphix"/>
+        <card number="1" price="0" name="Glint-Eye Nephilim"/>
+        <card number="1" price="0" name="Aeon Chronicler"/>
+        <card number="1" price="0" name="Guiltfeeder"/>
+        <card number="1" price="0" name="Consuming Aberration"/>
+        <card number="1" price="0" name="Nath of the Gilt-Leaf"/>
+        <card number="1" price="0" name="Runehorn Hellkite"/>
+        <card number="1" price="0" name="Etherium-Horn Sorcerer"/>
+        <card number="1" price="0" name="Dragon Mage"/>
+        <card number="1" price="0" name="Blood Tyrant"/>
+        <card number="1" price="0" name="Wheel of Fate"/>
+        <card number="1" price="0" name="Windfall"/>
+        <card number="1" price="0" name="Parting Thoughts"/>
+        <card number="1" price="0" name="Far Wanderings"/>
+        <card number="1" price="0" name="Past in Flames"/>
+        <card number="1" price="0" name="Whispering Madness"/>
+        <card number="1" price="0" name="Decimate"/>
+        <card number="1" price="0" name="Devastation Tide"/>
+        <card number="1" price="0" name="Reforge the Soul"/>
+        <card number="1" price="0" name="Worm Harvest"/>
+        <card number="1" price="0" name="Spelltwine"/>
+        <card number="1" price="0" name="Whims of the Fates"/>
+        <card number="1" price="0" name="Grave Upheaval"/>
+        <card number="1" price="0" name="Cruel Entertainment"/>
+        <card number="1" price="0" name="Ghastly Conscription"/>
+        <card number="1" price="0" name="Volcanic Vision"/>
+        <card number="1" price="0" name="Treasure Cruise"/>
+        <card number="1" price="0" name="Treacherous Terrain"/>
+        <card number="1" price="0" name="Army of the Damned"/>
+        <card number="1" price="0" name="In Garruk's Wake"/>
+        <card number="1" price="0" name="Chain of Vapor"/>
+        <card number="1" price="0" name="Rakdos Charm"/>
+        <card number="1" price="0" name="Chaos Warp"/>
+        <card number="1" price="0" name="Ancient Excavation"/>
+        <card number="1" price="0" name="Evacuation"/>
+        <card number="1" price="0" name="Bituminous Blast"/>
+        <card number="1" price="0" name="Curtains' Call"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Fellwar Stone"/>
+        <card number="1" price="0" name="Rakdos Signet"/>
+        <card number="1" price="0" name="Simic Signet"/>
+        <card number="1" price="0" name="Chromatic Lantern"/>
+        <card number="1" price="0" name="Whispersilk Cloak"/>
+        <card number="1" price="0" name="Boompile"/>
+        <card number="1" price="0" name="Burgeoning"/>
+        <card number="1" price="0" name="Waste Not"/>
+        <card number="1" price="0" name="Frenzied Fugue"/>
+        <card number="1" price="0" name="Ash Barrens"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Crumbling Necropolis"/>
+        <card number="1" price="0" name="Dismal Backwater"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Exotic Orchard"/>
+        <card number="1" price="0" name="Frontier Bivouac"/>
+        <card number="1" price="0" name="Jungle Hollow"/>
+        <card number="1" price="0" name="Opulent Palace"/>
+        <card number="1" price="0" name="Rakdos Carnarium"/>
+        <card number="1" price="0" name="Reliquary Tower"/>
+        <card number="1" price="0" name="Rugged Highlands"/>
+        <card number="1" price="0" name="Rupture Spire"/>
+        <card number="1" price="0" name="Savage Lands"/>
+        <card number="1" price="0" name="Shadowblood Ridge"/>
+        <card number="1" price="0" name="Simic Growth Chamber"/>
+        <card number="1" price="0" name="Swiftwater Cliffs"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Thornwood Falls"/>
+        <card number="5" price="0" name="Island"/>
+        <card number="1" price="0" name="Swamp Mosquito"/>
+        <card number="5" price="0" name="Swamp"/>
+        <card number="5" price="0" name="Mountain"/>
+        <card number="5" price="0" name="Forest"/>
+        <card number="1" price="0" name="Yidris, Maelstrom Wielder"/>
+    </zone>
+</cockatrice_deck>

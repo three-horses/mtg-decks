@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Exploration"/>
+        <card number="3" price="0" name="Phyrexian Arena"/>
+        <card number="4" price="0" name="Pacifism"/>
+        <card number="4" price="0" name="Argothian Enchantress"/>
+        <card number="3" price="0" name="Serra's Sanctum"/>
+        <card number="4" price="0" name="Birds of Paradise"/>
+        <card number="4" price="0" name="Bitterblossom"/>
+        <card number="4" price="0" name="Temple Garden"/>
+        <card number="4" price="0" name="Overgrown Tomb"/>
+        <card number="5" price="0" name="Forest"/>
+        <card number="2" price="0" name="Caves of Koilos"/>
+        <card number="3" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="4" price="0" name="Ghostly Prison"/>
+        <card number="1" price="0" name="Worship"/>
+        <card number="1" price="0" name="Fecundity"/>
+        <card number="4" price="0" name="Fertile Ground"/>
+        <card number="2" price="0" name="Faith's Fetters"/>
+        <card number="2" price="0" name="Honden of Life's Web"/>
+        <card number="2" price="0" name="Honden of Cleansing Fire"/>
+        <card number="2" price="0" name="Eladamri's Call"/>
+    </zone>
+</cockatrice_deck>

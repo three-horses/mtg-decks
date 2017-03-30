@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Uril, your Mum's stalker 2016</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Uril, the Miststalker"/>
+        <card number="1" price="0" name="Karmic Justice"/>
+        <card number="1" price="0" name="Elephant Grass"/>
+        <card number="1" price="0" name="Armadillo Cloak"/>
+        <card number="1" price="0" name="Shiv's Embrace"/>
+        <card number="1" price="0" name="Kor Spiritdancer"/>
+        <card number="1" price="0" name="Celestial Ancient"/>
+        <card number="1" price="0" name="Eidolon of Blossoms"/>
+        <card number="1" price="0" name="Rancor"/>
+        <card number="1" price="0" name="Graceblade Artisan"/>
+        <card number="1" price="0" name="Explosive Vegetation"/>
+        <card number="1" price="0" name="Mina and Denn, Wildborn"/>
+        <card number="1" price="0" name="Nimbus Wings"/>
+        <card number="1" price="0" name="Harrow"/>
+        <card number="1" price="0" name="Tajuru Preserver"/>
+        <card number="1" price="0" name="Oblivion Ring"/>
+        <card number="1" price="0" name="Farseek"/>
+        <card number="1" price="0" name="Open the Vaults"/>
+        <card number="1" price="0" name="Battle Mastery"/>
+        <card number="1" price="0" name="Dawn to Dusk"/>
+        <card number="1" price="0" name="Snake Umbra"/>
+        <card number="1" price="0" name="Spirit Mantle"/>
+        <card number="1" price="0" name="Hopeful Eidolon"/>
+        <card number="1" price="0" name="Nylea's Emissary"/>
+        <card number="1" price="0" name="Eidolon of Countless Battles"/>
+        <card number="1" price="0" name="Nyxborn Wolf"/>
+        <card number="1" price="0" name="Sage's Reverie"/>
+        <card number="1" price="0" name="Thrun, the Last Troll"/>
+        <card number="1" price="0" name="Ethereal Armor"/>
+        <card number="1" price="0" name="Ghostblade Eidolon"/>
+        <card number="1" price="0" name="Messenger's Speed"/>
+        <card number="1" price="0" name="Bear Umbra"/>
+        <card number="1" price="0" name="Mesa Enchantress"/>
+        <card number="1" price="0" name="Unflinching Courage"/>
+        <card number="1" price="0" name="Enchantress's Presence"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Vexing Shusher"/>
+        <card number="1" price="0" name="Retether"/>
+        <card number="1" price="0" name="Epic Proportions"/>
+        <card number="1" price="0" name="Boar Umbra"/>
+        <card number="1" price="0" name="Umbra Mystic"/>
+        <card number="1" price="0" name="Elephant Guide"/>
+        <card number="1" price="0" name="Runes of the Deus"/>
+        <card number="1" price="0" name="Rampant Growth"/>
+        <card number="1" price="0" name="Oracle of Mul Daya"/>
+        <card number="1" price="0" name="Shield of the Oversoul"/>
+        <card number="1" price="0" name="Open the Armory"/>
+        <card number="1" price="0" name="Herald of the Pantheon"/>
+        <card number="1" price="0" name="Unquestioned Authority"/>
+        <card number="1" price="0" name="Ancestral Mask"/>
+        <card number="1" price="0" name="Verduran Enchantress"/>
+        <card number="1" price="0" name="Second Sunrise"/>
+        <card number="1" price="0" name="Sterling Grove"/>
+        <card number="1" price="0" name="Daybreak Coronet"/>
+        <card number="1" price="0" name="Argothian Enchantress"/>
+        <card number="1" price="0" name="Sigarda, Host of Herons"/>
+        <card number="1" price="0" name="Path to Exile"/>
+        <card number="1" price="0" name="Faith's Reward"/>
+        <card number="1" price="0" name="Mirari's Wake"/>
+        <card number="1" price="0" name="Exploration"/>
+        <card number="1" price="0" name="Privileged Position"/>
+        <card number="1" price="0" name="Chromatic Lantern"/>
+        <card number="1" price="0" name="Temple Garden"/>
+        <card number="1" price="0" name="Stomping Ground"/>
+        <card number="1" price="0" name="Sacred Foundry"/>
+        <card number="1" price="0" name="Cinder Glade"/>
+        <card number="1" price="0" name="Canopy Vista"/>
+        <card number="1" price="0" name="Sunhome, Fortress of the Legion"/>
+        <card number="1" price="0" name="Wasteland"/>
+        <card number="1" price="0" name="Strip Mine"/>
+        <card number="1" price="0" name="Wooded Foothills"/>
+        <card number="1" price="0" name="Windswept Heath"/>
+        <card number="1" price="0" name="Temple of the False God"/>
+        <card number="1" price="0" name="Rogue's Passage"/>
+        <card number="1" price="0" name="Arid Mesa"/>
+        <card number="1" price="0" name="Savannah"/>
+        <card number="1" price="0" name="Taiga"/>
+        <card number="1" price="0" name="Plateau"/>
+        <card number="1" price="0" name="Kessig Wolf Run"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Temple of Abandon"/>
+        <card number="1" price="0" name="Wooded Bastion"/>
+        <card number="1" price="0" name="Rugged Prairie"/>
+        <card number="1" price="0" name="Fire-Lit Thicket"/>
+        <card number="1" price="0" name="Reflecting Pool"/>
+        <card number="1" price="0" name="Serra's Sanctum"/>
+        <card number="6" price="0" name="Forest"/>
+        <card number="4" price="0" name="Plains"/>
+        <card number="3" price="0" name="Mountain"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Archetype of Aggression"/>
+        <card number="1" price="0" name="Prowler's Helm"/>
+        <card number="1" price="0" name="Armed // Dangerous"/>
+        <card number="1" price="0" name="Reviving Melody"/>
+        <card number="1" price="0" name="Celestial Archon"/>
+        <card number="1" price="0" name="Dowsing Shaman"/>
+        <card number="1" price="0" name="Everflame Eidolon"/>
+        <card number="1" price="0" name="Noble Quarry"/>
+        <card number="1" price="0" name="Nyxborn Shieldmate"/>
+        <card number="1" price="0" name="Ordeal of Purphoros"/>
+        <card number="1" price="0" name="Centaur Battlemaster"/>
+        <card number="1" price="0" name="Observant Alseid"/>
+        <card number="1" price="0" name="Chained to the Rocks"/>
+        <card number="1" price="0" name="Dragon Grip"/>
+        <card number="1" price="0" name="Mortal Obstinacy"/>
+        <card number="1" price="0" name="Ordeal of Nylea"/>
+        <card number="1" price="0" name="Winds of Rath"/>
+        <card number="1" price="0" name="Astral Cornucopia"/>
+        <card number="1" price="0" name="Sylvan Caryatid"/>
+        <card number="1" price="0" name="Eldrazi Conscription"/>
+        <card number="1" price="0" name="Feral Invocation"/>
+        <card number="1" price="0" name="Swords to Plowshares"/>
+    </zone>
+</cockatrice_deck>

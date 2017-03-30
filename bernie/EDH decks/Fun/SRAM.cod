@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Sram, Senior Edificer"/>
+        <card number="1" price="0" name="Swords to Plowshares"/>
+        <card number="1" price="0" name="Hyena Umbra"/>
+        <card number="1" price="0" name="Emeria, the Sky Ruin"/>
+        <card number="1" price="0" name="Emeria Angel"/>
+        <card number="1" price="0" name="Flickering Ward"/>
+        <card number="1" price="0" name="Puresteel Paladin"/>
+        <card number="1" price="0" name="Sigarda's Aid"/>
+        <card number="1" price="0" name="Ethereal Armor"/>
+        <card number="1" price="0" name="Darksteel Mutation"/>
+        <card number="1" price="0" name="Spirit Mantle"/>
+        <card number="1" price="0" name="Champion's Helm"/>
+        <card number="1" price="0" name="Sword of the Animist"/>
+        <card number="1" price="0" name="Steelshaper's Gift"/>
+        <card number="1" price="0" name="Open the Armory"/>
+        <card number="1" price="0" name="Masterwork of Ingenuity"/>
+        <card number="1" price="0" name="Umezawa's Jitte"/>
+        <card number="1" price="0" name="Paradise Mantle"/>
+        <card number="1" price="0" name="Swiftfoot Boots"/>
+        <card number="1" price="0" name="Lightning Greaves"/>
+        <card number="1" price="0" name="Sun Titan"/>
+        <card number="1" price="0" name="Stoneforge Mystic"/>
+        <card number="1" price="0" name="Loxodon Warhammer"/>
+        <card number="1" price="0" name="Sword of Feast and Famine"/>
+        <card number="1" price="0" name="Land Tax"/>
+        <card number="1" price="0" name="Return to Dust"/>
+        <card number="1" price="0" name="Grand Abolisher"/>
+        <card number="1" price="0" name="Path to Exile"/>
+        <card number="1" price="0" name="Skullclamp"/>
+        <card number="1" price="0" name="Batterskull"/>
+        <card number="1" price="0" name="Stonehewer Giant"/>
+        <card number="1" price="0" name="Mother of Runes"/>
+        <card number="1" price="0" name="Auriok Steelshaper"/>
+        <card number="1" price="0" name="Silverblade Paladin"/>
+        <card number="1" price="0" name="Leonin Shikari"/>
+        <card number="1" price="0" name="Weathered Wayfarer"/>
+        <card number="1" price="0" name="Knight of the White Orchid"/>
+        <card number="1" price="0" name="Foundry Inspector"/>
+        <card number="1" price="0" name="Kemba, Kha Regent"/>
+        <card number="1" price="0" name="Thalia, Heretic Cathar"/>
+        <card number="1" price="0" name="Heliod's Pilgrim"/>
+        <card number="1" price="0" name="Recruiter of the Guard"/>
+        <card number="1" price="0" name="Eight-and-a-Half-Tails"/>
+        <card number="1" price="0" name="Serra Ascendant"/>
+        <card number="1" price="0" name="Umbra Mystic"/>
+        <card number="1" price="0" name="Brass Squire"/>
+        <card number="1" price="0" name="Eidolon of Countless Battles"/>
+        <card number="1" price="0" name="Stone Haven Outfitter"/>
+        <card number="1" price="0" name="Hero of Iroas"/>
+        <card number="1" price="0" name="Karmic Guide"/>
+        <card number="1" price="0" name="Dispatch"/>
+        <card number="1" price="0" name="Open the Vaults"/>
+        <card number="1" price="0" name="Sword of Fire and Ice"/>
+        <card number="1" price="0" name="Darksteel Plate"/>
+        <card number="1" price="0" name="Strata Scythe"/>
+        <card number="1" price="0" name="Fireshrieker"/>
+        <card number="1" price="0" name="Basilisk Collar"/>
+        <card number="1" price="0" name="Cathar's Shield"/>
+        <card number="1" price="0" name="Spidersilk Net"/>
+        <card number="1" price="0" name="Helm of the Gods"/>
+        <card number="1" price="0" name="Godsend"/>
+        <card number="1" price="0" name="Whispersilk Cloak"/>
+        <card number="1" price="0" name="Infiltration Lens"/>
+        <card number="1" price="0" name="Kite Shield"/>
+        <card number="16" price="0" name="Snow-Covered Plains"/>
+        <card number="1" price="0" name="Gift of Immortality"/>
+        <card number="1" price="0" name="Angelic Destiny"/>
+        <card number="1" price="0" name="Prison Term"/>
+        <card number="1" price="0" name="Rogue's Passage"/>
+        <card number="1" price="0" name="Buried Ruin"/>
+        <card number="1" price="0" name="Secluded Steppe"/>
+        <card number="1" price="0" name="Reliquary Tower"/>
+        <card number="1" price="0" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" price="0" name="Temple of the False God"/>
+        <card number="1" price="0" name="Inventors' Fair"/>
+        <card number="1" price="0" name="Strip Mine"/>
+        <card number="1" price="0" name="Drifting Meadow"/>
+        <card number="1" price="0" name="Ancient Tomb"/>
+        <card number="1" price="0" name="Arcane Lighthouse"/>
+        <card number="1" price="0" name="Ancient Den"/>
+        <card number="1" price="0" name="Ghost Quarter"/>
+        <card number="1" price="0" name="Myriad Landscape"/>
+        <card number="1" price="0" name="Flagstones of Trokair"/>
+        <card number="1" price="0" name="Homeward Path"/>
+        <card number="1" price="0" name="Kor Haven"/>
+    </zone>
+</cockatrice_deck>

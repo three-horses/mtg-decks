@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mighty Morphin' Power Rangers</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Child of Alara"/>
+        <card number="1" price="0" name="Elspeth, Sun's Champion"/>
+        <card number="1" price="0" name="Jace, Architect of Thought"/>
+        <card number="1" price="0" name="Liliana of the Veil"/>
+        <card number="1" price="0" name="Chandra, Pyromaster"/>
+        <card number="1" price="0" name="Ugin, the Spirit Dragon"/>
+        <card number="1" price="0" name="Garruk, Caller of Beasts"/>
+        <card number="1" price="0" name="All Is Dust"/>
+        <card number="1" price="0" name="Ainok Survivalist"/>
+        <card number="1" price="0" name="Akroma, Angel of Fury"/>
+        <card number="1" price="0" name="Backslide"/>
+        <card number="1" price="0" name="Bane of the Living"/>
+        <card number="1" price="0" name="Cabal Executioner"/>
+        <card number="1" price="0" name="Chromeshell Crab"/>
+        <card number="1" price="0" name="Deathmist Raptor"/>
+        <card number="1" price="0" name="Den Protector"/>
+        <card number="1" price="0" name="Fortune Thief"/>
+        <card number="1" price="0" name="Headhunter"/>
+        <card number="1" price="0" name="Hidden Dragonslayer"/>
+        <card number="1" price="0" name="Ironfist Crusher"/>
+        <card number="1" price="0" name="Karona's Zealot"/>
+        <card number="1" price="0" name="Kheru Spellsnatcher"/>
+        <card number="1" price="0" name="Master of the Veil"/>
+        <card number="1" price="0" name="Mischievous Quanar"/>
+        <card number="1" price="0" name="Primal Whisperer"/>
+        <card number="1" price="0" name="Riptide Entrancer"/>
+        <card number="1" price="0" name="Thousand Winds"/>
+        <card number="1" price="0" name="Unblinking Bleb"/>
+        <card number="1" price="0" name="Vesuvan Shapeshifter"/>
+        <card number="1" price="0" name="Weaver of Lies"/>
+        <card number="1" price="0" name="Willbender"/>
+        <card number="1" price="0" name="Zoetic Cavern"/>
+        <card number="1" price="0" name="Ixidor, Reality Sculptor"/>
+        <card number="1" price="0" name="Ixidron"/>
+        <card number="1" price="0" name="Dream Chisel"/>
+        <card number="1" price="0" name="Aphetto Runecaster"/>
+        <card number="1" price="0" name="Voidmage Apprentice"/>
+        <card number="1" price="0" name="Edric, Spymaster of Trest"/>
+        <card number="1" price="0" name="Icefeather Aven"/>
+        <card number="1" price="0" name="Mirari's Wake"/>
+        <card number="1" price="0" name="Aura Shards"/>
+        <card number="1" price="0" name="Oblivion Ring"/>
+        <card number="1" price="0" name="Beacon of Unrest"/>
+        <card number="1" price="0" name="Loxodon Warhammer"/>
+        <card number="1" price="0" name="Hallowed Fountain"/>
+        <card number="1" price="0" name="Watery Grave"/>
+        <card number="1" price="0" name="Blood Crypt"/>
+        <card number="1" price="0" name="Stomping Ground"/>
+        <card number="1" price="0" name="Temple Garden"/>
+        <card number="1" price="0" name="Godless Shrine"/>
+        <card number="1" price="0" name="Steam Vents"/>
+        <card number="1" price="0" name="Overgrown Tomb"/>
+        <card number="1" price="0" name="Sacred Foundry"/>
+        <card number="1" price="0" name="Breeding Pool"/>
+        <card number="1" price="0" name="Flooded Strand"/>
+        <card number="1" price="0" name="Polluted Delta"/>
+        <card number="1" price="0" name="Bloodstained Mire"/>
+        <card number="1" price="0" name="Wooded Foothills"/>
+        <card number="1" price="0" name="Windswept Heath"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Boreal Shelf"/>
+        <card number="1" price="0" name="Frost Marsh"/>
+        <card number="1" price="0" name="Tresserhorn Sinks"/>
+        <card number="1" price="0" name="Highland Weald"/>
+        <card number="1" price="0" name="Arctic Flats"/>
+        <card number="1" price="0" name="Alchemist's Refuge"/>
+        <card number="1" price="0" name="Bojuka Bog"/>
+        <card number="1" price="0" name="Grafdigger's Cage"/>
+        <card number="1" price="0" name="Dark Depths"/>
+        <card number="1" price="0" name="AEther Snap"/>
+        <card number="1" price="0" name="Reflecting Pool"/>
+        <card number="1" price="0" name="Vesuva"/>
+        <card number="1" price="0" name="Thespian's Stage"/>
+        <card number="1" price="0" name="Sunhome, Fortress of the Legion"/>
+        <card number="2" price="0" name="Forest"/>
+        <card number="2" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Island"/>
+        <card number="2" price="0" name="Plains"/>
+        <card number="1" price="0" name="Ghastly Conscription"/>
+        <card number="1" price="0" name="Secret Plans"/>
+        <card number="1" price="0" name="Solemn Simulacrum"/>
+        <card number="1" price="0" name="Cryptic Command"/>
+        <card number="1" price="0" name="Fact or Fiction"/>
+        <card number="1" price="0" name="Dreamstone Hedron"/>
+        <card number="1" price="0" name="Skyshroud Claim"/>
+        <card number="1" price="0" name="Trail of Mystery"/>
+        <card number="1" price="0" name="Teferi, Mage of Zhalfir"/>
+        <card number="1" price="0" name="Well of Ideas"/>
+        <card number="1" price="0" name="Promise of Power"/>
+        <card number="1" price="0" name="Commander's Sphere"/>
+        <card number="1" price="0" name="Ready // Willing"/>
+        <card number="1" price="0" name="Vault of the Archangel"/>
+        <card number="1" price="0" name="Vedalken Orrery"/>
+        <card number="1" price="0" name="Skirk Alarmist"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Ashcloud Phoenix"/>
+        <card number="1" price="0" name="Broodhatch Nantuko"/>
+        <card number="1" price="0" name="Exalted Angel"/>
+        <card number="1" price="0" name="Grim Haruspex"/>
+        <card number="1" price="0" name="Nantuko Vigilante"/>
+        <card number="1" price="0" name="Kodama's Reach"/>
+        <card number="1" price="0" name="Jeering Instigator"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Weathered Bodyguards"/>
+        <card number="1" price="0" name="Animar, Soul of Elements"/>
+    </zone>
+</cockatrice_deck>
