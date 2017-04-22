@@ -86,7 +86,7 @@
         <card number="1" price="0" name="Femeref Enchantress"/>
         <card number="1" price="0" name="Laboratory Maniac"/>
         <card number="1" price="0" name="Forbidden Orchard"/>
-        <card number="1" price="0" name="Leyline of the Void"/>
         <card number="1" price="0" name="Opalescence"/>
+        <card number="1" price="0" name="Wrath of God"/>
     </zone>
 </cockatrice_deck>
