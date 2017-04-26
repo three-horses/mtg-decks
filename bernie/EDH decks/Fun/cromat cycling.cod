@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Archfiend of Ifnir"/>
+        <card number="1" price="0" name="Astral Slide"/>
+        <card number="1" price="0" name="Bant Sojourners"/>
+        <card number="1" price="0" name="Choking Tethers"/>
+        <card number="1" price="0" name="Complicate"/>
+        <card number="1" price="0" name="Curator of Mysteries"/>
+        <card number="1" price="0" name="Decree of Justice"/>
+        <card number="1" price="0" name="Decree of Pain"/>
+        <card number="1" price="0" name="Decree of Silence"/>
+        <card number="1" price="0" name="Drake Haven"/>
+        <card number="1" price="0" name="Esper Sojourners"/>
+        <card number="1" price="0" name="Faith of the Devoted"/>
+        <card number="1" price="0" name="Grixis Sojourners"/>
+        <card number="1" price="0" name="Horror of the Broken Lands"/>
+        <card number="1" price="0" name="Krosan Tusker"/>
+        <card number="1" price="0" name="Renewed Faith"/>
+        <card number="1" price="0" name="Resounding Silence"/>
+        <card number="1" price="0" name="Resounding Thunder"/>
+        <card number="1" price="0" name="Resounding Wave"/>
+        <card number="1" price="0" name="Shadow of the Grave"/>
+        <card number="1" price="0" name="Shefet Monitor"/>
+        <card number="1" price="0" name="Slice and Dice"/>
+        <card number="1" price="0" name="Vizier of Tumbling Sands"/>
+        <card number="1" price="0" name="Akroma's Vengeance"/>
+        <card number="1" price="0" name="Ancient Excavation"/>
+        <card number="1" price="0" name="Angelsong"/>
+        <card number="1" price="0" name="Ash Barrens"/>
+        <card number="1" price="0" name="Barren Moor"/>
+        <card number="1" price="0" name="Crucible of Worlds"/>
+        <card number="1" price="0" name="Life from the Loam"/>
+        <card number="1" price="0" name="Brand"/>
+        <card number="1" price="0" name="Break Asunder"/>
+        <card number="1" price="0" name="Canyon Slough"/>
+        <card number="1" price="0" name="Cast Out"/>
+        <card number="1" price="0" name="Censor"/>
+        <card number="1" price="0" name="Dissenter's Deliverance"/>
+        <card number="1" price="0" name="Drifting Meadow"/>
+        <card number="1" price="0" name="Edge of Autumn"/>
+        <card number="1" price="0" name="Eternal Dragon"/>
+        <card number="1" price="0" name="Essence Fracture"/>
+        <card number="1" price="0" name="Expunge"/>
+        <card number="1" price="0" name="Fade from Memory"/>
+        <card number="1" price="0" name="Fetid Pools"/>
+        <card number="1" price="0" name="Fluctuator"/>
+        <card number="1" price="0" name="Forgotten Cave"/>
+        <card number="1" price="0" name="Forsake the Worldly"/>
+        <card number="1" price="0" name="Grave Upheaval"/>
+        <card number="1" price="0" name="Hieroglyphic Illumination"/>
+        <card number="1" price="0" name="Hush"/>
+        <card number="1" price="0" name="Irrigated Farmland"/>
+        <card number="1" price="0" name="Ichor Slick"/>
+        <card number="1" price="0" name="Lay Claim"/>
+        <card number="1" price="0" name="Lonely Sandbar"/>
+        <card number="1" price="0" name="Lull"/>
+        <card number="1" price="0" name="Miscalculation"/>
+        <card number="1" price="0" name="New Perspectives"/>
+        <card number="1" price="0" name="Migratory Route"/>
+        <card number="1" price="0" name="Rebuild"/>
+        <card number="1" price="0" name="Radiant's Judgment"/>
+        <card number="1" price="0" name="Rescind"/>
+        <card number="1" price="0" name="Sacred Excavation"/>
+        <card number="1" price="0" name="Scarab Feast"/>
+        <card number="1" price="0" name="Scattered Groves"/>
+        <card number="1" price="0" name="Secluded Steppe"/>
+        <card number="1" price="0" name="Sheltered Thicket"/>
+        <card number="1" price="0" name="Slippery Karst"/>
+        <card number="1" price="0" name="Smoldering Crater"/>
+        <card number="1" price="0" name="Starstorm"/>
+        <card number="1" price="0" name="Tranquil Thicket"/>
+        <card number="1" price="0" name="Sylvan Reclamation"/>
+        <card number="1" price="0" name="Treacherous Terrain"/>
+        <card number="1" price="0" name="Unearth"/>
+        <card number="1" price="0" name="Undead Gladiator"/>
+        <card number="1" price="0" name="Wander in Death"/>
+        <card number="1" price="0" name="Child of Alara"/>
+        <card number="1" price="0" name="Flooded Strand"/>
+        <card number="1" price="0" name="Arid Mesa"/>
+        <card number="1" price="0" name="Marsh Flats"/>
+        <card number="1" price="0" name="Windswept Heath"/>
+        <card number="1" price="0" name="Misty Rainforest"/>
+        <card number="1" price="0" name="Scalding Tarn"/>
+        <card number="1" price="0" name="Polluted Delta"/>
+        <card number="1" price="0" name="Verdant Catacombs"/>
+        <card number="1" price="0" name="Bloodstained Mire"/>
+        <card number="1" price="0" name="Wooded Foothills"/>
+        <card number="1" price="0" name="Tundra"/>
+        <card number="1" price="0" name="Plateau"/>
+        <card number="1" price="0" name="Scrubland"/>
+        <card number="1" price="0" name="Savannah"/>
+        <card number="1" price="0" name="Volcanic Island"/>
+        <card number="1" price="0" name="Tropical Island"/>
+        <card number="1" price="0" name="Underground Sea"/>
+        <card number="1" price="0" name="Badlands"/>
+        <card number="1" price="0" name="Bayou"/>
+        <card number="1" price="0" name="Taiga"/>
+        <card number="2" price="0" name="Forest"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Watery Grave"/>
+    </zone>
+</cockatrice_deck>
