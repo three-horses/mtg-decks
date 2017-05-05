@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Jori En, Ruin Diver"/>
+        <card number="1" price="0" name="Aether Theorist"/>
+        <card number="1" price="0" name="Aethersquall Ancient"/>
+        <card number="1" price="0" name="Aetherworks Marvel"/>
+        <card number="1" price="0" name="Aethertide Whale"/>
+        <card number="1" price="0" name="Aethertorch Renegade"/>
+        <card number="1" price="0" name="Baral, Chief of Compliance"/>
+        <card number="1" price="0" name="Baral's Expertise"/>
+        <card number="1" price="0" name="Bedlam Reveler"/>
+        <card number="1" price="0" name="Combustible Gearhulk"/>
+        <card number="1" price="0" name="Torrential Gearhulk"/>
+        <card number="1" price="0" name="Curator of Mysteries"/>
+        <card number="1" price="0" name="Curious Homunculus"/>
+        <card number="1" price="0" name="Docent of Perfection"/>
+        <card number="1" price="0" name="Aetherflux Reservoir"/>
+        <card number="1" price="0" name="Anticipate"/>
+        <card number="1" price="0" name="As Foretold"/>
+        <card number="1" price="0" name="Blighted Cataract"/>
+        <card number="1" price="0" name="Blighted Gorge"/>
+        <card number="1" price="0" name="Brain in a Jar"/>
+        <card number="1" price="0" name="By Force"/>
+        <card number="1" price="0" name="Censor"/>
+        <card number="1" price="0" name="Chandra, Flamecaller"/>
+        <card number="1" price="0" name="Chandra, Torch of Defiance"/>
+        <card number="1" price="0" name="Coastal Discovery"/>
+        <card number="1" price="0" name="Collective Defiance"/>
+        <card number="1" price="0" name="Comparative Analysis"/>
+        <card number="1" price="0" name="Confirm Suspicions"/>
+        <card number="1" price="0" name="Confiscation Coup"/>
+        <card number="1" price="0" name="Crush of Tentacles"/>
+        <card number="1" price="0" name="Cultivator's Caravan"/>
+        <card number="1" price="0" name="Dispel"/>
+        <card number="1" price="0" name="Disallow"/>
+        <card number="1" price="0" name="Drake Haven"/>
+        <card number="1" price="0" name="Drowner of Hope"/>
+        <card number="1" price="0" name="Dynavolt Tower"/>
+        <card number="1" price="0" name="Elder Deep-Fiend"/>
+        <card number="1" price="0" name="Engulf the Shore"/>
+        <card number="1" price="0" name="Enigma Drake"/>
+        <card number="1" price="0" name="Fevered Visions"/>
+        <card number="1" price="0" name="Fortune's Favor"/>
+        <card number="1" price="0" name="Forgotten Creation"/>
+        <card number="1" price="0" name="Geistblast"/>
+        <card number="1" price="0" name="Ghostly Wings"/>
+        <card number="1" price="0" name="Glimmer of Genius"/>
+        <card number="1" price="0" name="Glassblower's Puzzleknot"/>
+        <card number="1" price="0" name="Glyph Keeper"/>
+        <card number="1" price="0" name="Gonti's Aether Heart"/>
+        <card number="1" price="0" name="Grip of the Roil"/>
+        <card number="1" price="0" name="Hanweir Battlements"/>
+        <card number="1" price="0" name="Hanweir Garrison"/>
+        <card number="1" price="0" name="Hedron Archive"/>
+        <card number="1" price="0" name="Hieroglyphic Illumination"/>
+        <card number="1" price="0" name="Highland Lake"/>
+        <card number="1" price="0" name="Horribly Awry"/>
+        <card number="1" price="0" name="Imprisoned in the Moon"/>
+        <card number="1" price="0" name="Insidious Will"/>
+        <card number="1" price="0" name="Inventors' Fair"/>
+        <card number="1" price="0" name="Jace, Unraveler of Secrets"/>
+        <card number="1" price="0" name="Kefnet the Mindful"/>
+        <card number="1" price="0" name="Ulamog, the Ceaseless Hunger"/>
+        <card number="1" price="0" name="Kozilek, the Great Distortion"/>
+        <card number="1" price="0" name="Kozilek's Return"/>
+        <card number="1" price="0" name="Lay Claim"/>
+        <card number="1" price="0" name="Lightning Runner"/>
+        <card number="1" price="0" name="Magnifying Glass"/>
+        <card number="1" price="0" name="Merchant's Dockhand"/>
+        <card number="1" price="0" name="Mechanized Production"/>
+        <card number="1" price="0" name="Metallurgic Summonings"/>
+        <card number="1" price="0" name="Mind's Dilation"/>
+        <card number="1" price="0" name="Mirrorpool"/>
+        <card number="1" price="0" name="Nahiri's Wrath"/>
+        <card number="1" price="0" name="Negate"/>
+        <card number="1" price="0" name="Oath of Jace"/>
+        <card number="1" price="0" name="Oracle's Vault"/>
+        <card number="1" price="0" name="Overwhelming Denial"/>
+        <card number="1" price="0" name="Paradox Engine"/>
+        <card number="1" price="0" name="Part the Waterveil"/>
+        <card number="1" price="0" name="Pia Nalaar"/>
+        <card number="1" price="0" name="Pilgrim's Eye"/>
+        <card number="1" price="0" name="Pore Over the Pages"/>
+        <card number="1" price="0" name="Planar Bridge"/>
+        <card number="1" price="0" name="Prophetic Prism"/>
+        <card number="1" price="0" name="Pull from Tomorrow"/>
+        <card number="1" price="0" name="Radiant Flames"/>
+        <card number="1" price="0" name="Release the Gremlins"/>
+        <card number="1" price="0" name="Rise from the Tides"/>
+        <card number="1" price="0" name="Saheeli Rai"/>
+        <card number="1" price="0" name="Saheeli's Artistry"/>
+        <card number="1" price="0" name="Scatter to the Winds"/>
+        <card number="1" price="0" name="Scour the Laboratory"/>
+        <card number="1" price="0" name="Sea Gate Wreckage"/>
+        <card number="1" price="0" name="Seer's Lantern"/>
+        <card number="1" price="0" name="Shock"/>
+        <card number="1" price="0" name="Shrewd Negotiation"/>
+        <card number="1" price="0" name="Spawning Bed"/>
+        <card number="1" price="0" name="Sphinx of the Final Word"/>
+        <card number="1" price="0" name="Summary Dismissal"/>
+        <card number="1" price="0" name="Sweltering Suns"/>
+        <card number="1" price="0" name="Thing in the Ice"/>
+        <card number="1" price="0" name="Terrarion"/>
+        <card number="1" price="0" name="Tormenting Voice"/>
+        <card number="1" price="0" name="Trail of Evidence"/>
+        <card number="1" price="0" name="Trophy Mage"/>
+        <card number="1" price="0" name="Vessel of Volatility"/>
+        <card number="1" price="0" name="Vizier of Many Faces"/>
+        <card number="1" price="0" name="Void Shatter"/>
+        <card number="1" price="0" name="Walking Ballista"/>
+        <card number="1" price="0" name="Wandering Fumarole"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Welcome to the Fold"/>
+        <card number="1" price="0" name="Wharf Infiltrator"/>
+        <card number="1" price="0" name="Whir of Invention"/>
+        <card number="1" price="0" name="Whirler Virtuoso"/>
+        <card number="1" price="0" name="Wretched Gryff"/>
+        <card number="1" price="0" name="Turn Aside"/>
+        <card number="1" price="0" name="Decoction Module"/>
+    </zone>
+</cockatrice_deck>
