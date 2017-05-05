@@ -1,0 +1,18 @@
+
+If in vim. 
+	Press escape
+	Press : 
+	Press q
+	Press enter
+
+To add everything
+git add . 
+
+To commit
+git commit -m "Insert message here"
+
+To push
+git push -u
+
+To pull
+git pull
