@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Trostani</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Trostani, Selesnya's Voice"/>
+        <card number="1" price="0" name="Sheltered Valley"/>
+        <card number="1" price="0" name="Exotic Orchard"/>
+        <card number="1" price="0" name="Shrine of the Forsaken Gods"/>
+        <card number="1" price="0" name="Eldrazi Temple"/>
+        <card number="1" price="0" name="Vec Townships"/>
+        <card number="1" price="0" name="Pillar of the Paruns"/>
+        <card number="1" price="0" name="Karoo"/>
+        <card number="1" price="0" name="Darksteel Citadel"/>
+        <card number="1" price="0" name="Stirring Wildwood"/>
+        <card number="1" price="0" name="Eiganjo Castle"/>
+        <card number="1" price="0" name="Rustic Clachan"/>
+        <card number="1" price="0" name="Haunted Fengraf"/>
+        <card number="1" price="0" name="Winding Canyons"/>
+        <card number="1" price="0" name="Savannah"/>
+        <card number="1" price="0" name="Death or Glory"/>
+        <card number="1" price="0" name="Call to Glory"/>
+        <card number="1" price="0" name="Steeling Stance"/>
+        <card number="1" price="0" name="Venom Sliver"/>
+        <card number="1" price="0" name="Longbow Archer"/>
+        <card number="1" price="0" name="Skeleton Key"/>
+        <card number="1" price="0" name="Grindclock"/>
+        <card number="1" price="0" name="Silk Net"/>
+        <card number="1" price="0" name="Witchstalker"/>
+        <card number="1" price="0" name="Slumbering Tora"/>
+        <card number="1" price="0" name="Aquastrand Spider"/>
+        <card number="1" price="0" name="Jinxed Ring"/>
+        <card number="1" price="0" name="Cenn's Heir"/>
+        <card number="1" price="0" name="Shu Soldier-Farmers"/>
+        <card number="1" price="0" name="Suppression Field"/>
+        <card number="1" price="0" name="Descendant of Masumaro"/>
+        <card number="1" price="0" name="Angelic Blessing"/>
+        <card number="1" price="0" name="Journey to Nowhere"/>
+        <card number="1" price="0" name="Captain Sisay"/>
+        <card number="1" price="0" name="Desecration Plague"/>
+        <card number="1" price="0" name="Phyrexian War Beast"/>
+        <card number="1" price="0" name="Constricting Sliver"/>
+        <card number="1" price="0" name="Opal Archangel"/>
+        <card number="1" price="0" name="Overwhelm"/>
+        <card number="1" price="0" name="Ray of Distortion"/>
+        <card number="1" price="0" name="Aura Fracture"/>
+        <card number="1" price="0" name="Dwynen's Elite"/>
+        <card number="1" price="0" name="Gloomwidow's Feast"/>
+        <card number="1" price="0" name="Wandering Wolf"/>
+        <card number="1" price="0" name="Natural Affinity"/>
+        <card number="1" price="0" name="Oath of the Ancient Wood"/>
+        <card number="1" price="0" name="Michiko Konda, Truth Seeker"/>
+        <card number="1" price="0" name="Rust Elemental"/>
+        <card number="1" price="0" name="Mold Shambler"/>
+        <card number="1" price="0" name="Forgotten Ancient"/>
+        <card number="1" price="0" name="Tangle Spider"/>
+        <card number="1" price="0" name="Sacred Wolf"/>
+        <card number="1" price="0" name="Spellbane Centaur"/>
+        <card number="1" price="0" name="Soldier Replica"/>
+        <card number="1" price="0" name="Nissa Revane"/>
+        <card number="1" price="0" name="Harvest Mage"/>
+        <card number="1" price="0" name="Moonglove Extract"/>
+        <card number="1" price="0" name="Pygmy Kavu"/>
+        <card number="1" price="0" name="Leonin Shikari"/>
+        <card number="1" price="0" name="Artful Maneuver"/>
+        <card number="1" price="0" name="Spike Tiller"/>
+        <card number="1" price="0" name="Great Sable Stag"/>
+        <card number="1" price="0" name="Touch of Vitae"/>
+        <card number="1" price="0" name="Tenza, Godo's Maul"/>
+        <card number="1" price="0" name="Naturalize"/>
+        <card number="1" price="0" name="Fog"/>
+        <card number="1" price="0" name="Strata Scythe"/>
+        <card number="1" price="0" name="Rakalite"/>
+        <card number="1" price="0" name="Task Force"/>
+        <card number="1" price="0" name="Reinforcements"/>
+        <card number="1" price="0" name="Alaborn Cavalier"/>
+        <card number="1" price="0" name="Wreath of Geists"/>
+        <card number="1" price="0" name="Hunter's Insight"/>
+        <card number="1" price="0" name="Chariot of the Sun"/>
+        <card number="1" price="0" name="Gallows at Willow Hill"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Windswept Heath"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Scalding Tarn"/>
+    </zone>
+</cockatrice_deck>
