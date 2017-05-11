@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<cockatrice_deck version="1">
-    <deckname></deckname>
-    <comments></comments>
-    <zone name="main">
-        <card number="6" price="0" name="Abbey Gargoyles"/>
-        <card number="1" price="0" name="Abbey Griffin"/>
-    </zone>
-</cockatrice_deck>
