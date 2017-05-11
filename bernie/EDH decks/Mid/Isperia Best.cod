@@ -57,8 +57,6 @@
         <card number="1" price="0" name="Mana Leak"/>
         <card number="1" price="0" name="Counterspell"/>
         <card number="1" price="0" name="Cryptic Command"/>
-        <card number="1" price="0" name="AEther Tradewinds"/>
-        <card number="1" price="0" name="AEtherling"/>
         <card number="1" price="0" name="Basalt Monolith"/>
         <card number="1" price="0" name="Grim Monolith"/>
         <card number="1" price="0" name="Sol Ring"/>
@@ -76,7 +74,6 @@
         <card number="1" price="0" name="Augury Owl"/>
         <card number="1" price="0" name="Windbrisk Raptor"/>
         <card number="1" price="0" name="Icy Manipulator"/>
-        <card number="1" price="0" name="AEther Spellbomb"/>
         <card number="1" price="0" name="Rite of Replication"/>
         <card number="1" price="0" name="Windborn Muse"/>
         <card number="1" price="0" name="Windreaver"/>
@@ -93,7 +90,10 @@
         <card number="1" price="0" name="Sunblast Angel"/>
         <card number="1" price="0" name="Ghostway"/>
         <card number="1" price="0" name="Wall of Omens"/>
-        <card number="1" price="0" name="AEther Adept"/>
         <card number="1" price="0" name="Sea Gate Oracle"/>
+        <card number="1" price="0" name="Aether Tradewinds"/>
+        <card number="1" price="0" name="Aetherling"/>
+        <card number="1" price="0" name="Aether Adept"/>
+        <card number="1" price="0" name="Aether Spellbomb"/>
     </zone>
 </cockatrice_deck>
