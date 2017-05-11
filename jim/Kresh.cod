@@ -16,7 +16,7 @@
         <card number="1" price="0" name="Copperline Gorge"/>
         <card number="1" price="0" name="Dragon Broodmother"/>
         <card number="1" price="0" name="Dragonskull Summit"/>
-        <card number="2" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Mountain"/>
         <card number="1" price="0" name="Raging Ravine"/>
         <card number="1" price="0" name="Act of Aggression"/>
         <card number="1" price="0" name="Act of Treason"/>
@@ -27,11 +27,11 @@
         <card number="1" price="0" name="Disciple of Bolas"/>
         <card number="1" price="0" name="Loxodon Warhammer"/>
         <card number="1" price="0" name="Skullclamp"/>
-        <card number="2" price="0" name="Forest"/>
+        <card number="5" price="0" name="Forest"/>
         <card number="1" price="0" name="Golgari Rot Farm"/>
         <card number="1" price="0" name="Fling"/>
         <card number="1" price="0" name="Rakdos Carnarium"/>
-        <card number="1" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Swamp"/>
         <card number="1" price="0" name="Flesh // Blood"/>
         <card number="1" price="0" name="Cultivate"/>
         <card number="1" price="0" name="Nantuko Husk"/>
@@ -53,10 +53,8 @@
         <card number="1" price="0" name="Carnage Altar"/>
         <card number="1" price="0" name="Elemental Mastery"/>
         <card number="1" price="0" name="Plague Wind"/>
-        <card number="1" price="0" name="Evolving Wilds"/>
         <card number="1" price="0" name="Fleshbag Marauder"/>
         <card number="1" price="0" name="Glissa, the Traitor"/>
-        <card number="1" price="0" name="Terramorphic Expanse"/>
         <card number="1" price="0" name="Temple of the False God"/>
         <card number="1" price="0" name="Kher Keep"/>
         <card number="1" price="0" name="Sword of Fire and Ice"/>
@@ -77,18 +75,14 @@
         <card number="1" price="0" name="Phyrexian Plaguelord"/>
         <card number="1" price="0" name="Solemn Simulacrum"/>
         <card number="1" price="0" name="Journey of Discovery"/>
-        <card number="1" price="0" name="Jund Panorama"/>
         <card number="1" price="0" name="Eternal Witness"/>
         <card number="1" price="0" name="Yavimaya Elder"/>
         <card number="1" price="0" name="Creakwood Liege"/>
         <card number="1" price="0" name="Spitebellows"/>
         <card number="1" price="0" name="Doubling Season"/>
-        <card number="1" price="0" name="Vivid Crag"/>
         <card number="1" price="0" name="Artifact Mutation"/>
         <card number="1" price="0" name="Rancor"/>
         <card number="1" price="0" name="Rootbound Crag"/>
-        <card number="1" price="0" name="Vivid Grove"/>
-        <card number="1" price="0" name="Vivid Marsh"/>
         <card number="1" price="0" name="Darksteel Plate"/>
         <card number="1" price="0" name="Indrik Stomphowler"/>
         <card number="1" price="0" name="Deathreap Ritual"/>
