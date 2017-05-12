@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Archangel Avacyn"/>
+        <card number="1" price="0" name="Acrobatic Maneuver"/>
+        <card number="1" price="0" name="Aegis Angel"/>
+        <card number="1" price="0" name="Aegis Automaton"/>
+        <card number="1" price="0" name="Aether Chaser"/>
+        <card number="1" price="0" name="Aether Inspector"/>
+        <card number="1" price="0" name="Sram, Senior Edificer"/>
+        <card number="1" price="0" name="Sram's Expertise"/>
+        <card number="1" price="0" name="Aethersphere Harvester"/>
+        <card number="1" price="0" name="Aethergeode Miner"/>
+        <card number="1" price="0" name="Aetherstorm Roc"/>
+        <card number="1" price="0" name="Aethertorch Renegade"/>
+        <card number="1" price="0" name="Aetherworks Marvel"/>
+        <card number="1" price="0" name="Akoum Hellkite"/>
+        <card number="1" price="0" name="Akoum Firebird"/>
+        <card number="1" price="0" name="Aligned Hedron Network"/>
+        <card number="1" price="0" name="Alley Evasion"/>
+        <card number="1" price="0" name="Angel of Invention"/>
+        <card number="1" price="0" name="Always Watching"/>
+        <card number="1" price="0" name="Angel of Sanctions"/>
+        <card number="1" price="0" name="Angelic Purge"/>
+        <card number="1" price="0" name="Approach of the Second Sun"/>
+        <card number="1" price="0" name="Aven Mindcensor"/>
+        <card number="1" price="0" name="Aviary Mechanic"/>
+        <card number="1" price="0" name="Blessed Alliance"/>
+        <card number="1" price="0" name="Blighted Gorge"/>
+        <card number="1" price="0" name="Borrowed Grace"/>
+        <card number="1" price="0" name="Bound by Moonsilver"/>
+        <card number="1" price="0" name="Bruna, the Fading Light"/>
+        <card number="1" price="0" name="Burn from Within"/>
+        <card number="1" price="0" name="Bygone Bishop"/>
+        <card number="1" price="0" name="Call the Gatewatch"/>
+        <card number="1" price="0" name="Captured by the Consulate"/>
+        <card number="1" price="0" name="Cast Out"/>
+        <card number="1" price="0" name="Cataclysmic Gearhulk"/>
+        <card number="1" price="0" name="Chandra, Flamecaller"/>
+        <card number="1" price="0" name="Chandra, Torch of Defiance"/>
+        <card number="1" price="0" name="Collective Effort"/>
+        <card number="1" price="0" name="Collective Defiance"/>
+        <card number="2" price="0" name="Combustible Gearhulk"/>
+        <card number="1" price="0" name="Consulate Crackdown"/>
+        <card number="1" price="0" name="Consul's Shieldguard"/>
+        <card number="1" price="0" name="Cultivator's Caravan"/>
+        <card number="1" price="0" name="Dusk"/>
+        <card number="1" price="0" name="Declaration in Stone"/>
+        <card number="1" price="0" name="Descend upon the Sinful"/>
+        <card number="1" price="0" name="Devoted Crop-Mate"/>
+        <card number="1" price="0" name="Drogskol Cavalry"/>
+        <card number="1" price="0" name="Eerie Interlude"/>
+        <card number="1" price="0" name="Eldrazi Displacer"/>
+        <card number="1" price="0" name="Emeria Shepherd"/>
+        <card number="1" price="0" name="Encircling Fissure"/>
+        <card number="1" price="0" name="Endbringer"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Fairgrounds Warden"/>
+        <card number="1" price="0" name="Faith Unbroken"/>
+        <card number="1" price="0" name="Felidar Guardian"/>
+        <card number="1" price="0" name="Felidar Sovereign"/>
+        <card number="1" price="0" name="Filigree Familiar"/>
+        <card number="1" price="0" name="Forsake the Worldly"/>
+        <card number="1" price="0" name="Fumigate"/>
+        <card number="1" price="0" name="Geier Reach Sanitarium"/>
+        <card number="1" price="0" name="Gideon, Ally of Zendikar"/>
+        <card number="1" price="0" name="Gisela, Blade of Goldnight"/>
+        <card number="1" price="0" name="Glorybringer"/>
+        <card number="1" price="0" name="Gryff's Boon"/>
+        <card number="1" price="0" name="Hanweir Battlements"/>
+        <card number="1" price="0" name="Hanweir Militia Captain"/>
+        <card number="1" price="0" name="Hanweir Garrison"/>
+        <card number="1" price="0" name="Harsh Mentor"/>
+        <card number="1" price="0" name="Haunted Cloak"/>
+        <card number="1" price="0" name="Hedron Archive"/>
+        <card number="1" price="0" name="Hedron Crawler"/>
+    </zone>
+</cockatrice_deck>
