@@ -5,62 +5,34 @@
     <zone name="main">
         <card number="1" price="0" name="Archangel Avacyn"/>
         <card number="1" price="0" name="Acrobatic Maneuver"/>
-        <card number="1" price="0" name="Aegis Angel"/>
-        <card number="1" price="0" name="Aegis Automaton"/>
-        <card number="1" price="0" name="Aether Chaser"/>
-        <card number="1" price="0" name="Aether Inspector"/>
-        <card number="1" price="0" name="Sram, Senior Edificer"/>
         <card number="1" price="0" name="Sram's Expertise"/>
-        <card number="1" price="0" name="Aethersphere Harvester"/>
-        <card number="1" price="0" name="Aethergeode Miner"/>
-        <card number="1" price="0" name="Aetherstorm Roc"/>
-        <card number="1" price="0" name="Aethertorch Renegade"/>
         <card number="1" price="0" name="Aetherworks Marvel"/>
         <card number="1" price="0" name="Akoum Hellkite"/>
-        <card number="1" price="0" name="Akoum Firebird"/>
-        <card number="1" price="0" name="Aligned Hedron Network"/>
-        <card number="1" price="0" name="Alley Evasion"/>
         <card number="1" price="0" name="Angel of Invention"/>
         <card number="1" price="0" name="Always Watching"/>
         <card number="1" price="0" name="Angel of Sanctions"/>
-        <card number="1" price="0" name="Angelic Purge"/>
-        <card number="1" price="0" name="Approach of the Second Sun"/>
         <card number="1" price="0" name="Aven Mindcensor"/>
         <card number="1" price="0" name="Aviary Mechanic"/>
         <card number="1" price="0" name="Blessed Alliance"/>
         <card number="1" price="0" name="Blighted Gorge"/>
-        <card number="1" price="0" name="Borrowed Grace"/>
         <card number="1" price="0" name="Bound by Moonsilver"/>
         <card number="1" price="0" name="Bruna, the Fading Light"/>
-        <card number="1" price="0" name="Burn from Within"/>
-        <card number="1" price="0" name="Bygone Bishop"/>
-        <card number="1" price="0" name="Call the Gatewatch"/>
-        <card number="1" price="0" name="Captured by the Consulate"/>
         <card number="1" price="0" name="Cast Out"/>
         <card number="1" price="0" name="Cataclysmic Gearhulk"/>
         <card number="1" price="0" name="Chandra, Flamecaller"/>
         <card number="1" price="0" name="Chandra, Torch of Defiance"/>
         <card number="1" price="0" name="Collective Effort"/>
-        <card number="1" price="0" name="Collective Defiance"/>
-        <card number="2" price="0" name="Combustible Gearhulk"/>
-        <card number="1" price="0" name="Consulate Crackdown"/>
-        <card number="1" price="0" name="Consul's Shieldguard"/>
         <card number="1" price="0" name="Cultivator's Caravan"/>
         <card number="1" price="0" name="Dusk"/>
         <card number="1" price="0" name="Declaration in Stone"/>
         <card number="1" price="0" name="Descend upon the Sinful"/>
-        <card number="1" price="0" name="Devoted Crop-Mate"/>
-        <card number="1" price="0" name="Drogskol Cavalry"/>
         <card number="1" price="0" name="Eerie Interlude"/>
         <card number="1" price="0" name="Eldrazi Displacer"/>
         <card number="1" price="0" name="Emeria Shepherd"/>
-        <card number="1" price="0" name="Encircling Fissure"/>
         <card number="1" price="0" name="Endbringer"/>
         <card number="1" price="0" name="Evolving Wilds"/>
         <card number="1" price="0" name="Fairgrounds Warden"/>
-        <card number="1" price="0" name="Faith Unbroken"/>
         <card number="1" price="0" name="Felidar Guardian"/>
-        <card number="1" price="0" name="Felidar Sovereign"/>
         <card number="1" price="0" name="Filigree Familiar"/>
         <card number="1" price="0" name="Forsake the Worldly"/>
         <card number="1" price="0" name="Fumigate"/>
@@ -68,13 +40,188 @@
         <card number="1" price="0" name="Gideon, Ally of Zendikar"/>
         <card number="1" price="0" name="Gisela, Blade of Goldnight"/>
         <card number="1" price="0" name="Glorybringer"/>
-        <card number="1" price="0" name="Gryff's Boon"/>
         <card number="1" price="0" name="Hanweir Battlements"/>
-        <card number="1" price="0" name="Hanweir Militia Captain"/>
         <card number="1" price="0" name="Hanweir Garrison"/>
-        <card number="1" price="0" name="Harsh Mentor"/>
-        <card number="1" price="0" name="Haunted Cloak"/>
         <card number="1" price="0" name="Hedron Archive"/>
         <card number="1" price="0" name="Hedron Crawler"/>
+        <card number="1" price="0" name="Insult"/>
+        <card number="1" price="0" name="Inspiring Vantage"/>
+        <card number="1" price="0" name="Inventors' Fair"/>
+        <card number="1" price="0" name="Kozilek's Return"/>
+        <card number="1" price="0" name="Linvala, the Preserver"/>
+        <card number="1" price="0" name="Kozilek's Channeler"/>
+        <card number="1" price="0" name="Make a Stand"/>
+        <card number="1" price="0" name="Magnifying Glass"/>
+        <card number="1" price="0" name="Master Trinketeer"/>
+        <card number="1" price="0" name="Matter Reshaper"/>
+        <card number="1" price="0" name="Mirrorpool"/>
+        <card number="1" price="0" name="Mirrorwing Dragon"/>
+        <card number="1" price="0" name="Nahiri, the Harbinger"/>
+        <card number="1" price="0" name="Needle Spires"/>
+        <card number="1" price="0" name="Nearheath Chaplain"/>
+        <card number="1" price="0" name="Oblivion Sower"/>
+        <card number="1" price="0" name="Oketra the True"/>
+        <card number="1" price="0" name="Oracle's Vault"/>
+        <card number="1" price="0" name="Pia Nalaar"/>
+        <card number="1" price="0" name="Planar Outburst"/>
+        <card number="1" price="0" name="Prophetic Prism"/>
+        <card number="1" price="0" name="Quarantine Field"/>
+        <card number="1" price="0" name="Regal Caracal"/>
+        <card number="1" price="0" name="Renegade Map"/>
+        <card number="1" price="0" name="Rolling Thunder"/>
+        <card number="1" price="0" name="Sanctum of Ugin"/>
+        <card number="1" price="0" name="Scrap Trawler"/>
+        <card number="1" price="0" name="Sea Gate Wreckage"/>
+        <card number="1" price="0" name="Seer's Lantern"/>
+        <card number="1" price="0" name="Sequestered Stash"/>
+        <card number="1" price="0" name="Selfless Spirit"/>
+        <card number="1" price="0" name="Shock"/>
+        <card number="1" price="0" name="Sin Prodder"/>
+        <card number="1" price="0" name="Skywhaler's Shot"/>
+        <card number="1" price="0" name="Solemn Recruit"/>
+        <card number="1" price="0" name="Spawning Bed"/>
+        <card number="1" price="0" name="Stasis Snare"/>
+        <card number="1" price="0" name="Stone Quarry"/>
+        <card number="1" price="0" name="Stromkirk Occultist"/>
+        <card number="1" price="0" name="Sunscorched Desert"/>
+        <card number="1" price="0" name="Sweltering Suns"/>
+        <card number="1" price="0" name="Tamiyo's Journal"/>
+        <card number="1" price="0" name="Thalia, Heretic Cathar"/>
+        <card number="1" price="0" name="Thalia's Lancers"/>
+        <card number="1" price="0" name="Thraben Inspector"/>
+        <card number="1" price="0" name="Tormenting Voice"/>
+        <card number="1" price="0" name="Trueheart Duelist"/>
+        <card number="1" price="0" name="Veteran Motorist"/>
+        <card number="1" price="0" name="Victory's Herald"/>
+        <card number="1" price="0" name="Vizier of Deferment"/>
+        <card number="1" price="0" name="Walking Ballista"/>
+        <card number="1" price="0" name="Warped Landscape"/>
+        <card number="1" price="0" name="Warden of Geometries"/>
+        <card number="1" price="0" name="Westvale Abbey"/>
+        <card number="1" price="0" name="Wispweaver Angel"/>
+        <card number="1" price="0" name="Djeru's Resolve"/>
+        <card number="1" price="0" name="Edifice of Authority"/>
+        <card number="1" price="0" name="Expose Evil"/>
+        <card number="1" price="0" name="Glory-Bound Initiate"/>
+        <card number="1" price="0" name="Goblin Dark-Dwellers"/>
+        <card number="2" price="0" name="Wastes"/>
+        <card number="10" price="0" name="Mountain"/>
+        <card number="12" price="0" name="Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Aethersphere Harvester"/>
+        <card number="1" price="0" name="Aradara Express"/>
+        <card number="1" price="0" name="Ballista Charger"/>
+        <card number="1" price="0" name="Daredevil Dragster"/>
+        <card number="1" price="0" name="Demolition Stomper"/>
+        <card number="1" price="0" name="Fleetwheel Cruiser"/>
+        <card number="1" price="0" name="Haunted Cloak"/>
+        <card number="1" price="0" name="Heart of Kiran"/>
+        <card number="1" price="0" name="Oketra's Monument"/>
+        <card number="1" price="0" name="Skysovereign, Consul Flagship"/>
+        <card number="1" price="0" name="Slayer's Plate"/>
+        <card number="1" price="0" name="Smuggler's Copter"/>
+        <card number="1" price="0" name="Stoneforge Masterwork"/>
+        <card number="1" price="0" name="Strider Harness"/>
+        <card number="1" price="0" name="Throne of the God-Pharaoh"/>
+        <card number="1" price="0" name="True-Faith Censer"/>
+        <card number="1" price="0" name="Aerial Responder"/>
+        <card number="1" price="0" name="Aeronaut Admiral"/>
+        <card number="1" price="0" name="Aether Chaser"/>
+        <card number="1" price="0" name="Aether Inspector"/>
+        <card number="1" price="0" name="Akoum Firebird"/>
+        <card number="1" price="0" name="Borderland Marauder"/>
+        <card number="1" price="0" name="Breakneck Rider"/>
+        <card number="1" price="0" name="Chief of the Foundry"/>
+        <card number="1" price="0" name="Cliffside Lookout"/>
+        <card number="1" price="0" name="Combat Celebrant"/>
+        <card number="1" price="0" name="Conduit of Storms"/>
+        <card number="1" price="0" name="Consul's Shieldguard"/>
+        <card number="1" price="0" name="Depala, Pilot Exemplar"/>
+        <card number="1" price="0" name="Devoted Crop-Mate"/>
+        <card number="1" price="0" name="Exquisite Archangel"/>
+        <card number="1" price="0" name="Felidar Sovereign"/>
+        <card number="1" price="0" name="Geier Reach Bandit"/>
+        <card number="1" price="0" name="Hanweir Militia Captain"/>
+        <card number="1" price="0" name="Honored Crop-Captain"/>
+        <card number="1" price="0" name="Hope of Ghirapur"/>
+        <card number="1" price="0" name="Lightning Runner"/>
+        <card number="1" price="0" name="Reckless Bushwhacker"/>
+        <card number="1" price="0" name="Scourge Wolf"/>
+        <card number="1" price="0" name="Skyship Stalker"/>
+        <card number="1" price="0" name="Speedway Fanatic"/>
+        <card number="1" price="0" name="Spireside Infiltrator"/>
+        <card number="1" price="0" name="Stone Haven Outfitter"/>
+        <card number="1" price="0" name="Stormfront Pegasus"/>
+        <card number="1" price="0" name="Thalia's Lieutenant"/>
+        <card number="1" price="0" name="Thriving Grubs"/>
+        <card number="1" price="0" name="Toolcraft Exemplar"/>
+        <card number="1" price="0" name="Topplegeist"/>
+        <card number="1" price="0" name="Tyrant of Valakut"/>
+        <card number="1" price="0" name="Unruly Mob"/>
+        <card number="1" price="0" name="Voldaren Duelist"/>
+        <card number="1" price="0" name="Weapons Trainer"/>
+        <card number="1" price="0" name="Faith Unbroken"/>
+        <card number="1" price="0" name="Gryff's Boon"/>
+        <card number="1" price="0" name="Oath of Chandra"/>
+        <card number="1" price="0" name="Oath of Gideon"/>
+        <card number="2" price="0" name="Start Your Engines"/>
+        <card number="1" price="0" name="Servo Exhibition"/>
+        <card number="1" price="0" name="Kari Zev's Expertise"/>
+        <card number="1" price="0" name="Cone of Flame"/>
+        <card number="1" price="0" name="Call the Gatewatch"/>
+        <card number="1" price="0" name="Approach of the Second Sun"/>
+        <card number="1" price="0" name="Burn from Within"/>
+        <card number="1" price="0" name="Collective Defiance"/>
+        <card number="1" price="0" name="Pyramid of the Pantheon"/>
+        <card number="1" price="0" name="Planar Bridge"/>
+        <card number="1" price="0" name="Paradox Engine"/>
+        <card number="1" price="0" name="Panharmonicon"/>
+        <card number="1" price="0" name="Retreat to Valakut"/>
+        <card number="1" price="0" name="Thopter Arrest"/>
+        <card number="1" price="0" name="Trial of Solidarity"/>
+        <card number="1" price="0" name="Trial of Zeal"/>
+        <card number="1" price="0" name="Borrowed Grace"/>
+        <card number="1" price="0" name="Alley Evasion"/>
+        <card number="1" price="0" name="Encircling Fissure"/>
+        <card number="1" price="0" name="Humble the Brute"/>
+        <card number="1" price="0" name="Immolating Glare"/>
+        <card number="1" price="0" name="Incendiary Sabotage"/>
+        <card number="1" price="0" name="Ride Down"/>
+        <card number="1" price="0" name="Savage Alliance"/>
+        <card number="1" price="0" name="Spreading Flames"/>
+        <card number="1" price="0" name="Survive the Night"/>
+        <card number="1" price="0" name="Tenacity"/>
+        <card number="1" price="0" name="Uncaged Fury"/>
+        <card number="1" price="0" name="Radiant Flames"/>
+        <card number="1" price="0" name="Release the Gremlins"/>
+        <card number="1" price="0" name="Consulate Crackdown"/>
+        <card number="1" price="0" name="Wastes"/>
+        <card number="1" price="0" name="Angelic Purge"/>
+        <card number="1" price="0" name="Aligned Hedron Network"/>
+        <card number="1" price="0" name="Aegis Angel"/>
+        <card number="1" price="0" name="Aegis Automaton"/>
+        <card number="1" price="0" name="Aethergeode Miner"/>
+        <card number="1" price="0" name="Aetherstorm Roc"/>
+        <card number="1" price="0" name="Aethertorch Renegade"/>
+        <card number="1" price="0" name="Combustible Gearhulk"/>
+        <card number="1" price="0" name="Drogskol Cavalry"/>
+        <card number="1" price="0" name="Flameblade Angel"/>
+        <card number="1" price="0" name="Foundry Inspector"/>
+        <card number="1" price="0" name="Harsh Mentor"/>
+        <card number="1" price="0" name="Metallic Mimic"/>
+        <card number="1" price="0" name="Odric, Lunarch Marshal"/>
+        <card number="1" price="0" name="Resolute Blademaster"/>
+        <card number="1" price="0" name="Scrapper Champion"/>
+        <card number="1" price="0" name="Sram, Senior Edificer"/>
+        <card number="1" price="0" name="Visionary Augmenter"/>
+        <card number="1" price="0" name="Serpentine Spike"/>
+        <card number="1" price="0" name="Indomitable Creativity"/>
+        <card number="1" price="0" name="Retreat to Emeria"/>
+        <card number="1" price="0" name="Captured by the Consulate"/>
+        <card number="1" price="0" name="Oketra's Attendant"/>
+        <card number="1" price="0" name="Sigardian Priest"/>
+        <card number="1" price="0" name="Sanctifier of Souls"/>
+        <card number="1" price="0" name="Bygone Bishop"/>
     </zone>
 </cockatrice_deck>
