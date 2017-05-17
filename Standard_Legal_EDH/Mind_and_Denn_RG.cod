@@ -4,5 +4,176 @@
     <comments></comments>
     <zone name="main">
         <card number="1" price="0" name="Mina and Denn, Wildborn"/>
+        <card number="1" price="0" name="Aetherwind Basker"/>
+        <card number="1" price="0" name="Aetherworks Marvel"/>
+        <card number="1" price="0" name="Akoum Hellkite"/>
+        <card number="1" price="0" name="Architect of the Untamed"/>
+        <card number="1" price="0" name="Arlinn Kord"/>
+        <card number="1" price="0" name="Attune with Aether"/>
+        <card number="1" price="0" name="Barrage Tyrant"/>
+        <card number="1" price="0" name="Beastcaller Savant"/>
+        <card number="1" price="0" name="Birthing Hulk"/>
+        <card number="1" price="0" name="Blighted Woodland"/>
+        <card number="4" price="0" name="Wastes"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Blossoming Defense"/>
+        <card number="1" price="0" name="Bonds of Mortality"/>
+        <card number="1" price="0" name="Breaker of Armies"/>
+        <card number="1" price="0" name="Brood Monitor"/>
+        <card number="1" price="0" name="Burn from Within"/>
+        <card number="1" price="0" name="By Force"/>
+        <card number="1" price="0" name="Chandra, Flamecaller"/>
+        <card number="1" price="0" name="Chandra, Torch of Defiance"/>
+        <card number="1" price="0" name="Channeler Initiate"/>
+        <card number="1" price="0" name="Cinder Glade"/>
+        <card number="1" price="0" name="Combustible Gearhulk"/>
+        <card number="1" price="0" name="Conduit of Storms"/>
+        <card number="1" price="0" name="Conduit of Ruin"/>
+        <card number="1" price="0" name="Crawling Sensation"/>
+        <card number="1" price="0" name="Creeping Mold"/>
+        <card number="1" price="0" name="Cryptolith Rite"/>
+        <card number="1" price="0" name="Cultivator of Blades"/>
+        <card number="1" price="0" name="Cultivator's Caravan"/>
+        <card number="1" price="0" name="Deathless Behemoth"/>
+        <card number="1" price="0" name="Call the Scions"/>
+        <card number="1" price="0" name="Decimator of the Provinces"/>
+        <card number="1" price="0" name="Desolation Twin"/>
+        <card number="1" price="0" name="Destructive Tampering"/>
+        <card number="1" price="0" name="Dissenter's Deliverance"/>
+        <card number="1" price="0" name="Dragonmaster Outcast"/>
+        <card number="1" price="0" name="Drownyard Temple"/>
+        <card number="1" price="0" name="Druid of the Cowl"/>
+        <card number="1" price="0" name="Duskwatch Recruiter"/>
+        <card number="1" price="0" name="Heaven"/>
+        <card number="1" price="0" name="Eldritch Evolution"/>
+        <card number="1" price="0" name="Emrakul's Evangel"/>
+        <card number="1" price="0" name="Emrakul's Influence"/>
+        <card number="1" price="0" name="Endbringer"/>
+        <card number="1" price="0" name="Endless One"/>
+        <card number="1" price="0" name="Ulamog, the Ceaseless Hunger"/>
+        <card number="1" price="0" name="Kozilek, the Great Distortion"/>
+        <card number="1" price="0" name="Fall of the Titans"/>
+        <card number="1" price="0" name="Mouth"/>
+        <card number="1" price="0" name="Filigree Familiar"/>
+        <card number="1" price="0" name="Fling"/>
+        <card number="1" price="0" name="From Beyond"/>
+        <card number="1" price="0" name="Foul Emissary"/>
+        <card number="1" price="0" name="Freejam Regent"/>
+        <card number="1" price="0" name="Garruk's Horde"/>
+        <card number="1" price="0" name="Game Trail"/>
+        <card number="1" price="0" name="Geier Reach Sanitarium"/>
+        <card number="1" price="0" name="Gift of Paradise"/>
+        <card number="1" price="0" name="Glorybringer"/>
+        <card number="1" price="0" name="Goblin Dark-Dwellers"/>
+        <card number="1" price="0" name="Greenwarden of Murasa"/>
+        <card number="1" price="0" name="Greater Sandwurm"/>
+        <card number="1" price="0" name="Grove Rumbler"/>
+        <card number="1" price="0" name="Gruesome Slaughter"/>
+        <card number="1" price="0" name="Hanweir Battlements"/>
+        <card number="1" price="0" name="Hanweir Garrison"/>
+        <card number="1" price="0" name="Harvest Season"/>
+        <card number="1" price="0" name="Haze of Pollen"/>
+        <card number="1" price="0" name="Heart-Piercer Manticore"/>
+        <card number="1" price="0" name="Hedron Archive"/>
+        <card number="1" price="0" name="Hedron Crawler"/>
+        <card number="1" price="0" name="Heroic Intervention"/>
+        <card number="1" price="0" name="Honored Hydra"/>
+        <card number="1" price="0" name="Howlpack Resurgence"/>
+        <card number="1" price="0" name="Indomitable Creativity"/>
+        <card number="1" price="0" name="Insult"/>
+        <card number="1" price="0" name="Inventors' Fair"/>
+        <card number="1" price="0" name="It of the Horrid Swarm"/>
+        <card number="1" price="0" name="Khenra Charioteer"/>
+        <card number="1" price="0" name="Kozilek's Channeler"/>
+        <card number="1" price="0" name="Kozilek's Return"/>
+        <card number="1" price="0" name="Lifespring Druid"/>
+        <card number="1" price="0" name="Lifecrafter's Bestiary"/>
+        <card number="1" price="0" name="Lightning Runner"/>
+        <card number="1" price="0" name="Magma Spray"/>
+        <card number="1" price="0" name="Magnifying Glass"/>
+        <card number="1" price="0" name="Manglehorn"/>
+        <card number="1" price="0" name="Matter Reshaper"/>
+        <card number="1" price="0" name="Mirrorwing Dragon"/>
+        <card number="1" price="0" name="Mirrorpool"/>
+        <card number="1" price="0" name="Mockery of Nature"/>
+        <card number="1" price="0" name="Monstrous Onslaught"/>
+        <card number="1" price="0" name="Naga Vitalist"/>
+        <card number="1" price="0" name="Natural Connection"/>
+        <card number="1" price="0" name="Nissa, Vital Force"/>
+        <card number="1" price="0" name="Nissa, Voice of Zendikar"/>
+        <card number="1" price="0" name="Nissa's Renewal"/>
+        <card number="1" price="0" name="Oashra Cultivator"/>
+        <card number="1" price="0" name="Oath of Nissa"/>
+        <card number="1" price="0" name="Oblivion Sower"/>
+        <card number="1" price="0" name="Omnath, Locus of Rage"/>
+        <card number="1" price="0" name="Oviya Pashiri, Sage Lifecrafter"/>
+        <card number="1" price="0" name="Panharmonicon"/>
+        <card number="1" price="0" name="Paradox Engine"/>
+        <card number="1" price="0" name="Pilgrim's Eye"/>
+        <card number="1" price="0" name="Primal Druid"/>
+        <card number="1" price="0" name="Pulse of Murasa"/>
+        <card number="1" price="0" name="Reality Smasher"/>
+        <card number="1" price="0" name="Release the Gremlins"/>
+        <card number="1" price="0" name="Retreat to Valakut"/>
+        <card number="1" price="0" name="Rhonas the Indomitable"/>
+        <card number="1" price="0" name="Rhonas's Monument"/>
+        <card number="1" price="0" name="Rishkar, Peema Renegade"/>
+        <card number="1" price="0" name="Rishkar's Expertise"/>
+        <card number="1" price="0" name="Rolling Thunder"/>
+        <card number="1" price="0" name="Ruin in Their Wake"/>
+        <card number="1" price="0" name="Ruins of Oran-Rief"/>
+        <card number="1" price="0" name="Sage of Ancient Lore"/>
+        <card number="1" price="0" name="Sandwurm Convergence"/>
+        <card number="1" price="0" name="Scion Summoner"/>
+        <card number="1" price="0" name="Scour from Existence"/>
+        <card number="1" price="0" name="Sea Gate Wreckage"/>
+        <card number="1" price="0" name="Seasons Past"/>
+        <card number="1" price="0" name="Seer's Lantern"/>
+        <card number="1" price="0" name="Sequestered Stash"/>
+        <card number="1" price="0" name="Servant of the Conduit"/>
+        <card number="1" price="0" name="Serpentine Spike"/>
+        <card number="1" price="0" name="Shefet Monitor"/>
+        <card number="1" price="0" name="Sheltered Thicket"/>
+        <card number="1" price="0" name="Shrine of the Forsaken Gods"/>
+        <card number="1" price="0" name="Silverfur Partisan"/>
+        <card number="1" price="0" name="Sin Prodder"/>
+        <card number="1" price="0" name="Skeleton Key"/>
+        <card number="1" price="0" name="Skysovereign, Consul Flagship"/>
+        <card number="1" price="0" name="Soul of the Harvest"/>
+        <card number="1" price="0" name="Spawning Bed"/>
+        <card number="1" price="0" name="Sweltering Suns"/>
+        <card number="1" price="0" name="Sylvan Advocate"/>
+        <card number="1" price="0" name="Sylvan Scrying"/>
+        <card number="1" price="0" name="Tajuru Warcaller"/>
+        <card number="1" price="0" name="Tireless Tracker"/>
+        <card number="1" price="0" name="Timber Gorge"/>
+        <card number="1" price="0" name="Traverse the Ulvenwald"/>
+        <card number="1" price="0" name="Tyrant of Valakut"/>
+        <card number="1" price="0" name="Ulrich of the Krallenhorde"/>
+        <card number="1" price="0" name="Ulvenwald Captive"/>
+        <card number="1" price="0" name="Ulvenwald Hydra"/>
+        <card number="1" price="0" name="Ulvenwald Observer"/>
+        <card number="1" price="0" name="Ulvenwald Mystics"/>
+        <card number="1" price="0" name="Verdurous Gearhulk"/>
+        <card number="1" price="0" name="Vessel of Nascency"/>
+        <card number="1" price="0" name="Vizier of the Menagerie"/>
+        <card number="1" price="0" name="Warden of Geometries"/>
+        <card number="1" price="0" name="Walking Ballista"/>
+        <card number="1" price="0" name="Warped Landscape"/>
+        <card number="1" price="0" name="Westvale Abbey"/>
+        <card number="1" price="0" name="Wild Wanderer"/>
+        <card number="1" price="0" name="Wildest Dreams"/>
+        <card number="1" price="0" name="Wild-Field Scarecrow"/>
+        <card number="1" price="0" name="World Breaker"/>
+        <card number="1" price="0" name="Zendikar Resurgent"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Aethersphere Harvester"/>
+        <card number="1" price="0" name="Inspiring Statuary"/>
+        <card number="1" price="0" name="Oracle's Vault"/>
+        <card number="1" price="0" name="Renegade Map"/>
+        <card number="1" price="0" name="Chandra, Pyrogenius"/>
+        <card number="1" price="0" name="Collective Defiance"/>
+        <card number="1" price="0" name="Devils' Playground"/>
     </zone>
 </cockatrice_deck>
