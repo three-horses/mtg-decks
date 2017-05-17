@@ -12,7 +12,6 @@
         <card number="1" price="0" name="Mosswort Bridge"/>
         <card number="1" price="0" name="Pernicious Deed"/>
         <card number="1" price="0" name="Grave Betrayal"/>
-        <card number="1" price="0" name="Violent Ultimatum"/>
         <card number="1" price="0" name="Dragon Broodmother"/>
         <card number="1" price="0" name="Dragonskull Summit"/>
         <card number="4" price="0" name="Mountain"/>
@@ -28,13 +27,11 @@
         <card number="5" price="0" name="Forest"/>
         <card number="1" price="0" name="Golgari Rot Farm"/>
         <card number="1" price="0" name="Fling"/>
-        <card number="1" price="0" name="Rakdos Carnarium"/>
         <card number="2" price="0" name="Swamp"/>
         <card number="1" price="0" name="Flesh // Blood"/>
         <card number="1" price="0" name="Cultivate"/>
         <card number="1" price="0" name="Nantuko Husk"/>
         <card number="1" price="0" name="Sakura-Tribe Elder"/>
-        <card number="1" price="0" name="Caldera Hellion"/>
         <card number="1" price="0" name="Siege-Gang Commander"/>
         <card number="1" price="0" name="Overwhelming Stampede"/>
         <card number="1" price="0" name="Putrefy"/>
@@ -56,7 +53,6 @@
         <card number="1" price="0" name="Fatal Frenzy"/>
         <card number="1" price="0" name="Mark of Mutiny"/>
         <card number="1" price="0" name="Lightning Greaves"/>
-        <card number="1" price="0" name="Gilt-Leaf Palace"/>
         <card number="1" price="0" name="Farhaven Elf"/>
         <card number="1" price="0" name="Dictate of Erebos"/>
         <card number="1" price="0" name="Phyrexian Plaguelord"/>
@@ -113,7 +109,6 @@
         <card number="1" price="0" name="Reap and Sow"/>
         <card number="1" price="0" name="Sylvan Library"/>
         <card number="1" price="0" name="Birthing Pod"/>
-        <card number="1" price="0" name="Mwonvuli Acid-Moss"/>
         <card number="1" price="0" name="Giant Adephage"/>
         <card number="1" price="0" name="Rakdos, Lord of Riots"/>
         <card number="1" price="0" name="Ghost Quarter"/>
@@ -146,5 +141,10 @@
         <card number="1" price="0" name="Seedguide Ash"/>
         <card number="1" price="0" name="Shadowborn Demon"/>
         <card number="1" price="0" name="Sylvan Primordial"/>
+        <card number="1" price="0" name="Caldera Hellion"/>
+        <card number="1" price="0" name="Violent Ultimatum"/>
+        <card number="1" price="0" name="Mwonvuli Acid-Moss"/>
+        <card number="1" price="0" name="Gilt-Leaf Palace"/>
+        <card number="1" price="0" name="Rakdos Carnarium"/>
     </zone>
 </cockatrice_deck>
