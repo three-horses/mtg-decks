@@ -53,7 +53,6 @@
         <card number="1" price="0" name="Pore Over the Pages"/>
         <card number="1" price="0" name="Prophetic Prism"/>
         <card number="1" price="0" name="Pull from Tomorrow"/>
-        <card number="1" price="0" name="Release the Gremlins"/>
         <card number="1" price="0" name="Rise from the Tides"/>
         <card number="1" price="0" name="Saheeli's Artistry"/>
         <card number="1" price="0" name="Scatter to the Winds"/>
@@ -66,19 +65,20 @@
         <card number="1" price="0" name="Summary Dismissal"/>
         <card number="1" price="0" name="Sweltering Suns"/>
         <card number="1" price="0" name="Thing in the Ice"/>
-        <card number="1" price="0" name="Terrarion"/>
         <card number="1" price="0" name="Tormenting Voice"/>
         <card number="1" price="0" name="Trophy Mage"/>
-        <card number="1" price="0" name="Vizier of Many Faces"/>
         <card number="1" price="0" name="Void Shatter"/>
         <card number="1" price="0" name="Wandering Fumarole"/>
         <card number="1" price="0" name="Evolving Wilds"/>
         <card number="1" price="0" name="Whir of Invention"/>
         <card number="1" price="0" name="Turn Aside"/>
-        <card number="1" price="0" name="Decoction Module"/>
         <card number="14" price="0" name="Island"/>
         <card number="12" price="0" name="Mountain"/>
         <card number="1" price="0" name="Baral, Chief of Compliance"/>
+        <card number="1" price="0" name="Wastes"/>
+        <card number="1" price="0" name="Scour from Existence"/>
+        <card number="1" price="0" name="Terrarion"/>
+        <card number="1" price="0" name="Universal Solvent"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Saheeli Rai"/>
@@ -124,5 +124,8 @@
         <card number="1" price="0" name="Shrewd Negotiation"/>
         <card number="1" price="0" name="Radiant Flames"/>
         <card number="1" price="0" name="Comparative Analysis"/>
+        <card number="1" price="0" name="Release the Gremlins"/>
+        <card number="1" price="0" name="Vizier of Many Faces"/>
+        <card number="1" price="0" name="Decoction Module"/>
     </zone>
 </cockatrice_deck>

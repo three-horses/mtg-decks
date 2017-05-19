@@ -3,7 +3,6 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" price="0" name="Dusk"/>
         <card number="1" price="0" name="Fumigate"/>
         <card number="1" price="0" name="Descend upon the Sinful"/>
         <card number="1" price="0" name="Ajani Unyielding"/>
@@ -23,9 +22,6 @@
         <card number="1" price="0" name="Sorin, Grim Nemesis"/>
         <card number="1" price="0" name="Tamiyo, Field Researcher"/>
         <card number="1" price="0" name="Call the Gatewatch"/>
-        <card number="1" price="0" name="Cataclysmic Gearhulk"/>
-        <card number="1" price="0" name="Cruel Reality"/>
-        <card number="1" price="0" name="Dark Intimations"/>
         <card number="1" price="0" name="Deploy the Gatewatch"/>
         <card number="1" price="0" name="Oath of Ajani"/>
         <card number="1" price="0" name="Oath of Chandra"/>
@@ -48,17 +44,13 @@
         <card number="1" price="0" name="Ugin's Insight"/>
         <card number="1" price="0" name="Saheeli's Artistry"/>
         <card number="1" price="0" name="Servant of the Conduit"/>
-        <card number="1" price="0" name="Fairgrounds Warden"/>
         <card number="1" price="0" name="Pilgrim's Eye"/>
         <card number="1" price="0" name="Rogue Refiner"/>
         <card number="1" price="0" name="Wild-Field Scarecrow"/>
         <card number="1" price="0" name="Felidar Guardian"/>
         <card number="1" price="0" name="Wispweaver Angel"/>
         <card number="1" price="0" name="Cloudblazer"/>
-        <card number="1" price="0" name="Sage of Ancient Lore"/>
-        <card number="1" price="0" name="Whirler Virtuoso"/>
         <card number="1" price="0" name="Filigree Familiar"/>
-        <card number="1" price="0" name="Combustible Gearhulk"/>
         <card number="1" price="0" name="Noxious Gearhulk"/>
         <card number="1" price="0" name="Gonti, Lord of Luxury"/>
         <card number="1" price="0" name="Blooming Marsh"/>
@@ -103,6 +95,14 @@
         <card number="1" price="0" name="Swamp"/>
         <card number="1" price="0" name="Mountain"/>
         <card number="1" price="0" name="Encircling Fissure"/>
+        <card number="1" price="0" name="Fatal Push"/>
+        <card number="1" price="0" name="Aethersquall Ancient"/>
+        <card number="1" price="0" name="Ajani, Valiant Protector"/>
+        <card number="1" price="0" name="Demon of Dark Schemes"/>
+        <card number="1" price="0" name="Maulfist Revolutionary"/>
+        <card number="1" price="0" name="Planar Outburst"/>
+        <card number="1" price="0" name="Turn Aside"/>
+        <card number="1" price="0" name="Void Shatter"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Baloth Null"/>
@@ -115,5 +115,15 @@
         <card number="1" price="0" name="Catacomb Sifter"/>
         <card number="1" price="0" name="Glint-Nest Crane"/>
         <card number="1" price="0" name="Heart of Kiran"/>
+        <card number="1" price="0" name="Cruel Reality"/>
+        <card number="1" price="0" name="Cataclysmic Gearhulk"/>
+        <card number="1" price="0" name="Combustible Gearhulk"/>
+        <card number="1" price="0" name="Fairgrounds Warden"/>
+        <card number="1" price="0" name="Quarry Hauler"/>
+        <card number="1" price="0" name="Sage of Ancient Lore"/>
+        <card number="1" price="0" name="Whirler Virtuoso"/>
+        <card number="1" price="0" name="Quarantine Field"/>
+        <card number="1" price="0" name="Dark Intimations"/>
+        <card number="1" price="0" name="Dusk"/>
     </zone>
 </cockatrice_deck>
