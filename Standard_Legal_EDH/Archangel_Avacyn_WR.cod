@@ -4,18 +4,14 @@
     <comments></comments>
     <zone name="main">
         <card number="1" price="0" name="Archangel Avacyn"/>
-        <card number="1" price="0" name="Acrobatic Maneuver"/>
         <card number="1" price="0" name="Sram's Expertise"/>
         <card number="1" price="0" name="Aetherworks Marvel"/>
-        <card number="1" price="0" name="Akoum Hellkite"/>
         <card number="1" price="0" name="Angel of Invention"/>
-        <card number="1" price="0" name="Always Watching"/>
         <card number="1" price="0" name="Angel of Sanctions"/>
         <card number="1" price="0" name="Aven Mindcensor"/>
         <card number="1" price="0" name="Aviary Mechanic"/>
         <card number="1" price="0" name="Blessed Alliance"/>
         <card number="1" price="0" name="Blighted Gorge"/>
-        <card number="1" price="0" name="Bound by Moonsilver"/>
         <card number="1" price="0" name="Bruna, the Fading Light"/>
         <card number="1" price="0" name="Cast Out"/>
         <card number="1" price="0" name="Cataclysmic Gearhulk"/>
@@ -38,51 +34,36 @@
         <card number="1" price="0" name="Fumigate"/>
         <card number="1" price="0" name="Geier Reach Sanitarium"/>
         <card number="1" price="0" name="Gideon, Ally of Zendikar"/>
-        <card number="1" price="0" name="Gisela, Blade of Goldnight"/>
-        <card number="1" price="0" name="Glorybringer"/>
         <card number="1" price="0" name="Hanweir Battlements"/>
-        <card number="1" price="0" name="Hanweir Garrison"/>
         <card number="1" price="0" name="Hedron Archive"/>
         <card number="1" price="0" name="Hedron Crawler"/>
-        <card number="1" price="0" name="Insult"/>
         <card number="1" price="0" name="Inspiring Vantage"/>
         <card number="1" price="0" name="Inventors' Fair"/>
         <card number="1" price="0" name="Kozilek's Return"/>
         <card number="1" price="0" name="Linvala, the Preserver"/>
-        <card number="1" price="0" name="Kozilek's Channeler"/>
         <card number="1" price="0" name="Make a Stand"/>
         <card number="1" price="0" name="Magnifying Glass"/>
-        <card number="1" price="0" name="Master Trinketeer"/>
-        <card number="1" price="0" name="Matter Reshaper"/>
         <card number="1" price="0" name="Mirrorpool"/>
         <card number="1" price="0" name="Mirrorwing Dragon"/>
         <card number="1" price="0" name="Nahiri, the Harbinger"/>
         <card number="1" price="0" name="Needle Spires"/>
-        <card number="1" price="0" name="Nearheath Chaplain"/>
         <card number="1" price="0" name="Oblivion Sower"/>
-        <card number="1" price="0" name="Oketra the True"/>
-        <card number="1" price="0" name="Oracle's Vault"/>
         <card number="1" price="0" name="Pia Nalaar"/>
         <card number="1" price="0" name="Planar Outburst"/>
-        <card number="1" price="0" name="Prophetic Prism"/>
         <card number="1" price="0" name="Quarantine Field"/>
         <card number="1" price="0" name="Regal Caracal"/>
         <card number="1" price="0" name="Renegade Map"/>
-        <card number="1" price="0" name="Rolling Thunder"/>
         <card number="1" price="0" name="Sanctum of Ugin"/>
-        <card number="1" price="0" name="Scrap Trawler"/>
         <card number="1" price="0" name="Sea Gate Wreckage"/>
         <card number="1" price="0" name="Seer's Lantern"/>
         <card number="1" price="0" name="Sequestered Stash"/>
         <card number="1" price="0" name="Selfless Spirit"/>
         <card number="1" price="0" name="Shock"/>
-        <card number="1" price="0" name="Sin Prodder"/>
         <card number="1" price="0" name="Skywhaler's Shot"/>
         <card number="1" price="0" name="Solemn Recruit"/>
         <card number="1" price="0" name="Spawning Bed"/>
         <card number="1" price="0" name="Stasis Snare"/>
         <card number="1" price="0" name="Stone Quarry"/>
-        <card number="1" price="0" name="Stromkirk Occultist"/>
         <card number="1" price="0" name="Sunscorched Desert"/>
         <card number="1" price="0" name="Sweltering Suns"/>
         <card number="1" price="0" name="Tamiyo's Journal"/>
@@ -91,22 +72,17 @@
         <card number="1" price="0" name="Thraben Inspector"/>
         <card number="1" price="0" name="Tormenting Voice"/>
         <card number="1" price="0" name="Trueheart Duelist"/>
-        <card number="1" price="0" name="Veteran Motorist"/>
         <card number="1" price="0" name="Victory's Herald"/>
-        <card number="1" price="0" name="Vizier of Deferment"/>
-        <card number="1" price="0" name="Walking Ballista"/>
         <card number="1" price="0" name="Warped Landscape"/>
         <card number="1" price="0" name="Warden of Geometries"/>
         <card number="1" price="0" name="Westvale Abbey"/>
         <card number="1" price="0" name="Wispweaver Angel"/>
-        <card number="1" price="0" name="Djeru's Resolve"/>
-        <card number="1" price="0" name="Edifice of Authority"/>
-        <card number="1" price="0" name="Expose Evil"/>
         <card number="1" price="0" name="Glory-Bound Initiate"/>
         <card number="1" price="0" name="Goblin Dark-Dwellers"/>
-        <card number="2" price="0" name="Wastes"/>
-        <card number="10" price="0" name="Mountain"/>
-        <card number="12" price="0" name="Plains"/>
+        <card number="1" price="0" name="Wastes"/>
+        <card number="8" price="0" name="Mountain"/>
+        <card number="14" price="0" name="Plains"/>
+        <card number="1" price="0" name="Gisela, the Broken Blade"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Aethersphere Harvester"/>
@@ -223,5 +199,30 @@
         <card number="1" price="0" name="Sigardian Priest"/>
         <card number="1" price="0" name="Sanctifier of Souls"/>
         <card number="1" price="0" name="Bygone Bishop"/>
+        <card number="1" price="0" name="Edifice of Authority"/>
+        <card number="1" price="0" name="Oracle's Vault"/>
+        <card number="1" price="0" name="Gisela, Blade of Goldnight"/>
+        <card number="1" price="0" name="Kozilek's Channeler"/>
+        <card number="1" price="0" name="Nearheath Chaplain"/>
+        <card number="1" price="0" name="Oketra the True"/>
+        <card number="1" price="0" name="Sin Prodder"/>
+        <card number="1" price="0" name="Always Watching"/>
+        <card number="1" price="0" name="Akoum Hellkite"/>
+        <card number="1" price="0" name="Expose Evil"/>
+        <card number="1" price="0" name="Djeru's Resolve"/>
+        <card number="1" price="0" name="Acrobatic Maneuver"/>
+        <card number="1" price="0" name="Insult"/>
+        <card number="1" price="0" name="Rolling Thunder"/>
+        <card number="1" price="0" name="Bound by Moonsilver"/>
+        <card number="1" price="0" name="Scrap Trawler"/>
+        <card number="1" price="0" name="Matter Reshaper"/>
+        <card number="1" price="0" name="Prophetic Prism"/>
+        <card number="1" price="0" name="Hanweir Garrison"/>
+        <card number="1" price="0" name="Veteran Motorist"/>
+        <card number="1" price="0" name="Stromkirk Occultist"/>
+        <card number="1" price="0" name="Glorybringer"/>
+        <card number="1" price="0" name="Vizier of Deferment"/>
+        <card number="1" price="0" name="Walking Ballista"/>
+        <card number="1" price="0" name="Master Trinketeer"/>
     </zone>
 </cockatrice_deck>

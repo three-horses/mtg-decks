@@ -19,11 +19,9 @@
         <card number="1" price="0" name="Confiscation Coup"/>
         <card number="1" price="0" name="Confirm Suspicions"/>
         <card number="1" price="0" name="Cryptolith Rite"/>
-        <card number="1" price="0" name="Cultivator of Blades"/>
         <card number="1" price="0" name="Cultivator's Caravan"/>
         <card number="1" price="0" name="Decimator of the Provinces"/>
         <card number="1" price="0" name="Decoction Module"/>
-        <card number="1" price="0" name="Era of Innovation"/>
         <card number="1" price="0" name="Evolving Wilds"/>
         <card number="1" price="0" name="Fabrication Module"/>
         <card number="1" price="0" name="Filigree Familiar"/>
@@ -46,10 +44,8 @@
         <card number="1" price="0" name="Nissa's Renewal"/>
         <card number="1" price="0" name="Ongoing Investigation"/>
         <card number="1" price="0" name="Oviya Pashiri, Sage Lifecrafter"/>
-        <card number="1" price="0" name="Panharmonicon"/>
         <card number="1" price="0" name="Paradox Engine"/>
         <card number="1" price="0" name="Pilgrim's Eye"/>
-        <card number="1" price="0" name="Pyramid of the Pantheon"/>
         <card number="1" price="0" name="Renegade Map"/>
         <card number="1" price="0" name="Rishkar, Peema Renegade"/>
         <card number="1" price="0" name="Saheeli's Artistry"/>
@@ -77,6 +73,10 @@
         <card number="1" price="0" name="Foundry Inspector"/>
         <card number="1" price="0" name="Naga Vitalist"/>
         <card number="1" price="0" name="Ulamog, the Ceaseless Hunger"/>
+        <card number="1" price="0" name="Anticipate"/>
+        <card number="1" price="0" name="Insidious Will"/>
+        <card number="1" price="0" name="Scatter to the Winds"/>
+        <card number="1" price="0" name="Natural Connection"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Armorcraft Judge"/>
@@ -111,7 +111,6 @@
         <card number="1" price="0" name="Oath of Jace"/>
         <card number="1" price="0" name="Oath of Nissa"/>
         <card number="1" price="0" name="Vessel of Nascency"/>
-        <card number="1" price="0" name="Anticipate"/>
         <card number="1" price="0" name="Censor"/>
         <card number="1" price="0" name="Commit"/>
         <card number="1" price="0" name="Broken Concentration"/>
@@ -127,10 +126,8 @@
         <card number="1" price="0" name="Seasons Past"/>
         <card number="1" price="0" name="Splendid Reclamation"/>
         <card number="1" price="0" name="Wildest Dreams"/>
-        <card number="1" price="0" name="Scatter to the Winds"/>
         <card number="1" price="0" name="Pull from Tomorrow"/>
         <card number="1" price="0" name="Paradoxical Outcome"/>
-        <card number="1" price="0" name="Insidious Will"/>
         <card number="1" price="0" name="Hieroglyphic Illumination"/>
         <card number="1" price="0" name="Fortune's Favor"/>
         <card number="1" price="0" name="Engulf the Shore"/>
@@ -163,7 +160,6 @@
         <card number="1" price="0" name="Aether Swooper"/>
         <card number="1" price="0" name="Electrostatic Pummeler"/>
         <card number="1" price="0" name="Terrarion"/>
-        <card number="1" price="0" name="Natural Connection"/>
         <card number="1" price="0" name="Baral's Expertise"/>
         <card number="1" price="0" name="Greenwarden of Murasa"/>
         <card number="1" price="0" name="Erdwal Illuminator"/>
@@ -180,5 +176,9 @@
         <card number="1" price="0" name="Rogue Refiner"/>
         <card number="1" price="0" name="Summary Dismissal"/>
         <card number="1" price="0" name="Merchant's Dockhand"/>
+        <card number="1" price="0" name="Panharmonicon"/>
+        <card number="1" price="0" name="Pyramid of the Pantheon"/>
+        <card number="1" price="0" name="Cultivator of Blades"/>
+        <card number="1" price="0" name="Era of Innovation"/>
     </zone>
 </cockatrice_deck>
