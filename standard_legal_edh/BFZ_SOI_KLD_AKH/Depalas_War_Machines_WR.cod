@@ -47,21 +47,18 @@
         <card number="1" price="0" name="Scrapper Champion"/>
         <card number="1" price="0" name="Selfless Spirit"/>
         <card number="1" price="0" name="Skysovereign, Consul Flagship"/>
-        <card number="1" price="0" name="Slayer's Plate"/>
         <card number="1" price="0" name="Solemn Recruit"/>
         <card number="1" price="0" name="Start Your Engines"/>
         <card number="1" price="0" name="Stasis Snare"/>
         <card number="1" price="0" name="Stone Quarry"/>
         <card number="1" price="0" name="Stoneforge Masterwork"/>
         <card number="1" price="0" name="Strider Harness"/>
-        <card number="1" price="0" name="Sunscorched Desert"/>
         <card number="1" price="0" name="Thalia, Heretic Cathar"/>
         <card number="1" price="0" name="Thalia's Lancers"/>
         <card number="1" price="0" name="Thalia's Lieutenant"/>
         <card number="1" price="0" name="Thraben Inspector"/>
         <card number="1" price="0" name="Veteran Motorist"/>
         <card number="1" price="0" name="Vizier of Deferment"/>
-        <card number="1" price="0" name="Warped Landscape"/>
         <card number="1" price="0" name="Weapons Trainer"/>
         <card number="1" price="0" name="Westvale Abbey"/>
         <card number="1" price="0" name="Aerial Responder"/>
@@ -77,12 +74,13 @@
         <card number="1" price="0" name="Heart of Kiran"/>
         <card number="1" price="0" name="Honored Crop-Captain"/>
         <card number="10" price="0" name="Mountain"/>
-        <card number="12" price="0" name="Plains"/>
+        <card number="14" price="0" name="Plains"/>
         <card number="1" price="0" name="Ride Down"/>
         <card number="1" price="0" name="Djeru's Resolve"/>
         <card number="1" price="0" name="Toolcraft Exemplar"/>
         <card number="1" price="0" name="Retreat to Emeria"/>
         <card number="1" price="0" name="Mirrorpool"/>
+        <card number="1" price="0" name="Captain's Claws"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Pyramid of the Pantheon"/>
@@ -223,5 +221,8 @@
         <card number="1" price="0" name="Spawning Bed"/>
         <card number="1" price="0" name="Wastes"/>
         <card number="1" price="0" name="Stromkirk Occultist"/>
+        <card number="1" price="0" name="Slayer's Plate"/>
+        <card number="1" price="0" name="Sunscorched Desert"/>
+        <card number="1" price="0" name="Warped Landscape"/>
     </zone>
 </cockatrice_deck>
