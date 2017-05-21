@@ -12,8 +12,6 @@
         <card number="1" price="0" name="Mosswort Bridge"/>
         <card number="1" price="0" name="Pernicious Deed"/>
         <card number="1" price="0" name="Grave Betrayal"/>
-        <card number="1" price="0" name="Violent Ultimatum"/>
-        <card number="1" price="0" name="Copperline Gorge"/>
         <card number="1" price="0" name="Dragon Broodmother"/>
         <card number="1" price="0" name="Dragonskull Summit"/>
         <card number="4" price="0" name="Mountain"/>
@@ -25,31 +23,21 @@
         <card number="1" price="0" name="Kazuul, Tyrant of the Cliffs"/>
         <card number="1" price="0" name="Flametongue Kavu"/>
         <card number="1" price="0" name="Disciple of Bolas"/>
-        <card number="1" price="0" name="Loxodon Warhammer"/>
         <card number="1" price="0" name="Skullclamp"/>
         <card number="5" price="0" name="Forest"/>
         <card number="1" price="0" name="Golgari Rot Farm"/>
         <card number="1" price="0" name="Fling"/>
-        <card number="1" price="0" name="Rakdos Carnarium"/>
         <card number="2" price="0" name="Swamp"/>
         <card number="1" price="0" name="Flesh // Blood"/>
         <card number="1" price="0" name="Cultivate"/>
         <card number="1" price="0" name="Nantuko Husk"/>
-        <card number="1" price="0" name="Krosan Tusker"/>
         <card number="1" price="0" name="Sakura-Tribe Elder"/>
-        <card number="1" price="0" name="Shadowborn Demon"/>
-        <card number="1" price="0" name="Caldera Hellion"/>
         <card number="1" price="0" name="Siege-Gang Commander"/>
         <card number="1" price="0" name="Overwhelming Stampede"/>
         <card number="1" price="0" name="Putrefy"/>
-        <card number="1" price="0" name="Seedguide Ash"/>
         <card number="1" price="0" name="Harmonize"/>
-        <card number="1" price="0" name="Sword of Light and Shadow"/>
-        <card number="1" price="0" name="Bogardan Hellkite"/>
-        <card number="1" price="0" name="Mind's Eye"/>
         <card number="1" price="0" name="Relic Crush"/>
         <card number="1" price="0" name="Savage Lands"/>
-        <card number="1" price="0" name="Archetype of Aggression"/>
         <card number="1" price="0" name="Carnage Altar"/>
         <card number="1" price="0" name="Elemental Mastery"/>
         <card number="1" price="0" name="Plague Wind"/>
@@ -57,19 +45,14 @@
         <card number="1" price="0" name="Glissa, the Traitor"/>
         <card number="1" price="0" name="Temple of the False God"/>
         <card number="1" price="0" name="Kher Keep"/>
-        <card number="1" price="0" name="Sword of Fire and Ice"/>
         <card number="1" price="0" name="Flowstone Slide"/>
         <card number="1" price="0" name="Soul's Fire"/>
         <card number="1" price="0" name="Necrogenesis"/>
-        <card number="1" price="0" name="Archetype of Endurance"/>
         <card number="1" price="0" name="Gelatinous Genesis"/>
         <card number="1" price="0" name="Butcher of Malakir"/>
         <card number="1" price="0" name="Fatal Frenzy"/>
-        <card number="1" price="0" name="Phyrexian Arena"/>
         <card number="1" price="0" name="Mark of Mutiny"/>
-        <card number="1" price="0" name="Dread"/>
         <card number="1" price="0" name="Lightning Greaves"/>
-        <card number="1" price="0" name="Gilt-Leaf Palace"/>
         <card number="1" price="0" name="Farhaven Elf"/>
         <card number="1" price="0" name="Dictate of Erebos"/>
         <card number="1" price="0" name="Phyrexian Plaguelord"/>
@@ -81,9 +64,7 @@
         <card number="1" price="0" name="Spitebellows"/>
         <card number="1" price="0" name="Doubling Season"/>
         <card number="1" price="0" name="Artifact Mutation"/>
-        <card number="1" price="0" name="Rancor"/>
         <card number="1" price="0" name="Rootbound Crag"/>
-        <card number="1" price="0" name="Darksteel Plate"/>
         <card number="1" price="0" name="Indrik Stomphowler"/>
         <card number="1" price="0" name="Deathreap Ritual"/>
         <card number="1" price="0" name="Bayou"/>
@@ -95,5 +76,75 @@
         <card number="1" price="0" name="Wooded Foothills"/>
         <card number="1" price="0" name="Verdant Catacombs"/>
         <card number="1" price="0" name="Bloodstained Mire"/>
+        <card number="1" price="0" name="Food Chain"/>
+        <card number="1" price="0" name="Chandra's Ignition"/>
+        <card number="1" price="0" name="Archfiend of Depravity"/>
+        <card number="1" price="0" name="Mycoloth"/>
+        <card number="1" price="0" name="Grave Titan"/>
+        <card number="1" price="0" name="Sprouting Thrinax"/>
+        <card number="1" price="0" name="Mitotic Slime"/>
+        <card number="1" price="0" name="Wurmcoil Engine"/>
+        <card number="1" price="0" name="Kalonian Hydra"/>
+        <card number="1" price="0" name="Beast Within"/>
+        <card number="1" price="0" name="Rite of the Raging Storm"/>
+        <card number="1" price="0" name="Primal Vigor"/>
+        <card number="1" price="0" name="Parallel Lives"/>
+        <card number="1" price="0" name="Sarkhan Vol"/>
+        <card number="1" price="0" name="Ashnod's Altar"/>
+        <card number="1" price="0" name="Kessig Wolf Run"/>
+        <card number="1" price="0" name="Grim Backwoods"/>
+        <card number="1" price="0" name="Jarad, Golgari Lich Lord"/>
+        <card number="1" price="0" name="Greater Good"/>
+        <card number="1" price="0" name="Scavenging Ooze"/>
+        <card number="1" price="0" name="Reclamation Sage"/>
+        <card number="1" price="0" name="Selvala, Heart of the Wilds"/>
+        <card number="1" price="0" name="Mina and Denn, Wildborn"/>
+        <card number="1" price="0" name="Lord of Extinction"/>
+        <card number="1" price="0" name="Malignus"/>
+        <card number="1" price="0" name="Bane of Progress"/>
+        <card number="1" price="0" name="Vigor"/>
+        <card number="1" price="0" name="Avenger of Zendikar"/>
+        <card number="1" price="0" name="Craterhoof Behemoth"/>
+        <card number="1" price="0" name="Balefire Dragon"/>
+        <card number="1" price="0" name="Reap and Sow"/>
+        <card number="1" price="0" name="Sylvan Library"/>
+        <card number="1" price="0" name="Birthing Pod"/>
+        <card number="1" price="0" name="Giant Adephage"/>
+        <card number="1" price="0" name="Rakdos, Lord of Riots"/>
+        <card number="1" price="0" name="Ghost Quarter"/>
+        <card number="1" price="0" name="Blood Frenzy"/>
+        <card number="1" price="0" name="Demonmail Hauberk"/>
+        <card number="1" price="0" name="Skullmulcher"/>
+        <card number="1" price="0" name="Sisters of Stone Death"/>
+        <card number="1" price="0" name="Ulasht, the Hate Seed"/>
+        <card number="1" price="0" name="Garruk, Primal Hunter"/>
+        <card number="1" price="0" name="Asceticism"/>
+        <card number="1" price="0" name="Lurking Predators"/>
+        <card number="1" price="0" name="Moonsilver Spear"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Loxodon Warhammer"/>
+        <card number="1" price="0" name="Sword of Fire and Ice"/>
+        <card number="1" price="0" name="Sword of Light and Shadow"/>
+        <card number="1" price="0" name="Mind's Eye"/>
+        <card number="1" price="0" name="Darksteel Plate"/>
+        <card number="1" price="0" name="Phyrexian Arena"/>
+        <card number="1" price="0" name="Rancor"/>
+        <card number="1" price="0" name="Copperline Gorge"/>
+        <card number="1" price="0" name="Dread"/>
+        <card number="1" price="0" name="Archetype of Aggression"/>
+        <card number="1" price="0" name="Archetype of Endurance"/>
+        <card number="1" price="0" name="Bogardan Hellkite"/>
+        <card number="1" price="0" name="Glissa, the Traitor"/>
+        <card number="1" price="0" name="Krosan Tusker"/>
+        <card number="1" price="0" name="Reaper from the Abyss"/>
+        <card number="1" price="0" name="Seedguide Ash"/>
+        <card number="1" price="0" name="Shadowborn Demon"/>
+        <card number="1" price="0" name="Sylvan Primordial"/>
+        <card number="1" price="0" name="Caldera Hellion"/>
+        <card number="1" price="0" name="Violent Ultimatum"/>
+        <card number="1" price="0" name="Mwonvuli Acid-Moss"/>
+        <card number="1" price="0" name="Gilt-Leaf Palace"/>
+        <card number="1" price="0" name="Rakdos Carnarium"/>
     </zone>
 </cockatrice_deck>

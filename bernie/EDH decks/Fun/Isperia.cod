@@ -12,7 +12,6 @@
         <card number="1" price="0" name="Flood Plain"/>
         <card number="1" price="0" name="Mystic Gate"/>
         <card number="1" price="0" name="Terramorphic Expanse"/>
-        <card number="1" price="0" name="Karakas"/>
         <card number="1" price="0" name="Minamo, School at Water's Edge"/>
         <card number="1" price="0" name="Evolving Wilds"/>
         <card number="1" price="0" name="Hallowed Fountain"/>
@@ -20,7 +19,7 @@
         <card number="1" price="0" name="Mistveil Plains"/>
         <card number="1" price="0" name="Temple of Enlightenment"/>
         <card number="5" price="0" name="Plains"/>
-        <card number="5" price="0" name="Island"/>
+        <card number="6" price="0" name="Island"/>
         <card number="1" price="0" name="High Market"/>
         <card number="1" price="0" name="Strip Mine"/>
         <card number="1" price="0" name="Fact or Fiction"/>

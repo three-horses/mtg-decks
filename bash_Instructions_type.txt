@@ -12,7 +12,7 @@ To commit
 git commit -m "Insert message here"
 
 To push
-git push -u
+git push
 
 To pull
 git pull

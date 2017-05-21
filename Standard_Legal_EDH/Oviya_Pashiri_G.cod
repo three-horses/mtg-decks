@@ -3,6 +3,6 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="6" price="0" name="Abbey Gargoyles"/>
+        <card number="1" price="0" name="Oviya Pashiri, Sage Lifecrafter"/>
     </zone>
 </cockatrice_deck>
