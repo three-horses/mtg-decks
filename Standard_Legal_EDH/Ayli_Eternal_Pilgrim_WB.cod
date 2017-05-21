@@ -4,5 +4,51 @@
     <comments></comments>
     <zone name="main">
         <card number="1" price="0" name="Ayli, Eternal Pilgrim"/>
+        <card number="1" price="0" name="Zulaport Cutthroat"/>
+        <card number="1" price="0" name="Wispweaver Angel"/>
+        <card number="1" price="0" name="Cataclysmic Gearhulk"/>
+        <card number="1" price="0" name="Noxious Gearhulk"/>
+        <card number="1" price="0" name="Panharmonicon"/>
+        <card number="1" price="0" name="Felidar Guardian"/>
+        <card number="1" price="0" name="Acrobatic Maneuver"/>
+        <card number="1" price="0" name="Eerie Interlude"/>
+        <card number="1" price="0" name="Aviary Mechanic"/>
+        <card number="1" price="0" name="Aegis Automaton"/>
+        <card number="1" price="0" name="Aerial Responder"/>
+        <card number="1" price="0" name="Aether Inspector"/>
+        <card number="1" price="0" name="Aether Poisoner"/>
+        <card number="1" price="0" name="Aethergeode Miner"/>
+        <card number="1" price="0" name="Aethersphere Harvester"/>
+        <card number="1" price="0" name="Aetherstorm Roc"/>
+        <card number="1" price="0" name="Aetherworks Marvel"/>
+        <card number="1" price="0" name="Alley Evasion"/>
+        <card number="1" price="0" name="Always Watching"/>
+        <card number="1" price="0" name="Altar's Reap"/>
+        <card number="1" price="0" name="Ambitious Aetherborn"/>
+        <card number="1" price="0" name="Angel of Deliverance"/>
+        <card number="1" price="0" name="Angel of Invention"/>
+        <card number="1" price="0" name="Angel of Sanctions"/>
+        <card number="1" price="0" name="Angelic Purge"/>
+        <card number="1" price="0" name="Anguished Unmaking"/>
+        <card number="1" price="0" name="Animation Module"/>
+        <card number="1" price="0" name="Decoction Module"/>
+        <card number="1" price="0" name="Fabrication Module"/>
+        <card number="1" price="0" name="Archfiend of Ifnir"/>
+        <card number="1" price="0" name="Asylum Visitor"/>
+        <card number="1" price="0" name="Aven Mindcensor"/>
+        <card number="1" price="0" name="Ballista Charger"/>
+        <card number="1" price="0" name="Behold the Beyond"/>
+        <card number="1" price="0" name="Binding Mummy"/>
+        <card number="1" price="0" name="Blessed Alliance"/>
+        <card number="1" price="0" name="Blighted Fen"/>
+        <card number="1" price="0" name="Blighted Steppe"/>
+        <card number="1" price="0" name="Bloodhunter Bat"/>
+        <card number="1" price="0" name="Bomat Bazaar Barge"/>
+        <card number="1" price="0" name="Prophetic Prism"/>
+        <card number="1" price="0" name="Bone Splinters"/>
+        <card number="1" price="0" name="Bontu the Glorified"/>
+        <card number="1" price="0" name="Bound by Moonsilver"/>
+        <card number="1" price="0" name="Bruna, Light of Alabaster"/>
+        <card number="1" price="0" name="Bruna, the Fading Light"/>
     </zone>
 </cockatrice_deck>

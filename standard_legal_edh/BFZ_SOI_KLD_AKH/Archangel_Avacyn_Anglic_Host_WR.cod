@@ -8,7 +8,6 @@
         <card number="1" price="0" name="Aetherworks Marvel"/>
         <card number="1" price="0" name="Angel of Invention"/>
         <card number="1" price="0" name="Angel of Sanctions"/>
-        <card number="1" price="0" name="Aven Mindcensor"/>
         <card number="1" price="0" name="Aviary Mechanic"/>
         <card number="1" price="0" name="Blessed Alliance"/>
         <card number="1" price="0" name="Blighted Gorge"/>
@@ -83,6 +82,7 @@
         <card number="8" price="0" name="Mountain"/>
         <card number="14" price="0" name="Plains"/>
         <card number="1" price="0" name="Gisela, the Broken Blade"/>
+        <card number="1" price="0" name="Oketra the True"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Aethersphere Harvester"/>
@@ -204,7 +204,6 @@
         <card number="1" price="0" name="Gisela, Blade of Goldnight"/>
         <card number="1" price="0" name="Kozilek's Channeler"/>
         <card number="1" price="0" name="Nearheath Chaplain"/>
-        <card number="1" price="0" name="Oketra the True"/>
         <card number="1" price="0" name="Sin Prodder"/>
         <card number="1" price="0" name="Always Watching"/>
         <card number="1" price="0" name="Akoum Hellkite"/>
@@ -224,5 +223,6 @@
         <card number="1" price="0" name="Vizier of Deferment"/>
         <card number="1" price="0" name="Walking Ballista"/>
         <card number="1" price="0" name="Master Trinketeer"/>
+        <card number="1" price="0" name="Aven Mindcensor"/>
     </zone>
 </cockatrice_deck>

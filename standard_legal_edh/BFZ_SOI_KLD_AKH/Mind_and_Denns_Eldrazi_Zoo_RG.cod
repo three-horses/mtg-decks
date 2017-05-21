@@ -10,7 +10,6 @@
         <card number="2" price="0" name="Wastes"/>
         <card number="1" price="0" name="Evolving Wilds"/>
         <card number="1" price="0" name="Breaker of Armies"/>
-        <card number="1" price="0" name="Brood Monitor"/>
         <card number="1" price="0" name="Burn from Within"/>
         <card number="1" price="0" name="By Force"/>
         <card number="1" price="0" name="Chandra, Torch of Defiance"/>
@@ -23,7 +22,6 @@
         <card number="1" price="0" name="Desolation Twin"/>
         <card number="1" price="0" name="Dragonmaster Outcast"/>
         <card number="1" price="0" name="Drownyard Temple"/>
-        <card number="1" price="0" name="Druid of the Cowl"/>
         <card number="1" price="0" name="Duskwatch Recruiter"/>
         <card number="1" price="0" name="Heaven"/>
         <card number="1" price="0" name="Emrakul's Influence"/>
@@ -45,13 +43,11 @@
         <card number="1" price="0" name="Indomitable Creativity"/>
         <card number="1" price="0" name="Insult"/>
         <card number="1" price="0" name="Kozilek's Channeler"/>
-        <card number="1" price="0" name="Kozilek's Return"/>
         <card number="1" price="0" name="Magnifying Glass"/>
         <card number="1" price="0" name="Matter Reshaper"/>
         <card number="1" price="0" name="Mirrorpool"/>
         <card number="1" price="0" name="Mockery of Nature"/>
         <card number="1" price="0" name="Naga Vitalist"/>
-        <card number="1" price="0" name="Natural Connection"/>
         <card number="1" price="0" name="Nissa's Renewal"/>
         <card number="1" price="0" name="Oblivion Sower"/>
         <card number="1" price="0" name="Pilgrim's Eye"/>
@@ -85,6 +81,10 @@
         <card number="12" price="0" name="Forest"/>
         <card number="7" price="0" name="Mountain"/>
         <card number="1" price="0" name="Lifecrafter's Bestiary"/>
+        <card number="1" price="0" name="Monstrous Onslaught"/>
+        <card number="1" price="0" name="Seasons Past"/>
+        <card number="1" price="0" name="Nissa, Vital Force"/>
+        <card number="1" price="0" name="Kozilek's Return"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Aethersphere Harvester"/>
@@ -127,7 +127,6 @@
         <card number="2" price="0" name="Mountain"/>
         <card number="1" price="0" name="Sylvan Scrying"/>
         <card number="1" price="0" name="Release the Gremlins"/>
-        <card number="1" price="0" name="Monstrous Onslaught"/>
         <card number="1" price="0" name="Creeping Mold"/>
         <card number="1" price="0" name="Panharmonicon"/>
         <card number="1" price="0" name="Skeleton Key"/>
@@ -146,7 +145,6 @@
         <card number="1" price="0" name="Wild Wanderer"/>
         <card number="1" price="0" name="Bonds of Mortality"/>
         <card number="1" price="0" name="Vessel of Nascency"/>
-        <card number="1" price="0" name="Seasons Past"/>
         <card number="1" price="0" name="Beastcaller Savant"/>
         <card number="1" price="0" name="Haze of Pollen"/>
         <card number="1" price="0" name="Serpentine Spike"/>
@@ -159,7 +157,6 @@
         <card number="1" price="0" name="Lifespring Druid"/>
         <card number="1" price="0" name="Oashra Cultivator"/>
         <card number="1" price="0" name="Rhonas's Monument"/>
-        <card number="1" price="0" name="Nissa, Vital Force"/>
         <card number="1" price="0" name="Chandra, Flamecaller"/>
         <card number="1" price="0" name="Sweltering Suns"/>
         <card number="1" price="0" name="Attune with Aether"/>
@@ -180,5 +177,8 @@
         <card number="1" price="0" name="Fling"/>
         <card number="1" price="0" name="Rolling Thunder"/>
         <card number="1" price="0" name="Inventors' Fair"/>
+        <card number="1" price="0" name="Brood Monitor"/>
+        <card number="1" price="0" name="Natural Connection"/>
+        <card number="1" price="0" name="Druid of the Cowl"/>
     </zone>
 </cockatrice_deck>
