@@ -49,7 +49,6 @@
         <card number="1" price="0" name="Wild-Field Scarecrow"/>
         <card number="1" price="0" name="Felidar Guardian"/>
         <card number="1" price="0" name="Wispweaver Angel"/>
-        <card number="1" price="0" name="Cloudblazer"/>
         <card number="1" price="0" name="Filigree Familiar"/>
         <card number="1" price="0" name="Noxious Gearhulk"/>
         <card number="1" price="0" name="Gonti, Lord of Luxury"/>
@@ -103,6 +102,7 @@
         <card number="1" price="0" name="Planar Outburst"/>
         <card number="1" price="0" name="Turn Aside"/>
         <card number="1" price="0" name="Void Shatter"/>
+        <card number="1" price="0" name="General Tazri"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Baloth Null"/>
@@ -125,5 +125,6 @@
         <card number="1" price="0" name="Quarantine Field"/>
         <card number="1" price="0" name="Dark Intimations"/>
         <card number="1" price="0" name="Dusk"/>
+        <card number="1" price="0" name="Cloudblazer"/>
     </zone>
 </cockatrice_deck>
