@@ -7,7 +7,7 @@
         <card number="1" price="0" name="Aetherworks Marvel"/>
         <card number="1" price="0" name="Barrage Tyrant"/>
         <card number="1" price="0" name="Blighted Woodland"/>
-        <card number="2" price="0" name="Wastes"/>
+        <card number="1" price="0" name="Wastes"/>
         <card number="1" price="0" name="Evolving Wilds"/>
         <card number="1" price="0" name="Breaker of Armies"/>
         <card number="1" price="0" name="Burn from Within"/>
@@ -85,6 +85,7 @@
         <card number="1" price="0" name="Seasons Past"/>
         <card number="1" price="0" name="Nissa, Vital Force"/>
         <card number="1" price="0" name="Kozilek's Return"/>
+        <card number="1" price="0" name="Grasping Dunes"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Aethersphere Harvester"/>
@@ -148,7 +149,7 @@
         <card number="1" price="0" name="Beastcaller Savant"/>
         <card number="1" price="0" name="Haze of Pollen"/>
         <card number="1" price="0" name="Serpentine Spike"/>
-        <card number="1" price="0" name="Wastes"/>
+        <card number="2" price="0" name="Wastes"/>
         <card number="1" price="0" name="Endless One"/>
         <card number="1" price="0" name="Reality Smasher"/>
         <card number="1" price="0" name="Servant of the Conduit"/>

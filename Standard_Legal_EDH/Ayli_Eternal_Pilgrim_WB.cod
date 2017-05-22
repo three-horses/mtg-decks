@@ -5,7 +5,6 @@
     <zone name="main">
         <card number="1" price="0" name="Ayli, Eternal Pilgrim"/>
         <card number="1" price="0" name="Zulaport Cutthroat"/>
-        <card number="1" price="0" name="Wispweaver Angel"/>
         <card number="1" price="0" name="Cataclysmic Gearhulk"/>
         <card number="1" price="0" name="Noxious Gearhulk"/>
         <card number="1" price="0" name="Panharmonicon"/>
@@ -15,17 +14,11 @@
         <card number="1" price="0" name="Aviary Mechanic"/>
         <card number="1" price="0" name="Aegis Automaton"/>
         <card number="1" price="0" name="Aerial Responder"/>
-        <card number="1" price="0" name="Aether Inspector"/>
-        <card number="1" price="0" name="Aether Poisoner"/>
-        <card number="1" price="0" name="Aethergeode Miner"/>
         <card number="1" price="0" name="Aethersphere Harvester"/>
         <card number="1" price="0" name="Aetherstorm Roc"/>
-        <card number="1" price="0" name="Aetherworks Marvel"/>
         <card number="1" price="0" name="Alley Evasion"/>
         <card number="1" price="0" name="Always Watching"/>
         <card number="1" price="0" name="Altar's Reap"/>
-        <card number="1" price="0" name="Ambitious Aetherborn"/>
-        <card number="1" price="0" name="Angel of Deliverance"/>
         <card number="1" price="0" name="Angel of Invention"/>
         <card number="1" price="0" name="Angel of Sanctions"/>
         <card number="1" price="0" name="Angelic Purge"/>
@@ -33,10 +26,6 @@
         <card number="1" price="0" name="Animation Module"/>
         <card number="1" price="0" name="Decoction Module"/>
         <card number="1" price="0" name="Fabrication Module"/>
-        <card number="1" price="0" name="Archfiend of Ifnir"/>
-        <card number="1" price="0" name="Asylum Visitor"/>
-        <card number="1" price="0" name="Aven Mindcensor"/>
-        <card number="1" price="0" name="Ballista Charger"/>
         <card number="1" price="0" name="Behold the Beyond"/>
         <card number="1" price="0" name="Binding Mummy"/>
         <card number="1" price="0" name="Blessed Alliance"/>
@@ -50,5 +39,207 @@
         <card number="1" price="0" name="Bound by Moonsilver"/>
         <card number="1" price="0" name="Bruna, Light of Alabaster"/>
         <card number="1" price="0" name="Bruna, the Fading Light"/>
+        <card number="1" price="0" name="Bygone Bishop"/>
+        <card number="1" price="0" name="Call the Bloodline"/>
+        <card number="1" price="0" name="Call the Gatewatch"/>
+        <card number="1" price="0" name="Campaign of Vengeance"/>
+        <card number="1" price="0" name="Captain's Claws"/>
+        <card number="1" price="0" name="Captured by the Consulate"/>
+        <card number="1" price="0" name="Cast Out"/>
+        <card number="1" price="0" name="Carrier Thrall"/>
+        <card number="1" price="0" name="Cartouche of Solidarity"/>
+        <card number="1" price="0" name="Certain Death"/>
+        <card number="1" price="0" name="Chief of the Foundry"/>
+        <card number="1" price="0" name="Cliffhaven Vampire"/>
+        <card number="1" price="0" name="Cliffside Lookout"/>
+        <card number="1" price="0" name="Collective Brutality"/>
+        <card number="1" price="0" name="Collective Effort"/>
+        <card number="1" price="0" name="Concealed Courtyard"/>
+        <card number="1" price="0" name="Consulate Crackdown"/>
+        <card number="1" price="0" name="Corrupted Grafstone"/>
+        <card number="1" price="0" name="Crackdown Construct"/>
+        <card number="1" price="0" name="Courageous Outrider"/>
+        <card number="1" price="0" name="Cruel Reality"/>
+        <card number="1" price="0" name="Cryptbreaker"/>
+        <card number="1" price="0" name="Cultivator's Caravan"/>
+        <card number="1" price="0" name="Dusk"/>
+        <card number="1" price="0" name="Dark Salvation"/>
+        <card number="1" price="0" name="Dauntless Cathar"/>
+        <card number="1" price="0" name="Declaration in Stone"/>
+        <card number="1" price="0" name="Defiant Bloodlord"/>
+        <card number="1" price="0" name="Demon of Dark Schemes"/>
+        <card number="1" price="0" name="Descend upon the Sinful"/>
+        <card number="1" price="0" name="Desperate Sentry"/>
+        <card number="1" price="0" name="Desolation Twin"/>
+        <card number="1" price="0" name="Devoted Crop-Mate"/>
+        <card number="1" price="0" name="Diregraf Colossus"/>
+        <card number="1" price="0" name="Distended Mindbender"/>
+        <card number="1" price="0" name="Djeru's Resolve"/>
+        <card number="1" price="0" name="Doomed Dissenter"/>
+        <card number="1" price="0" name="Drana, Liberator of Malakir"/>
+        <card number="1" price="0" name="Drana's Emissary"/>
+        <card number="1" price="0" name="Drana's Chosen"/>
+        <card number="1" price="0" name="Dread Wanderer"/>
+        <card number="1" price="0" name="Drogskol Cavalry"/>
+        <card number="1" price="0" name="Drownyard Temple"/>
+        <card number="1" price="0" name="Eldrazi Displacer"/>
+        <card number="1" price="0" name="Eliminate the Competition"/>
+        <card number="1" price="0" name="Emeria Shepherd"/>
+        <card number="1" price="0" name="Endbringer"/>
+        <card number="1" price="0" name="Essence Extraction"/>
+        <card number="1" price="0" name="Ever After"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Expose Evil"/>
+        <card number="1" price="0" name="Exquisite Archangel"/>
+        <card number="1" price="0" name="Fairgrounds Warden"/>
+        <card number="1" price="0" name="Fatal Push"/>
+        <card number="1" price="0" name="Demonic Tutor"/>
+        <card number="1" price="0" name="Filigree Crawler"/>
+        <card number="1" price="0" name="Filigree Familiar"/>
+        <card number="1" price="0" name="Start"/>
+        <card number="1" price="0" name="Forsake the Worldly"/>
+        <card number="1" price="0" name="Forsaken Sanctuary"/>
+        <card number="1" price="0" name="From Under the Floorboards"/>
+        <card number="1" price="0" name="Fumigate"/>
+        <card number="1" price="0" name="Gideon of the Trials"/>
+        <card number="1" price="0" name="Gideon, Ally of Zendikar"/>
+        <card number="1" price="0" name="Gideon, Martial Paragon"/>
+        <card number="1" price="0" name="Ghoulcaller's Accomplice"/>
+        <card number="1" price="0" name="Ghoulsteed"/>
+        <card number="1" price="0" name="Gideon's Resolve"/>
+        <card number="1" price="0" name="Gifted Aetherborn"/>
+        <card number="1" price="0" name="Gisela, the Broken Blade"/>
+        <card number="1" price="0" name="Gisa's Bidding"/>
+        <card number="1" price="0" name="Glory-Bound Initiate"/>
+        <card number="1" price="0" name="Gonti, Lord of Luxury"/>
+        <card number="1" price="0" name="Gonti's Machinations"/>
+        <card number="1" price="0" name="Gonti's Aether Heart"/>
+        <card number="1" price="0" name="Graf Harvest"/>
+        <card number="1" price="0" name="Gravedigger"/>
+        <card number="1" price="0" name="Gryff's Boon"/>
+        <card number="1" price="0" name="Guul Draz Overseer"/>
+        <card number="1" price="0" name="Hanweir Militia Captain"/>
+        <card number="1" price="0" name="Haunted Dead"/>
+        <card number="1" price="0" name="Hedron Archive"/>
+        <card number="1" price="0" name="Hedron Crawler"/>
+        <card number="1" price="0" name="Herald of Anguish"/>
+        <card number="1" price="0" name="Hero of Goma Fada"/>
+        <card number="1" price="0" name="Hidden Stockpile"/>
+        <card number="1" price="0" name="Holdout Settlement"/>
+        <card number="1" price="0" name="In Oketra's Name"/>
+        <card number="1" price="0" name="Inspiring Captain"/>
+        <card number="1" price="0" name="Inspiring Statuary"/>
+        <card number="1" price="0" name="Inventors' Fair"/>
+        <card number="1" price="0" name="Iron League Steed"/>
+        <card number="1" price="0" name="Isolation Zone"/>
+        <card number="1" price="0" name="Kalitas, Traitor of Ghet"/>
+        <card number="1" price="0" name="Kambal, Consul of Allocation"/>
+        <card number="1" price="0" name="Kindly Stranger"/>
+        <card number="1" price="0" name="Key to the City"/>
+        <card number="1" price="0" name="Kozilek's Channeler"/>
+        <card number="1" price="0" name="Lantern Scout"/>
+        <card number="1" price="0" name="Liliana, Death's Majesty"/>
+        <card number="1" price="0" name="Liliana, the Last Hope"/>
+        <card number="1" price="0" name="Liliana's Mastery"/>
+        <card number="1" price="0" name="Linvala, the Preserver"/>
+        <card number="1" price="0" name="Lone Rider"/>
+        <card number="1" price="0" name="Lord of the Accursed"/>
+        <card number="1" price="0" name="Make a Stand"/>
+        <card number="1" price="0" name="Magnifying Glass"/>
+        <card number="1" price="0" name="March from the Tomb"/>
+        <card number="1" price="0" name="Marionette Master"/>
+        <card number="1" price="0" name="Master Trinketeer"/>
+        <card number="1" price="0" name="Metallic Mimic"/>
+        <card number="1" price="0" name="Metalwork Colossus"/>
+        <card number="1" price="0" name="Mindwrack Demon"/>
+        <card number="1" price="0" name="Mirrorpool"/>
+        <card number="1" price="0" name="Nearheath Pilgrim"/>
+        <card number="1" price="0" name="Never"/>
+        <card number="1" price="0" name="Noosegraf Mob"/>
+        <card number="1" price="0" name="Oath of Gideon"/>
+        <card number="1" price="0" name="Oath of Liliana"/>
+        <card number="1" price="0" name="Ob Nixilis Reignited"/>
+        <card number="1" price="0" name="Oblivion Sower"/>
+        <card number="1" price="0" name="Oketra the True"/>
+        <card number="1" price="0" name="Oketra's Attendant"/>
+        <card number="1" price="0" name="Odric, Lunarch Marshal"/>
+        <card number="1" price="0" name="Pilgrim's Eye"/>
+        <card number="1" price="0" name="Pious Evangel"/>
+        <card number="1" price="0" name="Plague Belcher"/>
+        <card number="1" price="0" name="Planar Outburst"/>
+        <card number="1" price="0" name="Quarantine Field"/>
+        <card number="1" price="0" name="Relentless Dead"/>
+        <card number="1" price="0" name="Regal Caracal"/>
+        <card number="1" price="0" name="Renegade Map"/>
+        <card number="1" price="0" name="Restoration Gearsmith"/>
+        <card number="1" price="0" name="Retreat to Emeria"/>
+        <card number="1" price="0" name="Ruinous Path"/>
+        <card number="1" price="0" name="Sacred Cat"/>
+        <card number="1" price="0" name="Sanctifier of Souls"/>
+        <card number="1" price="0" name="Scrap Trawler"/>
+        <card number="1" price="0" name="Scrapheap Scrounger"/>
+        <card number="1" price="0" name="Sea Gate Wreckage"/>
+        <card number="1" price="0" name="Seer's Lantern"/>
+        <card number="1" price="0" name="Selfless Spirit"/>
+        <card number="1" price="0" name="Serene Steward"/>
+        <card number="2" price="0" name="Shambling Vent"/>
+        <card number="1" price="0" name="Skysovereign, Consul Flagship"/>
+        <card number="1" price="0" name="Slayer's Plate"/>
+        <card number="1" price="0" name="Sorin, Grim Nemesis"/>
+        <card number="1" price="0" name="Solemn Recruit"/>
+        <card number="1" price="0" name="Spawning Bed"/>
+        <card number="1" price="0" name="Spectral Reserves"/>
+        <card number="1" price="0" name="Sram, Senior Edificer"/>
+        <card number="1" price="0" name="Sram's Expertise"/>
+        <card number="1" price="0" name="Stir the Sands"/>
+        <card number="1" price="0" name="Syndicate Trafficker"/>
+        <card number="1" price="0" name="Tamiyo's Journal"/>
+        <card number="1" price="0" name="Terrarion"/>
+        <card number="1" price="0" name="Thalia's Lancers"/>
+        <card number="1" price="0" name="Thalia's Lieutenant"/>
+        <card number="1" price="0" name="Thalia, Heretic Cathar"/>
+        <card number="1" price="0" name="Thraben Inspector"/>
+        <card number="1" price="0" name="Throne of the God-Pharaoh"/>
+        <card number="1" price="0" name="To the Slaughter"/>
+        <card number="1" price="0" name="Topplegeist"/>
+        <card number="1" price="0" name="Treasure Keeper"/>
+        <card number="1" price="0" name="Tree of Perdition"/>
+        <card number="1" price="0" name="Triskaidekaphobia"/>
+        <card number="1" price="0" name="Trial of Ambition"/>
+        <card number="1" price="0" name="Trial of Solidarity"/>
+        <card number="1" price="0" name="Trueheart Duelist"/>
+        <card number="1" price="0" name="Underhanded Designs"/>
+        <card number="1" price="0" name="Vampiric Rites"/>
+        <card number="1" price="0" name="Vessel of Ephemera"/>
+        <card number="1" price="0" name="Victory's Herald"/>
+        <card number="1" price="0" name="Vizier of Deferment"/>
+        <card number="1" price="0" name="Voldaren Pariah"/>
+        <card number="1" price="0" name="Wall of Resurgence"/>
+        <card number="1" price="0" name="Walking Ballista"/>
+        <card number="1" price="0" name="Wander in Death"/>
+        <card number="1" price="0" name="Warden of Geometries"/>
+        <card number="1" price="0" name="Warped Landscape"/>
+        <card number="1" price="0" name="Wayward Servant"/>
+        <card number="1" price="0" name="Weaponcraft Enthusiast"/>
+        <card number="1" price="0" name="Westvale Abbey"/>
+        <card number="1" price="0" name="Wispweaver Angel"/>
+        <card number="1" price="0" name="Wild-Field Scarecrow"/>
+        <card number="1" price="0" name="Yahenni, Undying Partisan"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Noxious Gearhulk"/>
+        <card number="1" price="0" name="Aetherworks Marvel"/>
+        <card number="1" price="0" name="Ballista Charger"/>
+        <card number="1" price="0" name="Cryptolith Fragment"/>
+        <card number="1" price="0" name="Edifice of Authority"/>
+        <card number="1" price="0" name="Oracle's Vault"/>
+        <card number="1" price="0" name="Aether Inspector"/>
+        <card number="1" price="0" name="Aether Poisoner"/>
+        <card number="1" price="0" name="Aethergeode Miner"/>
+        <card number="1" price="0" name="Ambitious Aetherborn"/>
+        <card number="1" price="0" name="Angel of Deliverance"/>
+        <card number="1" price="0" name="Archfiend of Ifnir"/>
+        <card number="1" price="0" name="Asylum Visitor"/>
+        <card number="1" price="0" name="Aven Mindcensor"/>
     </zone>
 </cockatrice_deck>

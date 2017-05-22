@@ -42,7 +42,6 @@
         <card number="1" price="0" name="Odric, Lunarch Marshal"/>
         <card number="1" price="0" name="Pia Nalaar"/>
         <card number="1" price="0" name="Resolute Blademaster"/>
-        <card number="1" price="0" name="Scrap Trawler"/>
         <card number="1" price="0" name="Sea Gate Wreckage"/>
         <card number="1" price="0" name="Scrapper Champion"/>
         <card number="1" price="0" name="Selfless Spirit"/>
@@ -81,6 +80,7 @@
         <card number="1" price="0" name="Retreat to Emeria"/>
         <card number="1" price="0" name="Mirrorpool"/>
         <card number="1" price="0" name="Captain's Claws"/>
+        <card number="1" price="0" name="Courageous Outrider"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Pyramid of the Pantheon"/>
@@ -224,5 +224,6 @@
         <card number="1" price="0" name="Slayer's Plate"/>
         <card number="1" price="0" name="Sunscorched Desert"/>
         <card number="1" price="0" name="Warped Landscape"/>
+        <card number="1" price="0" name="Scrap Trawler"/>
     </zone>
 </cockatrice_deck>
