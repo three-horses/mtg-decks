@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Alhammarret, High Arbiter"/>
+        <card number="1" price="0" name="Arbiter of the Ideal"/>
+        <card number="1" price="0" name="Argent Sphinx"/>
+        <card number="1" price="0" name="Cerulean Sphinx"/>
+        <card number="1" price="0" name="Chancellor of the Spires"/>
+        <card number="1" price="0" name="Consecrated Sphinx"/>
+        <card number="1" price="0" name="Curator of Mysteries"/>
+        <card number="1" price="0" name="Conundrum Sphinx"/>
+        <card number="1" price="0" name="Glyph Keeper"/>
+        <card number="1" price="0" name="Goliath Sphinx"/>
+        <card number="1" price="0" name="Guardian of Tazeem"/>
+        <card number="1" price="0" name="Jwar Isle Avenger"/>
+        <card number="1" price="0" name="Master of Predicaments"/>
+        <card number="1" price="0" name="Prognostic Sphinx"/>
+        <card number="1" price="0" name="Sandstone Oracle"/>
+        <card number="1" price="0" name="Serra Sphinx"/>
+        <card number="1" price="0" name="Sharding Sphinx"/>
+        <card number="1" price="0" name="Sphinx Ambassador"/>
+        <card number="1" price="0" name="Sphinx of Jwar Isle"/>
+        <card number="1" price="0" name="Sphinx of Lost Truths"/>
+        <card number="1" price="0" name="Sphinx of Magosi"/>
+        <card number="1" price="0" name="Sphinx of the Final Word"/>
+        <card number="1" price="0" name="Sphinx of Uthuun"/>
+        <card number="1" price="0" name="Vexing Sphinx"/>
+        <card number="1" price="0" name="Windreader Sphinx"/>
+    </zone>
+</cockatrice_deck>
