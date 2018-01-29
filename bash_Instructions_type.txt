@@ -11,7 +11,7 @@ git add .
 To commit
 git commit -m "Insert message here"
 
-To push
+To push (note that before you push, you'll need to pull)
 git push
 
 To pull
