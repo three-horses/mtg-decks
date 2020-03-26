@@ -3,87 +3,95 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" price="0" name="Talrand, Sky Summoner"/>
-        <card number="1" price="0" name="Metallurgic Summonings"/>
-        <card number="1" price="0" name="Ponder"/>
-        <card number="1" price="0" name="Brainstorm"/>
-        <card number="1" price="0" name="Preordain"/>
-        <card number="1" price="0" name="Serum Visions"/>
-        <card number="1" price="0" name="Telling Time"/>
-        <card number="1" price="0" name="Rapid Hybridization"/>
-        <card number="1" price="0" name="Opt"/>
-        <card number="1" price="0" name="Think Twice"/>
-        <card number="1" price="0" name="Baral, Chief of Compliance"/>
-        <card number="1" price="0" name="Impulse"/>
-        <card number="1" price="0" name="Anticipate"/>
-        <card number="1" price="0" name="Treasure Cruise"/>
-        <card number="1" price="0" name="Pongify"/>
-        <card number="1" price="0" name="Counterspell"/>
-        <card number="1" price="0" name="Cyclonic Rift"/>
-        <card number="1" price="0" name="Disallow"/>
-        <card number="1" price="0" name="Rewind"/>
-        <card number="1" price="0" name="Cryptic Command"/>
-        <card number="1" price="0" name="Sapphire Medallion"/>
-        <card number="1" price="0" name="Dissipate"/>
-        <card number="1" price="0" name="Negate"/>
-        <card number="1" price="0" name="Blue Sun's Zenith"/>
-        <card number="1" price="0" name="Capsize"/>
-        <card number="1" price="0" name="Fact or Fiction"/>
-        <card number="1" price="0" name="Reality Shift"/>
-        <card number="1" price="0" name="Rhystic Study"/>
-        <card number="1" price="0" name="Curse of the Swine"/>
-        <card number="1" price="0" name="Docent of Perfection"/>
-        <card number="1" price="0" name="Guile"/>
-        <card number="1" price="0" name="Archaeomancer"/>
-        <card number="1" price="0" name="Curious Homunculus"/>
-        <card number="1" price="0" name="Torrential Gearhulk"/>
-        <card number="1" price="0" name="Consecrated Sphinx"/>
-        <card number="1" price="0" name="Mnemonic Wall"/>
-        <card number="1" price="0" name="Arcanis the Omnipotent"/>
-        <card number="1" price="0" name="Thing in the Ice"/>
-        <card number="1" price="0" name="Snapcaster Mage"/>
-        <card number="1" price="0" name="Dismiss"/>
-        <card number="1" price="0" name="Swan Song"/>
-        <card number="1" price="0" name="Into the Roil"/>
-        <card number="1" price="0" name="Arcane Denial"/>
-        <card number="1" price="0" name="Muddle the Mixture"/>
-        <card number="1" price="0" name="High Tide"/>
-        <card number="1" price="0" name="Mystical Tutor"/>
-        <card number="1" price="0" name="Void Shatter"/>
-        <card number="1" price="0" name="Dig Through Time"/>
-        <card number="1" price="0" name="Hinder"/>
-        <card number="1" price="0" name="Foil"/>
-        <card number="1" price="0" name="Force of Will"/>
-        <card number="1" price="0" name="Exclude"/>
-        <card number="1" price="0" name="Snap"/>
-        <card number="1" price="0" name="Desertion"/>
-        <card number="1" price="0" name="Remand"/>
-        <card number="1" price="0" name="Walking Atlas"/>
-        <card number="1" price="0" name="Quicken"/>
-        <card number="1" price="0" name="Twincast"/>
-        <card number="1" price="0" name="Gush"/>
-        <card number="1" price="0" name="Merchant Scroll"/>
-        <card number="1" price="0" name="Rite of Replication"/>
-        <card number="1" price="0" name="Rise from the Tides"/>
-        <card number="1" price="0" name="Compulsive Research"/>
-        <card number="1" price="0" name="Bident of Thassa"/>
-        <card number="1" price="0" name="Thought Vessel"/>
-        <card number="1" price="0" name="Isochron Scepter"/>
-        <card number="1" price="0" name="Reliquary Tower"/>
-        <card number="1" price="0" name="Halimar Depths"/>
-        <card number="1" price="0" name="Lonely Sandbar"/>
-        <card number="1" price="0" name="Myriad Landscape"/>
-        <card number="1" price="0" name="Temple of the False God"/>
-        <card number="1" price="0" name="Arcane Lighthouse"/>
-        <card number="1" price="0" name="Remote Isle"/>
-        <card number="1" price="0" name="Terrain Generator"/>
-        <card number="1" price="0" name="Blighted Cataract"/>
-        <card number="1" price="0" name="Ghost Quarter"/>
-        <card number="1" price="0" name="Riptide Laboratory"/>
-        <card number="1" price="0" name="Tolaria West"/>
-        <card number="1" price="0" name="Strip Mine"/>
-        <card number="1" price="0" name="Tectonic Edge"/>
-        <card number="19" price="0" name="Island"/>
-        <card number="1" price="0" name="Frantic Search"/>
+        <card number="1" name="Talrand, Sky Summoner"/>
+        <card number="1" name="Metallurgic Summonings"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Telling Time"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Think Twice"/>
+        <card number="1" name="Baral, Chief of Compliance"/>
+        <card number="1" name="Impulse"/>
+        <card number="1" name="Anticipate"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Disallow"/>
+        <card number="1" name="Rewind"/>
+        <card number="1" name="Cryptic Command"/>
+        <card number="1" name="Sapphire Medallion"/>
+        <card number="1" name="Dissipate"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Blue Sun's Zenith"/>
+        <card number="1" name="Capsize"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Docent of Perfection"/>
+        <card number="1" name="Guile"/>
+        <card number="1" name="Archaeomancer"/>
+        <card number="1" name="Curious Homunculus"/>
+        <card number="1" name="Torrential Gearhulk"/>
+        <card number="1" name="Consecrated Sphinx"/>
+        <card number="1" name="Snapcaster Mage"/>
+        <card number="1" name="Dismiss"/>
+        <card number="1" name="Swan Song"/>
+        <card number="1" name="Into the Roil"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Muddle the Mixture"/>
+        <card number="1" name="High Tide"/>
+        <card number="1" name="Mystical Tutor"/>
+        <card number="1" name="Void Shatter"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Hinder"/>
+        <card number="1" name="Foil"/>
+        <card number="1" name="Force of Will"/>
+        <card number="1" name="Exclude"/>
+        <card number="1" name="Snap"/>
+        <card number="1" name="Desertion"/>
+        <card number="1" name="Remand"/>
+        <card number="1" name="Quicken"/>
+        <card number="1" name="Gush"/>
+        <card number="1" name="Merchant Scroll"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Rise from the Tides"/>
+        <card number="1" name="Compulsive Research"/>
+        <card number="1" name="Bident of Thassa"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Isochron Scepter"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Halimar Depths"/>
+        <card number="1" name="Lonely Sandbar"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Arcane Lighthouse"/>
+        <card number="1" name="Remote Isle"/>
+        <card number="1" name="Terrain Generator"/>
+        <card number="1" name="Blighted Cataract"/>
+        <card number="1" name="Ghost Quarter"/>
+        <card number="1" name="Riptide Laboratory"/>
+        <card number="1" name="Tolaria West"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Tectonic Edge"/>
+        <card number="19" name="Island"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="The Mirari Conjecture"/>
+        <card number="1" name="Spellseeker"/>
+        <card number="1" name="Precognition Field"/>
+        <card number="1" name="Jace's Sanctum"/>
+        <card number="1" name="Mystic Sanctuary"/>
+        <card number="1" name="Force of Negation"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Walking Atlas"/>
+        <card number="1" name="Mnemonic Wall"/>
+        <card number="1" name="Twincast"/>
+        <card number="1" name="Arcanis the Omnipotent"/>
+        <card number="1" name="Thing in the Ice"/>
     </zone>
 </cockatrice_deck>
