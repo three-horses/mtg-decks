@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Niv-Mizzet, Parun</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Niv-Mizzet, Parun"/>
+        <card number="1" name="Essence Backlash"/>
+        <card number="1" name="Hypothesizzle"/>
+        <card number="1" name="Invert // Invent"/>
+        <card number="1" name="Blustersquall"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Izzet Charm"/>
+        <card number="1" name="Turn // Burn"/>
+        <card number="1" name="Chemister's Insight"/>
+        <card number="1" name="Syncopate"/>
+        <card number="1" name="Firemind's Foresight"/>
+        <card number="1" name="Dragonshift"/>
+        <card number="1" name="Street Spasm"/>
+        <card number="1" name="Counterflux"/>
+        <card number="1" name="Electrickery"/>
+        <card number="1" name="Runeboggle"/>
+        <card number="1" name="Cerebral Vortex"/>
+        <card number="1" name="Sonic Assault"/>
+        <card number="1" name="Remand"/>
+        <card number="1" name="Radical Idea"/>
+        <card number="1" name="Scatter Arc"/>
+        <card number="1" name="Double Negative"/>
+        <card number="1" name="Expansion // Explosion"/>
+        <card number="1" name="Mizzium Skin"/>
+        <card number="1" name="Ionize"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Izzet Guildgate"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Castle Vantress"/>
+        <card number="1" name="Gateway Plaza"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Swiftwater Cliffs"/>
+        <card number="1" name="Goblin Electromancer"/>
+        <card number="1" name="Tibor and Lumia"/>
+        <card number="1" name="Mizzix of the Izmagnus"/>
+        <card number="1" name="Izzet Chronarch"/>
+        <card number="1" name="Murmuring Mystic"/>
+        <card number="1" name="Crackling Drake"/>
+        <card number="1" name="Mercurial Chemister"/>
+        <card number="1" name="Goblin Flectomancer"/>
+        <card number="1" name="Melek, Izzet Paragon"/>
+        <card number="1" name="Izzet Chemister"/>
+        <card number="1" name="Niv-Mizzet, Dracogenius"/>
+        <card number="1" name="Niv-Mizzet, the Firemind"/>
+        <card number="1" name="Electrostatic Field"/>
+        <card number="1" name="Nivix Guildmage"/>
+        <card number="1" name="Ral, Storm Conduit"/>
+        <card number="1" name="Firemind's Research"/>
+        <card number="1" name="Thousand-Year Storm"/>
+        <card number="1" name="Mizzium Mortars"/>
+        <card number="1" name="Beacon Bolt"/>
+        <card number="1" name="Quasiduplicate"/>
+        <card number="1" name="Vandalblast"/>
+        <card number="1" name="Teleportal"/>
+        <card number="1" name="Compulsive Research"/>
+        <card number="1" name="Stitch in Time"/>
+        <card number="1" name="Shattering Spree"/>
+        <card number="1" name="Primal Amulet"/>
+        <card number="1" name="Izzet Keyrune"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Pyromancer's Goggles"/>
+        <card number="1" name="Izzet Locket"/>
+        <card number="1" name="Izzet Cluestone"/>
+        <card number="1" name="Cathartic Reunion"/>
+        <card number="1" name="Epic Experiment"/>
+        <card number="14" name="Mountain"/>
+        <card number="1" name="Mystic Sanctuary"/>
+        <card number="12" name="Island"/>
+        <card number="1" name="Chemister's Trick"/>
+        <card number="1" name="League Guildmage"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Chemister's Insight"/>
+    </zone>
+</cockatrice_deck>
