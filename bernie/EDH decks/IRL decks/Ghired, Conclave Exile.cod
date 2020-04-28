@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Ghired, Conclave Exile</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ghired, Conclave Exile"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Yavimaya Dryad"/>
+        <card number="1" name="Teferi's Protection"/>
+        <card number="1" name="Phyrexian Altar"/>
+        <card number="1" name="End-Raze Forerunners"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Sarkhan the Masterless"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Cathars' Crusade"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Phyrexian Rebirth"/>
+        <card number="1" name="Biogenic Ooze"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Sylvan Reclamation"/>
+        <card number="1" name="Anointed Procession"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Beast Within"/>
+        <card number="2" name="Mountain"/>
+        <card number="4" name="Plains"/>
+        <card number="7" name="Forest"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Vitalizing Wind"/>
+        <card number="1" name="Mimic Vat"/>
+        <card number="1" name="Sundering Growth"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Feldon of the Third Path"/>
+        <card number="1" name="Aura Shards"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Evolutionary Leap"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Mouth // Feed"/>
+        <card number="1" name="Castle Ardenvale"/>
+        <card number="1" name="Shalai, Voice of Plenty"/>
+        <card number="1" name="Angel of Sanctions"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Naya Charm"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Parallel Lives"/>
+        <card number="1" name="Trostani, Selesnya's Voice"/>
+        <card number="1" name="Windbrisk Heights"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Doomed Artisan"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Hour of Reckoning"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Castle Embereth"/>
+        <card number="1" name="Camaraderie"/>
+        <card number="1" name="Druid's Deliverance"/>
+        <card number="1" name="Gruul Signet"/>
+        <card number="1" name="Knight-Captain of Eos"/>
+        <card number="1" name="From Beyond"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Stirring Wildwood"/>
+        <card number="1" name="Insult // Injury"/>
+        <card number="1" name="Tendershoot Dryad"/>
+        <card number="1" name="Scattered Groves"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Arachnogenesis"/>
+        <card number="1" name="Decimator of the Provinces"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Sheltered Thicket"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Garruk, Primal Hunter"/>
+        <card number="1" name="Cindervines"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Trostani Discordant"/>
+        <card number="1" name="Wingmate Roc"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Rest in Peace"/>
+        <card number="1" name="Privileged Position"/>
+        <card number="1" name="Atla Palani, Nest Tender"/>
+        <card number="1" name="Ohran Frostfang"/>
+    </zone>
+</cockatrice_deck>
