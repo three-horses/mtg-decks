@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Fierce Guardianship"/>
+        <card number="1" name="Deadly Rollick"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Bident of Thassa"/>
+        <card number="1" name="Ninja of the Deep Hours"/>
+        <card number="1" name="Mistblade Shinobi"/>
+        <card number="1" name="Ingenious Infiltrator"/>
+        <card number="1" name="Changeling Outcast"/>
+        <card number="1" name="Tetsuko Umezawa, Fugitive"/>
+        <card number="1" name="Higure, the Still Wind"/>
+        <card number="1" name="Arcane Adaptation"/>
+        <card number="1" name="Slither Blade"/>
+        <card number="1" name="Silent-Blade Oni"/>
+        <card number="1" name="Mist-Syndicate Naga"/>
+        <card number="1" name="Throat Slitter"/>
+        <card number="1" name="Walker of Secret Ways"/>
+        <card number="1" name="Fallen Shinobi"/>
+        <card number="1" name="Ink-Eyes, Servant of Oni"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Dimir Infiltrator"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Skullsnatcher"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Mist-Cloaked Herald"/>
+        <card number="1" name="Triton Shorestalker"/>
+        <card number="1" name="Temporal Trespass"/>
+        <card number="1" name="Faerie Seer"/>
+        <card number="1" name="Moonblade Shinobi"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Sakashima's Student"/>
+        <card number="1" name="Tormented Soul"/>
+        <card number="1" name="Invisible Stalker"/>
+        <card number="1" name="Gudul Lurker"/>
+        <card number="1" name="Throatseeker"/>
+        <card number="1" name="Ornithopter"/>
+        <card number="1" name="Mothdust Changeling"/>
+        <card number="1" name="Siren Stormtamer"/>
+        <card number="1" name="Gingerbrute"/>
+        <card number="1" name="Thassa, God of the Sea"/>
+        <card number="1" name="Thalakos Seer"/>
+        <card number="1" name="Shadowmage Infiltrator"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Mystical Tutor"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Nihil Spellbomb"/>
+        <card number="1" name="Familiar's Ruse"/>
+        <card number="1" name="Vampiric Tutor"/>
+        <card number="1" name="Misdirection"/>
+        <card number="1" name="Swan Song"/>
+        <card number="1" name="Force of Will"/>
+        <card number="1" name="Mana Drain"/>
+        <card number="1" name="Scheming Symmetry"/>
+        <card number="1" name="Devastation Tide"/>
+        <card number="1" name="Discovery // Dispersal"/>
+        <card number="1" name="Connive // Concoct"/>
+        <card number="1" name="Temporal Mastery"/>
+        <card number="1" name="Rags // Riches"/>
+        <card number="1" name="Never // Return"/>
+        <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Scroll Rack"/>
+        <card number="1" name="Smoke Shroud"/>
+        <card number="1" name="Cunning Evasion"/>
+        <card number="1" name="Conspiracy"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Mystic Sanctuary"/>
+        <card number="1" name="Halimar Depths"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Creeping Tar Pit"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Castle Vantress"/>
+        <card number="1" name="Shizo, Death's Storehouse"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Mutavault"/>
+        <card number="1" name="Barren Moor"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Underground Sea"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Tainted Isle"/>
+        <card number="1" name="Fetid Pools"/>
+        <card number="1" name="Sunken Ruins"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Darkslick Shores"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Reflecting Pool"/>
+        <card number="3" name="Snow-Covered Swamp"/>
+        <card number="3" name="Snow-Covered Island"/>
+        <card number="1" name="Okiba-Gang Shinobi"/>
+        <card number="1" name="Phantom Ninja"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Lim-Dûl's Vault"/>
+        <card number="1" name="Murderous Cut"/>
+        <card number="1" name="Nexus of Fate"/>
+        <card number="1" name="Reconnaissance Mission"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Augury Owl"/>
+        <card number="1" name="Etrata, the Silencer"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Snow-Covered Island"/>
+        <card number="1" name="Snow-Covered Swamp"/>
+        <card number="1" name="Lonely Sandbar"/>
+        <card number="1" name="Azra Smokeshaper"/>
+        <card number="1" name="Spectral Sailor"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Force of Negation"/>
+        <card number="1" name="Consign // Oblivion"/>
+        <card number="1" name="Xenograft"/>
+    </zone>
+</cockatrice_deck>

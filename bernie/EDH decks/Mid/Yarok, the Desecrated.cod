@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Yarok, the Desecrated</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Zagoth Triome"/>
+        <card number="1" name="Thassa, Deep-Dwelling"/>
+        <card number="1" name="Dryad of the Ilysian Grove"/>
+        <card number="1" name="Uro, Titan of Nature's Wrath"/>
+        <card number="1" name="Coiling Oracle"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Tatyova, Benthic Druid"/>
+        <card number="1" name="Risen Reef"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Ghostly Flicker"/>
+        <card number="1" name="Gonti, Lord of Luxury"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Deadeye Navigator"/>
+        <card number="1" name="Peregrine Drake"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Agent of Treachery"/>
+        <card number="1" name="Lotus Cobra"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Hostage Taker"/>
+        <card number="1" name="Muldrotha, the Gravetide"/>
+        <card number="1" name="Conjurer's Closet"/>
+        <card number="1" name="Shriekmaw"/>
+        <card number="1" name="Sire of Stagnation"/>
+        <card number="1" name="Roil Elemental"/>
+        <card number="1" name="Rune-Scarred Demon"/>
+        <card number="1" name="Elvish Visionary"/>
+        <card number="1" name="Soul of the Harvest"/>
+        <card number="1" name="Noxious Gearhulk"/>
+        <card number="1" name="Elvish Rejuvenator"/>
+        <card number="1" name="Fblthp, the Lost"/>
+        <card number="1" name="Venser, Shaper Savant"/>
+        <card number="1" name="Fierce Empath"/>
+        <card number="1" name="Phyrexian Delver"/>
+        <card number="1" name="Wall of Blossoms"/>
+        <card number="1" name="Sepulchral Primordial"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Nissa, Vastwood Seer"/>
+        <card number="1" name="Woodland Bellower"/>
+        <card number="1" name="Yavimaya Dryad"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Displace"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Finale of Devastation"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Bane of Progress"/>
+        <card number="1" name="Zendikar's Roil"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Field of the Dead"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="The Great Henge"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Waterlogged Grove"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Nurturing Peatland"/>
+        <card number="1" name="Tropical Island"/>
+        <card number="1" name="Bayou"/>
+        <card number="1" name="Underground Sea"/>
+        <card number="5" name="Forest"/>
+        <card number="4" name="Island"/>
+        <card number="4" name="Swamp"/>
+        <card number="1" name="Yarok, the Desecrated"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Urborg"/>
+        <card number="1" name="Snow-Covered Forest"/>
+        <card number="1" name="Snow-Covered Island"/>
+        <card number="1" name="Snow-Covered Swamp"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Ob Nixilis, the Fallen"/>
+    </zone>
+</cockatrice_deck>
