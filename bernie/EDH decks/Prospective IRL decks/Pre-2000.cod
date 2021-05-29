@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Boomerang"/>
+        <card number="1" name="Rayne, Academy Chancellor"/>
+        <card number="1" name="Braingeyser"/>
+        <card number="1" name="Dissipate"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Triskelion"/>
+        <card number="1" name="Misdirection"/>
+        <card number="1" name="Control Magic"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Vesuvan Doppelganger"/>
+        <card number="1" name="Peregrine Drake"/>
+        <card number="1" name="Time Warp"/>
+        <card number="1" name="Snap"/>
+        <card number="1" name="Stroke of Genius"/>
+        <card number="1" name="Ancestral Memories"/>
+        <card number="1" name="Karn, Silver Golem"/>
+        <card number="1" name="Voltaic Key"/>
+        <card number="1" name="Sky Diamond"/>
+        <card number="1" name="Erratic Portal"/>
+        <card number="1" name="Morphling"/>
+        <card number="1" name="Bösium Strip"/>
+        <card number="1" name="Sapphire Medallion"/>
+        <card number="1" name="Junk Diver"/>
+        <card number="1" name="Helm of Possession"/>
+        <card number="1" name="Raven Familiar"/>
+        <card number="1" name="Archivist"/>
+        <card number="1" name="Evacuation"/>
+        <card number="28" name="Island"/>
+        <card number="1" name="Altar of Dementia"/>
+        <card number="1" name="Opportunity"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Desertion"/>
+        <card number="1" name="Remove Soul"/>
+        <card number="1" name="Rescind"/>
+        <card number="1" name="Thornwind Faeries"/>
+        <card number="1" name="Thieving Magpie"/>
+        <card number="1" name="Clone"/>
+        <card number="1" name="Icy Manipulator"/>
+        <card number="1" name="Foil"/>
+        <card number="1" name="Great Whale"/>
+        <card number="1" name="Faerie Conclave"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Rewind"/>
+        <card number="1" name="Miscalculation"/>
+        <card number="1" name="Winding Canyons"/>
+        <card number="1" name="Terrain Generator"/>
+        <card number="1" name="Thawing Glaciers"/>
+        <card number="1" name="Scorched Ruins"/>
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Ray of Command"/>
+        <card number="1" name="Coral Atoll"/>
+        <card number="1" name="Tradewind Rider"/>
+        <card number="1" name="Reins of Power"/>
+        <card number="1" name="Dominate"/>
+        <card number="1" name="Alexi's Cloak"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Grim Monolith"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Nevinyrral's Disk"/>
+        <card number="1" name="Phyrexian Processor"/>
+        <card number="1" name="Mishra's Factory"/>
+        <card number="1" name="Scrivener"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Remote Isle"/>
+        <card number="1" name="Avatar of Will"/>
+        <card number="1" name="Lu Xun, Scholar General"/>
+        <card number="1" name="Sun Quan, Lord of Wu"/>
+        <card number="1" name="Tidal Kraken"/>
+        <card number="1" name="Bribery"/>
+        <card number="1" name="Scroll Rack"/>
+        <card number="1" name="Treachery"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Merfolk Looter"/>
+        <card number="1" name="Citanul Flute"/>
+        <card number="1" name="Ensnaring Bridge"/>
+        <card number="1" name="Steal Enchantment"/>
+        <card number="1" name="Forbid"/>
+        <card number="2" name="Island"/>
+        <card number="1" name="Capsize"/>
+        <card number="1" name="Cathodion"/>
+        <card number="1" name="Crawlspace"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Phyrexian Vault"/>
+        <card number="1" name="Tormod's Crypt"/>
+        <card number="1" name="Ertai, Wizard Adept"/>
+        <card number="1" name="Palinchron"/>
+        <card number="1" name="Temporal Adept"/>
+        <card number="1" name="Trade Routes"/>
+        <card number="1" name="Time Spiral"/>
+        <card number="1" name="Meekstone"/>
+        <card number="1" name="Grindstone"/>
+        <card number="1" name="Mindless Automaton"/>
+        <card number="1" name="Anthroplasm"/>
+    </zone>
+</cockatrice_deck>
