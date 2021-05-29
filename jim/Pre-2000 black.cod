@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Xiahou Dun</deckname>
+    <comments>Pre-2000 EDH deck</comments>
+    <zone name="main">
+        <card number="40" name="Swamp"/>
+        <card number="1" name="Xiahou Dun, the One-Eyed"/>
+        <card number="1" name="Underworld Dreams"/>
+        <card number="1" name="Nightmare"/>
+        <card number="1" name="Larceny"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Royal Assassin"/>
+        <card number="1" name="Phyrexian Plaguelord"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mana Vault"/>
+        <card number="1" name="Temporal Aperture"/>
+        <card number="1" name="Junk Diver"/>
+        <card number="1" name="Phyrexian Colossus"/>
+        <card number="1" name="Hornet Cannon"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Phyrexian Vault"/>
+        <card number="1" name="Phyrexian Processor"/>
+        <card number="1" name="Sengir Vampire"/>
+        <card number="1" name="Dance of the Dead"/>
+        <card number="1" name="Snuff Out"/>
+        <card number="1" name="Nekrataal"/>
+        <card number="1" name="Undertaker"/>
+        <card number="1" name="Stronghold Discipline"/>
+        <card number="1" name="Spike Cannibal"/>
+        <card number="1" name="Mind Swords"/>
+        <card number="1" name="Stupor"/>
+        <card number="1" name="Gravedigger"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Coffin Queen"/>
+        <card number="1" name="Animate Dead"/>
+        <card number="1" name="Darkness"/>
+        <card number="1" name="Endless Cockroaches"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Planar Portal"/>
+        <card number="1" name="Avatar of Woe"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Necropotence"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Phyrexian Reclamation"/>
+        <card number="1" name="Charcoal Diamond"/>
+        <card number="1" name="Grave Pact"/>
+        <card number="1" name="Greed"/>
+        <card number="1" name="Hatred"/>
+        <card number="1" name="Infernal Tribute"/>
+        <card number="1" name="Intimidation"/>
+        <card number="1" name="Ambition's Cost"/>
+        <card number="1" name="Ancient Craving"/>
+        <card number="1" name="Attrition"/>
+        <card number="1" name="Plague Wind"/>
+        <card number="1" name="Nevinyrral's Disk"/>
+        <card number="1" name="Overwhelming Forces"/>
+        <card number="1" name="Oubliette"/>
+        <card number="1" name="Persecute"/>
+        <card number="1" name="Pestilence"/>
+        <card number="1" name="Phyrexian Tribute"/>
+        <card number="1" name="Pox"/>
+        <card number="1" name="Crypt Rats"/>
+        <card number="1" name="Reprocess"/>
+        <card number="1" name="Hypnotic Specter"/>
+        <card number="1" name="Bad Moon"/>
+        <card number="1" name="Silent Assassin"/>
+        <card number="1" name="Diabolic Edict"/>
+        <card number="1" name="Spirit of the Night"/>
+        <card number="1" name="Vendetta"/>
+        <card number="1" name="Diabolic Servitude"/>
+        <card number="1" name="Yawgmoth's Will"/>
+        <card number="1" name="Commander Greven il-Vec"/>
+        <card number="1" name="Contamination"/>
+        <card number="1" name="Corrupt"/>
+        <card number="1" name="Cruel Edict"/>
+        <card number="1" name="Culling the Weak"/>
+        <card number="1" name="Brink of Madness"/>
+        <card number="1" name="Buried Alive"/>
+        <card number="1" name="Cao Cao, Lord of Wei"/>
+        <card number="1" name="Carrion Ants"/>
+        <card number="1" name="Choking Sands"/>
+        <card number="1" name="Befoul"/>
+        <card number="1" name="Black Market"/>
+        <card number="1" name="Blight"/>
+        <card number="1" name="Bottomless Pit"/>
+        <card number="1" name="Unnerve"/>
+        <card number="1" name="Altar of Dementia"/>
+        <card number="1" name="Ascendant Evincar"/>
+        <card number="1" name="Assassin's Blade"/>
+        <card number="1" name="Predatory Nightstalker"/>
+        <card number="1" name="Rain of Daggers"/>
+        <card number="1" name="Ritual of the Machine"/>
+        <card number="1" name="Abyssal Gatekeeper"/>
+        <card number="1" name="Seal of Doom"/>
+        <card number="1" name="Sinkhole"/>
+        <card number="1" name="Simulacrum"/>
+        <card number="1" name="Slaughter"/>
+        <card number="1" name="Songs of the Damned"/>
+        <card number="1" name="Tendrils of Despair"/>
+        <card number="1" name="Terror"/>
+        <card number="1" name="Unearth"/>
+        <card number="1" name="Unmask"/>
+        <card number="1" name="Urborg Justice"/>
+        <card number="1" name="Urborg Stalker"/>
+        <card number="1" name="Wave of Terror"/>
+        <card number="1" name="Wicked Pact"/>
+        <card number="1" name="Withering Boon"/>
+        <card number="1" name="Worms of the Earth"/>
+        <card number="1" name="Deception"/>
+        <card number="1" name="Expunge"/>
+        <card number="1" name="Duress"/>
+        <card number="1" name="Extortion"/>
+        <card number="1" name="Fatal Blow"/>
+        <card number="1" name="Feast or Famine"/>
+        <card number="1" name="Flay"/>
+        <card number="1" name="Forced March"/>
+        <card number="1" name="Midnight Ritual"/>
+        <card number="1" name="Mind Rot"/>
+        <card number="1" name="Mind Slash"/>
+        <card number="1" name="Minion of the Wastes"/>
+        <card number="1" name="Necrologia"/>
+        <card number="1" name="Corpse Dance"/>
+        <card number="1" name="Ashes to Ashes"/>
+        <card number="1" name="Painful Memories"/>
+    </zone>
+</cockatrice_deck>

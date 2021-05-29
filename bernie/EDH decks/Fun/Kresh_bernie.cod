@@ -93,6 +93,7 @@
         <card number="1" name="Whispersilk Cloak"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="The Great Henge"/>
+        <card number="1" name="The Ozolith"/>
     </zone>
     <zone name="side">
         <card number="1" name="Anger"/>

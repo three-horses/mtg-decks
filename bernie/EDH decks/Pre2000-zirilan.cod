@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Mana Vault"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Gamble"/>
+        <card number="1" name="Altar of Dementia"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Nevinyrral's Disk"/>
+        <card number="1" name="High Market"/>
+        <card number="1" name="Wheel of Fortune"/>
+        <card number="1" name="Goblin Bombardment"/>
+        <card number="1" name="Wasteland"/>
+        <card number="1" name="Fire Diamond"/>
+        <card number="1" name="Lightning Bolt"/>
+        <card number="1" name="Scroll Rack"/>
+        <card number="1" name="Ruby Medallion"/>
+        <card number="1" name="Goblin Welder"/>
+        <card number="1" name="Earthquake"/>
+        <card number="1" name="Voltaic Key"/>
+        <card number="1" name="Goblin Matron"/>
+        <card number="1" name="Imperial Recruiter"/>
+        <card number="1" name="Fervor"/>
+        <card number="1" name="Terrain Generator"/>
+        <card number="1" name="Smoldering Crater"/>
+        <card number="1" name="Junk Diver"/>
+        <card number="1" name="Furnace of Rath"/>
+        <card number="1" name="Squee, Goblin Nabob"/>
+        <card number="1" name="Manakin"/>
+        <card number="1" name="Mishra's Factory"/>
+        <card number="1" name="Fireball"/>
+        <card number="1" name="Erratic Portal"/>
+        <card number="1" name="Viashino Heretic"/>
+        <card number="1" name="Phyrexian Processor"/>
+        <card number="28" name="Mountain"/>
+        <card number="1" name="Thawing Glaciers"/>
+        <card number="1" name="Karn, Silver Golem"/>
+        <card number="1" name="Goblin Offensive"/>
+        <card number="1" name="Shivan Gorge"/>
+        <card number="1" name="Scorched Ruins"/>
+        <card number="1" name="Battle Squadron"/>
+        <card number="1" name="Rishadan Port"/>
+        <card number="1" name="Pillage"/>
+        <card number="1" name="Rolling Thunder"/>
+        <card number="1" name="Fault Line"/>
+        <card number="1" name="Shivan Dragon"/>
+        <card number="1" name="Citanul Flute"/>
+        <card number="1" name="Zirilan of the Claw"/>
+        <card number="1" name="Fanning the Flames"/>
+        <card number="1" name="Avatar of Fury"/>
+        <card number="1" name="Kaervek's Torch"/>
+        <card number="1" name="Dragon Whelp"/>
+        <card number="1" name="Shivan Hellkite"/>
+        <card number="1" name="Two-Headed Dragon"/>
+        <card number="1" name="Artifact Blast"/>
+        <card number="1" name="Shivan Phoenix"/>
+        <card number="1" name="Detonate"/>
+        <card number="1" name="Maraxus of Keld"/>
+        <card number="1" name="Orcish Librarian"/>
+        <card number="1" name="Bogardan Phoenix"/>
+        <card number="1" name="Fire Dragon"/>
+        <card number="1" name="Crimson Hellkite"/>
+        <card number="1" name="Zodiac Dragon"/>
+        <card number="1" name="Gauntlet of Might"/>
+        <card number="1" name="Brimstone Dragon"/>
+        <card number="1" name="Covetous Dragon"/>
+        <card number="1" name="Flowstone Overseer"/>
+        <card number="1" name="Lightning Dragon"/>
+        <card number="1" name="Urza's Incubator"/>
+        <card number="1" name="Grim Monolith"/>
+        <card number="1" name="Belbe's Portal"/>
+        <card number="1" name="Quicksilver Amulet"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Mountain"/>
+        <card number="1" name="Maraxus of Keld"/>
+        <card number="1" name="Coat of Arms"/>
+        <card number="1" name="Defense Grid"/>
+        <card number="1" name="Shock"/>
+        <card number="1" name="Volcanic Geyser"/>
+        <card number="1" name="Rolling Earthquake"/>
+        <card number="1" name="Pyroclasm"/>
+        <card number="1" name="Meltdown"/>
+        <card number="1" name="Flame Wave"/>
+        <card number="1" name="Disintegrate"/>
+        <card number="1" name="Cone of Flame"/>
+        <card number="1" name="Chain Lightning"/>
+        <card number="1" name="War Cadence"/>
+        <card number="1" name="Seismic Assault"/>
+        <card number="1" name="Repercussion"/>
+        <card number="1" name="Manabarbs"/>
+        <card number="1" name="Goblin Warrens"/>
+        <card number="1" name="Su-Chi"/>
+        <card number="1" name="Masticore"/>
+        <card number="1" name="Goblin King"/>
+        <card number="1" name="Goblin General"/>
+        <card number="1" name="Arms Dealer"/>
+        <card number="1" name="Avalanche Riders"/>
+        <card number="1" name="Cathodion"/>
+        <card number="1" name="Zuran Orb"/>
+        <card number="1" name="Teferi's Puzzle Box"/>
+        <card number="1" name="Tangle Wire"/>
+        <card number="1" name="Smokestack"/>
+        <card number="1" name="Predator, Flagship"/>
+        <card number="1" name="Phyrexian Portal"/>
+        <card number="1" name="Mox Diamond"/>
+        <card number="1" name="Howling Mine"/>
+        <card number="1" name="Grindstone"/>
+        <card number="1" name="Jayemdae Tome"/>
+        <card number="1" name="Memory Jar"/>
+        <card number="1" name="Sisay's Ring"/>
+        <card number="1" name="Lu Bu, Master-at-Arms"/>
+        <card number="1" name="Mindless Automaton"/>
+        <card number="1" name="Rock Hydra"/>
+        <card number="1" name="Shard Phoenix"/>
+        <card number="1" name="Triskelion"/>
+        <card number="1" name="Volcanic Dragon"/>
+        <card number="1" name="Metalworker"/>
+        <card number="1" name="Crater Hellion"/>
+        <card number="1" name="Firestorm Phoenix"/>
+        <card number="1" name="Molten Hydra"/>
+        <card number="1" name="Mana Flare"/>
+        <card number="1" name="Sneak Attack"/>
+        <card number="1" name="Relentless Assault"/>
+        <card number="1" name="Hammer of Bogardan"/>
+        <card number="1" name="Builder's Bane"/>
+        <card number="1" name="Winds of Change"/>
+        <card number="1" name="Flowstone Slide"/>
+        <card number="1" name="Heartstone"/>
+        <card number="1" name="Icy Manipulator"/>
+        <card number="1" name="Thundermare"/>
+        <card number="1" name="Pyrokinesis"/>
+        <card number="1" name="Winter Orb"/>
+        <card number="1" name="Aftershock"/>
+        <card number="1" name="Shatterstorm"/>
+        <card number="1" name="Shattering Pulse"/>
+    </zone>
+</cockatrice_deck>
